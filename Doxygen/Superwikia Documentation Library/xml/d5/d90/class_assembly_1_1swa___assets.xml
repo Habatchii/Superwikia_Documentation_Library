@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="d5/d90/class_assembly_1_1swa___assets" kind="class" prot="package">
+    <compoundname>Assembly::swa_Assets</compoundname>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="d5/d90/class_assembly_1_1swa___assets_1a1216707877944b92ded707993159fec3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Assembly.swa_Assets.NewMethod</definition>
+        <argsstring>()</argsstring>
+        <name>NewMethod</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/swa_Assets.cs" line="9" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/swa_Assets.cs" bodystart="9" bodyend="12"/>
+      </memberdef>
+      <memberdef kind="function" id="d5/d90/class_assembly_1_1swa___assets_1a33b8afb5b8f596ecc643f88a891aad83" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Assembly.swa_Assets.swa_Assets</definition>
+        <argsstring>()</argsstring>
+        <name>swa_Assets</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/swa_Assets.cs" line="14" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/swa_Assets.cs" bodystart="14" bodyend="17"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="d5/d90/class_assembly_1_1swa___assets_1ae8b4d3255a239b398cbf8e0896ef0884" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Assembly.swa_Assets.~swa_Assets</definition>
+        <argsstring>()</argsstring>
+        <name>~swa_Assets</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/swa_Assets.cs" line="19" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/swa_Assets.cs" bodystart="19" bodyend="22"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/swa_Assets.cs" line="8" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/swa_Assets.cs" bodystart="7" bodyend="23"/>
+    <listofallmembers>
+      <member refid="d5/d90/class_assembly_1_1swa___assets_1a1216707877944b92ded707993159fec3" prot="public" virt="non-virtual"><scope>Assembly::swa_Assets</scope><name>NewMethod</name></member>
+      <member refid="d5/d90/class_assembly_1_1swa___assets_1a33b8afb5b8f596ecc643f88a891aad83" prot="public" virt="non-virtual"><scope>Assembly::swa_Assets</scope><name>swa_Assets</name></member>
+      <member refid="d5/d90/class_assembly_1_1swa___assets_1ae8b4d3255a239b398cbf8e0896ef0884" prot="private" virt="non-virtual"><scope>Assembly::swa_Assets</scope><name>~swa_Assets</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

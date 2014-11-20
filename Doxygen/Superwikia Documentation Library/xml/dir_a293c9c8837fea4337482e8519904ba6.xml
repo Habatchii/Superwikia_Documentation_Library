@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="dir_a293c9c8837fea4337482e8519904ba6" kind="dir">
+    <compoundname>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup</compoundname>
+    <innerdir refid="dir_78734f90f0a6b7fa29d1e5d4fc1222df">C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Ancilliary Commands</innerdir>
+    <innerdir refid="dir_a63709fc6b70a829731e67ac604269a8">C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup</innerdir>
+    <innerdir refid="dir_748eb535dc43920e7aeaecf1100c2e1e">C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/E-Manual</innerdir>
+    <innerdir refid="dir_5ab98dec25e23d24ee1856f2f4660607">C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Local Ruleset Shells</innerdir>
+    <innerdir refid="dir_401523cc11330d87c9bee5111f14fc87">C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Policies (RAIR)</innerdir>
+    <innerdir refid="dir_2434d75d4fef34ff73cfdf545b4780dd">C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/SuperWikia Content Inventory Assembly</innerdir>
+    <innerdir refid="dir_0215d00092580a48c0a3d4ac39cc372e">C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/SWA Apocolypia</innerdir>
+    <innerdir refid="dir_8b26535e95e8c390afe217a7d0303bdf">C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Transcribe Variables</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/"/>
+  </compounddef>
+</doxygen>

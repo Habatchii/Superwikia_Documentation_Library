@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="d1/d2a/struct_shells_1_1_local___ruleset" kind="struct" prot="package">
+    <compoundname>Shells::Local_Ruleset</compoundname>
+      <sectiondef kind="event">
+      <memberdef kind="event" id="d1/d2a/struct_shells_1_1_local___ruleset_1a9fa824cb070ad9ea106be8c58e0f2fcc" prot="public" static="no" add="no" remove="no" raise="no">
+        <type>EventHandler</type>
+        <definition>EventHandler Shells.Local_Ruleset.NewEvent</definition>
+        <argsstring></argsstring>
+        <name>NewEvent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Local Ruleset Shells/Local_Ruleset.cs" line="14" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Local Ruleset Shells/Local_Ruleset.cs" bodystart="14" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="d1/d2a/struct_shells_1_1_local___ruleset_1ae5c6341a79a2ea2408196b7dd38f01e8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Shells.Local_Ruleset.Local_Ruleset</definition>
+        <argsstring>()</argsstring>
+        <name>Local_Ruleset</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Local Ruleset Shells/Local_Ruleset.cs" line="9" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Local Ruleset Shells/Local_Ruleset.cs" bodystart="9" bodyend="12"/>
+      </memberdef>
+      <memberdef kind="function" id="d1/d2a/struct_shells_1_1_local___ruleset_1ac6e3993021626492110b372dc4256a17" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Shells.Local_Ruleset.NewMethod</definition>
+        <argsstring>()</argsstring>
+        <name>NewMethod</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Local Ruleset Shells/Local_Ruleset.cs" line="16" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Local Ruleset Shells/Local_Ruleset.cs" bodystart="16" bodyend="19"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Local Ruleset Shells/Local_Ruleset.cs" line="8" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Local Ruleset Shells/Local_Ruleset.cs" bodystart="7" bodyend="20"/>
+    <listofallmembers>
+      <member refid="d1/d2a/struct_shells_1_1_local___ruleset_1ae5c6341a79a2ea2408196b7dd38f01e8" prot="public" virt="non-virtual"><scope>Shells::Local_Ruleset</scope><name>Local_Ruleset</name></member>
+      <member refid="d1/d2a/struct_shells_1_1_local___ruleset_1a9fa824cb070ad9ea106be8c58e0f2fcc" prot="public" virt="non-virtual"><scope>Shells::Local_Ruleset</scope><name>NewEvent</name></member>
+      <member refid="d1/d2a/struct_shells_1_1_local___ruleset_1ac6e3993021626492110b372dc4256a17" prot="public" virt="non-virtual"><scope>Shells::Local_Ruleset</scope><name>NewMethod</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

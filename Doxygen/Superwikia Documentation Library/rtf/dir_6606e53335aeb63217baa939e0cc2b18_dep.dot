@@ -1,0 +1,9 @@
+digraph "Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/SWA Apocolypia" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_112d5142b4f05e8052401605fb977884 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="Superwikia Documentation Library" fontname="Helvetica", fontsize="10", URL="dir_112d5142b4f05e8052401605fb977884.html"]
+  dir_6606e53335aeb63217baa939e0cc2b18 [shape=box, label="SWA Apocolypia", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_6606e53335aeb63217baa939e0cc2b18.html"];
+  }
+}

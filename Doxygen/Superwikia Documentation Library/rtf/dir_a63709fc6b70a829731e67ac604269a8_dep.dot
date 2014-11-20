@@ -1,0 +1,19 @@
+digraph "Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_a293c9c8837fea4337482e8519904ba6 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="Backup" fontname="Helvetica", fontsize="10", URL="dir_a293c9c8837fea4337482e8519904ba6.html"]
+  subgraph clusterdir_a63709fc6b70a829731e67ac604269a8 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_a63709fc6b70a829731e67ac604269a8.html"];
+    dir_a63709fc6b70a829731e67ac604269a8 [shape=plaintext label="Backup"];
+    dir_ecc546855ab91c3607d48c29c5987614 [shape=box label="Ancilliary Commands" color="black" fillcolor="white" style="filled" URL="dir_ecc546855ab91c3607d48c29c5987614.html"];
+    dir_1bf1ea05e7ed0213ce9aaeedf53b5b71 [shape=box label="E-Manual" color="black" fillcolor="white" style="filled" URL="dir_1bf1ea05e7ed0213ce9aaeedf53b5b71.html"];
+    dir_765cf5d183ea7eab9464b40632be7016 [shape=box label="Local Ruleset Shells" color="black" fillcolor="white" style="filled" URL="dir_765cf5d183ea7eab9464b40632be7016.html"];
+    dir_67ddb403a9068c2c11ef736e4cad5531 [shape=box label="Policies (RAIR)" color="black" fillcolor="white" style="filled" URL="dir_67ddb403a9068c2c11ef736e4cad5531.html"];
+    dir_39a565d4c09fe3981a38ed7ecbd31dc8 [shape=box label="SuperWikia Content Inventory Assembly" color="black" fillcolor="white" style="filled" URL="dir_39a565d4c09fe3981a38ed7ecbd31dc8.html"];
+    dir_3138b5f9c937ac27c2e2656acf6a68a4 [shape=box label="SWA Apocolypia" color="black" fillcolor="white" style="filled" URL="dir_3138b5f9c937ac27c2e2656acf6a68a4.html"];
+    dir_2f8596a7e65fc0e101f3f7d1ca80c805 [shape=box label="Transcribe Variables" color="black" fillcolor="white" style="filled" URL="dir_2f8596a7e65fc0e101f3f7d1ca80c805.html"];
+  }
+  }
+}

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="d3/d6c/class_variables_1_1swa___serial_vari" kind="class" prot="package">
+    <compoundname>Variables::swa_SerialVari</compoundname>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="d3/d6c/class_variables_1_1swa___serial_vari_1a387e7c92b53a90d492bd4dd350ae2bb5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Variables.swa_SerialVari.NewMethod</definition>
+        <argsstring>()</argsstring>
+        <name>NewMethod</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_SerialVari.cs" line="9" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_SerialVari.cs" bodystart="9" bodyend="12"/>
+      </memberdef>
+      <memberdef kind="function" id="d3/d6c/class_variables_1_1swa___serial_vari_1a40cb32af77a2c4d9fb8a7b2f2dd60397" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Variables.swa_SerialVari.swa_SerialVari</definition>
+        <argsstring>()</argsstring>
+        <name>swa_SerialVari</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_SerialVari.cs" line="14" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_SerialVari.cs" bodystart="14" bodyend="17"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="d3/d6c/class_variables_1_1swa___serial_vari_1aa95a2df9bd004eb3c14d5aef1fd3097d" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Variables.swa_SerialVari.~swa_SerialVari</definition>
+        <argsstring>()</argsstring>
+        <name>~swa_SerialVari</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_SerialVari.cs" line="19" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_SerialVari.cs" bodystart="19" bodyend="22"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_SerialVari.cs" line="8" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_SerialVari.cs" bodystart="7" bodyend="23"/>
+    <listofallmembers>
+      <member refid="d3/d6c/class_variables_1_1swa___serial_vari_1a387e7c92b53a90d492bd4dd350ae2bb5" prot="public" virt="non-virtual"><scope>Variables::swa_SerialVari</scope><name>NewMethod</name></member>
+      <member refid="d3/d6c/class_variables_1_1swa___serial_vari_1a40cb32af77a2c4d9fb8a7b2f2dd60397" prot="public" virt="non-virtual"><scope>Variables::swa_SerialVari</scope><name>swa_SerialVari</name></member>
+      <member refid="d3/d6c/class_variables_1_1swa___serial_vari_1aa95a2df9bd004eb3c14d5aef1fd3097d" prot="private" virt="non-virtual"><scope>Variables::swa_SerialVari</scope><name>~swa_SerialVari</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

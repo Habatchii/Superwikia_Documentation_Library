@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="d6/d3a/namespace_apocolypia" kind="namespace">
+    <compoundname>Apocolypia</compoundname>
+    <innerclass refid="da/de6/class_apocolypia_1_1sup___a_r_g_u_m_e_n_t__" prot="package">Apocolypia::sup_ARGUMENT_</innerclass>
+    <innerclass refid="db/da3/class_apocolypia_1_1sup___b_a_d_e_l_r_e_n_d_e_r__" prot="package">Apocolypia::sup_BADELRENDER_</innerclass>
+    <innerclass refid="d2/d6c/class_apocolypia_1_1sup___d_e_m_o_n_s_t_r_a_t_i_v_e__" prot="package">Apocolypia::sup_DEMONSTRATIVE_</innerclass>
+    <innerclass refid="db/d54/class_apocolypia_1_1sup___n_e_v_e_r__" prot="package">Apocolypia::sup_NEVER_</innerclass>
+    <innerclass refid="d1/d0e/class_apocolypia_1_1sup___n_o_n_s_u_i_t__" prot="package">Apocolypia::sup_NONSUIT_</innerclass>
+    <innerclass refid="dc/ddc/class_apocolypia_1_1sup___o_v_e_r_h_e_a_d__" prot="package">Apocolypia::sup_OVERHEAD_</innerclass>
+    <innerclass refid="d1/d79/class_apocolypia_1_1sup___r_e_d_u_n_d_a_n_c_y__" prot="package">Apocolypia::sup_REDUNDANCY_</innerclass>
+    <innerclass refid="d1/d37/struct_apocolypia_1_1_s_w_a___apocolypia" prot="package">Apocolypia::SWA_Apocolypia</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SWA Apocolypia/sup_ARGUMENT_.cs" line="6" column="1"/>
+  </compounddef>
+</doxygen>

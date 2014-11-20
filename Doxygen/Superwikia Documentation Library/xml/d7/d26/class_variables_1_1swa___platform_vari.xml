@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="d7/d26/class_variables_1_1swa___platform_vari" kind="class" prot="package">
+    <compoundname>Variables::swa_PlatformVari</compoundname>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="d7/d26/class_variables_1_1swa___platform_vari_1a9e3eb268578a52d2e5daecdcacbacb31" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Variables.swa_PlatformVari.NewMethod</definition>
+        <argsstring>()</argsstring>
+        <name>NewMethod</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_PlatformVari.cs" line="9" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_PlatformVari.cs" bodystart="9" bodyend="12"/>
+      </memberdef>
+      <memberdef kind="function" id="d7/d26/class_variables_1_1swa___platform_vari_1a2934bb3ac14940d906b8152db9cd7e36" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Variables.swa_PlatformVari.swa_PlatformVari</definition>
+        <argsstring>()</argsstring>
+        <name>swa_PlatformVari</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_PlatformVari.cs" line="14" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_PlatformVari.cs" bodystart="14" bodyend="17"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="d7/d26/class_variables_1_1swa___platform_vari_1a9841a27c9485fe592ef17fbe06272fab" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Variables.swa_PlatformVari.~swa_PlatformVari</definition>
+        <argsstring>()</argsstring>
+        <name>~swa_PlatformVari</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_PlatformVari.cs" line="19" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_PlatformVari.cs" bodystart="19" bodyend="22"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_PlatformVari.cs" line="8" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_PlatformVari.cs" bodystart="7" bodyend="23"/>
+    <listofallmembers>
+      <member refid="d7/d26/class_variables_1_1swa___platform_vari_1a9e3eb268578a52d2e5daecdcacbacb31" prot="public" virt="non-virtual"><scope>Variables::swa_PlatformVari</scope><name>NewMethod</name></member>
+      <member refid="d7/d26/class_variables_1_1swa___platform_vari_1a2934bb3ac14940d906b8152db9cd7e36" prot="public" virt="non-virtual"><scope>Variables::swa_PlatformVari</scope><name>swa_PlatformVari</name></member>
+      <member refid="d7/d26/class_variables_1_1swa___platform_vari_1a9841a27c9485fe592ef17fbe06272fab" prot="private" virt="non-virtual"><scope>Variables::swa_PlatformVari</scope><name>~swa_PlatformVari</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

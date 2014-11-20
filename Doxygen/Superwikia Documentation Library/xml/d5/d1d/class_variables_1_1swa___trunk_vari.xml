@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="d5/d1d/class_variables_1_1swa___trunk_vari" kind="class" prot="package">
+    <compoundname>Variables::swa_TrunkVari</compoundname>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="d5/d1d/class_variables_1_1swa___trunk_vari_1a4874fbe9e97281e6cc6613acd266128d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Variables.swa_TrunkVari.NewMethod</definition>
+        <argsstring>()</argsstring>
+        <name>NewMethod</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_TrunkVari.cs" line="9" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_TrunkVari.cs" bodystart="9" bodyend="12"/>
+      </memberdef>
+      <memberdef kind="function" id="d5/d1d/class_variables_1_1swa___trunk_vari_1a70959405edf8c53821d241613ca7bb59" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Variables.swa_TrunkVari.swa_TrunkVari</definition>
+        <argsstring>()</argsstring>
+        <name>swa_TrunkVari</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_TrunkVari.cs" line="14" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_TrunkVari.cs" bodystart="14" bodyend="17"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="d5/d1d/class_variables_1_1swa___trunk_vari_1ac10a4e6e1faaf4ed236d1db79234fdc1" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Variables.swa_TrunkVari.~swa_TrunkVari</definition>
+        <argsstring>()</argsstring>
+        <name>~swa_TrunkVari</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_TrunkVari.cs" line="19" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_TrunkVari.cs" bodystart="19" bodyend="22"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_TrunkVari.cs" line="8" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_TrunkVari.cs" bodystart="7" bodyend="23"/>
+    <listofallmembers>
+      <member refid="d5/d1d/class_variables_1_1swa___trunk_vari_1a4874fbe9e97281e6cc6613acd266128d" prot="public" virt="non-virtual"><scope>Variables::swa_TrunkVari</scope><name>NewMethod</name></member>
+      <member refid="d5/d1d/class_variables_1_1swa___trunk_vari_1a70959405edf8c53821d241613ca7bb59" prot="public" virt="non-virtual"><scope>Variables::swa_TrunkVari</scope><name>swa_TrunkVari</name></member>
+      <member refid="d5/d1d/class_variables_1_1swa___trunk_vari_1ac10a4e6e1faaf4ed236d1db79234fdc1" prot="private" virt="non-virtual"><scope>Variables::swa_TrunkVari</scope><name>~swa_TrunkVari</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

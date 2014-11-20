@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="d8/d50/class_manual_1_1eman___l_e_s_s_o_n_s__" kind="class" prot="package">
+    <compoundname>Manual::eman_LESSONS_</compoundname>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="d8/d50/class_manual_1_1eman___l_e_s_s_o_n_s___1a6655b6ce783a5ff32f53623dc67d3895" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Manual.eman_LESSONS_.NewMethod</definition>
+        <argsstring>()</argsstring>
+        <name>NewMethod</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/E-Manual/eman_LESSONS_.cs" line="9" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/E-Manual/eman_LESSONS_.cs" bodystart="9" bodyend="12"/>
+      </memberdef>
+      <memberdef kind="function" id="d8/d50/class_manual_1_1eman___l_e_s_s_o_n_s___1ac569d2b9177abf807a1c422fb1e25a95" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Manual.eman_LESSONS_.~eman_LESSONS_</definition>
+        <argsstring>()</argsstring>
+        <name>~eman_LESSONS_</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/E-Manual/eman_LESSONS_.cs" line="19" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/E-Manual/eman_LESSONS_.cs" bodystart="19" bodyend="22"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="d8/d50/class_manual_1_1eman___l_e_s_s_o_n_s___1a9844c08dddc2530abc68b221c4b400bc" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Manual.eman_LESSONS_.eman_LESSONS_</definition>
+        <argsstring>()</argsstring>
+        <name>eman_LESSONS_</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/E-Manual/eman_LESSONS_.cs" line="14" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/E-Manual/eman_LESSONS_.cs" bodystart="14" bodyend="17"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/E-Manual/eman_LESSONS_.cs" line="8" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/E-Manual/eman_LESSONS_.cs" bodystart="7" bodyend="23"/>
+    <listofallmembers>
+      <member refid="d8/d50/class_manual_1_1eman___l_e_s_s_o_n_s___1a9844c08dddc2530abc68b221c4b400bc" prot="public" virt="non-virtual"><scope>Manual::eman_LESSONS_</scope><name>eman_LESSONS_</name></member>
+      <member refid="d8/d50/class_manual_1_1eman___l_e_s_s_o_n_s___1a6655b6ce783a5ff32f53623dc67d3895" prot="private" virt="non-virtual"><scope>Manual::eman_LESSONS_</scope><name>NewMethod</name></member>
+      <member refid="d8/d50/class_manual_1_1eman___l_e_s_s_o_n_s___1ac569d2b9177abf807a1c422fb1e25a95" prot="private" virt="non-virtual"><scope>Manual::eman_LESSONS_</scope><name>~eman_LESSONS_</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

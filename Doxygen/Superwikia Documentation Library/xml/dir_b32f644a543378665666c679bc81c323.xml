@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="dir_b32f644a543378665666c679bc81c323" kind="dir">
+    <compoundname>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Local Ruleset Shells</compoundname>
+    <innerfile refid="d8/d7c/_local_01_ruleset_01_shells_2local___a_n_c_i_l_l_i_a_r_y___8cs">local_ANCILLIARY_.cs</innerfile>
+    <innerfile refid="de/d63/_local_01_ruleset_01_shells_2local___e_n_v_i_r_o_n_m_e_n_t___8cs">local_ENVIRONMENT_.cs</innerfile>
+    <innerfile refid="d8/d71/_local_01_ruleset_01_shells_2local___l_a_y_e_r_i_n_g___8cs">local_LAYERING_.cs</innerfile>
+    <innerfile refid="d4/d25/_local_01_ruleset_01_shells_2local___p_a_c_k_a_g_i_n_g___8cs">local_PACKAGING_.cs</innerfile>
+    <innerfile refid="dc/d67/_local_01_ruleset_01_shells_2_local___ruleset_8cs">Local_Ruleset.cs</innerfile>
+    <innerfile refid="d1/dcb/_local_01_ruleset_01_shells_2local___s_t_a_t_i_o_n_a_r_y___8cs">local_STATIONARY_.cs</innerfile>
+    <innerfile refid="d5/dd4/_local_01_ruleset_01_shells_2local___s_u_p_e_r_c_l_u_s_t_e_r___8cs">local_SUPERCLUSTER_.cs</innerfile>
+    <innerfile refid="da/dff/_local_01_ruleset_01_shells_2local___t_r_a_n_s_c_o_m___8cs">local_TRANSCOM_.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Local Ruleset Shells/"/>
+  </compounddef>
+</doxygen>

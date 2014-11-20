@@ -1,0 +1,21 @@
+digraph "Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_7439a56fb14a77c8004dc3ef7118cf6a {
+    graph [ bgcolor="#ddddee", pencolor="black", label="Superwikia-Documentation-Library" fontname="Helvetica", fontsize="10", URL="dir_7439a56fb14a77c8004dc3ef7118cf6a.html"]
+  subgraph clusterdir_112d5142b4f05e8052401605fb977884 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_112d5142b4f05e8052401605fb977884.html"];
+    dir_112d5142b4f05e8052401605fb977884 [shape=plaintext label="Superwikia Documentation Library"];
+    dir_9a88e6c6e511321b4b7e3c897a626bee [shape=box label="Ancilliary Commands" color="black" fillcolor="white" style="filled" URL="dir_9a88e6c6e511321b4b7e3c897a626bee.html"];
+    dir_a293c9c8837fea4337482e8519904ba6 [shape=box label="Backup" color="red" fillcolor="white" style="filled" URL="dir_a293c9c8837fea4337482e8519904ba6.html"];
+    dir_4a46222882ee1b51a3f0f8e3fc2c6668 [shape=box label="E-Manual" color="black" fillcolor="white" style="filled" URL="dir_4a46222882ee1b51a3f0f8e3fc2c6668.html"];
+    dir_b32f644a543378665666c679bc81c323 [shape=box label="Local Ruleset Shells" color="black" fillcolor="white" style="filled" URL="dir_b32f644a543378665666c679bc81c323.html"];
+    dir_14f26d0973abaf881036b0b3c02ce968 [shape=box label="Policies (RAIR)" color="black" fillcolor="white" style="filled" URL="dir_14f26d0973abaf881036b0b3c02ce968.html"];
+    dir_466c712a54d00c9cae4ee01a0f883a50 [shape=box label="S-Terminal" color="red" fillcolor="white" style="filled" URL="dir_466c712a54d00c9cae4ee01a0f883a50.html"];
+    dir_bf743eca39512d2c620107df767b5f55 [shape=box label="SuperWikia Content Inventory Assembly" color="black" fillcolor="white" style="filled" URL="dir_bf743eca39512d2c620107df767b5f55.html"];
+    dir_6606e53335aeb63217baa939e0cc2b18 [shape=box label="SWA Apocolypia" color="black" fillcolor="white" style="filled" URL="dir_6606e53335aeb63217baa939e0cc2b18.html"];
+    dir_b749df33a0d73f075b41378e17b2fe66 [shape=box label="Transcribe Variables" color="black" fillcolor="white" style="filled" URL="dir_b749df33a0d73f075b41378e17b2fe66.html"];
+  }
+  }
+}

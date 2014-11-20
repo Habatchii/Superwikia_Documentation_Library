@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="db/d54/class_apocolypia_1_1sup___n_e_v_e_r__" kind="class" prot="package">
+    <compoundname>Apocolypia::sup_NEVER_</compoundname>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="db/d54/class_apocolypia_1_1sup___n_e_v_e_r___1a3da90147a9a137d91500b63c72cad43a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Apocolypia.sup_NEVER_.NewMethod</definition>
+        <argsstring>()</argsstring>
+        <name>NewMethod</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SWA Apocolypia/sup_NEVER_.cs" line="9" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SWA Apocolypia/sup_NEVER_.cs" bodystart="9" bodyend="12"/>
+      </memberdef>
+      <memberdef kind="function" id="db/d54/class_apocolypia_1_1sup___n_e_v_e_r___1a4e211bdb356ff1818bdbaede262738e0" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Apocolypia.sup_NEVER_.sup_NEVER_</definition>
+        <argsstring>()</argsstring>
+        <name>sup_NEVER_</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SWA Apocolypia/sup_NEVER_.cs" line="14" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SWA Apocolypia/sup_NEVER_.cs" bodystart="14" bodyend="17"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="db/d54/class_apocolypia_1_1sup___n_e_v_e_r___1ac1ab64a9b72b7c808855f7b627cb4cd2" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Apocolypia.sup_NEVER_.~sup_NEVER_</definition>
+        <argsstring>()</argsstring>
+        <name>~sup_NEVER_</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SWA Apocolypia/sup_NEVER_.cs" line="19" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SWA Apocolypia/sup_NEVER_.cs" bodystart="19" bodyend="22"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SWA Apocolypia/sup_NEVER_.cs" line="8" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SWA Apocolypia/sup_NEVER_.cs" bodystart="7" bodyend="23"/>
+    <listofallmembers>
+      <member refid="db/d54/class_apocolypia_1_1sup___n_e_v_e_r___1a3da90147a9a137d91500b63c72cad43a" prot="public" virt="non-virtual"><scope>Apocolypia::sup_NEVER_</scope><name>NewMethod</name></member>
+      <member refid="db/d54/class_apocolypia_1_1sup___n_e_v_e_r___1a4e211bdb356ff1818bdbaede262738e0" prot="public" virt="non-virtual"><scope>Apocolypia::sup_NEVER_</scope><name>sup_NEVER_</name></member>
+      <member refid="db/d54/class_apocolypia_1_1sup___n_e_v_e_r___1ac1ab64a9b72b7c808855f7b627cb4cd2" prot="private" virt="non-virtual"><scope>Apocolypia::sup_NEVER_</scope><name>~sup_NEVER_</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

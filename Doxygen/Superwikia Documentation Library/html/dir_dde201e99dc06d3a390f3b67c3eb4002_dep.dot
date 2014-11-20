@@ -1,0 +1,9 @@
+digraph "Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/S-Terminal/S-Terminal/obj/Debug" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_05a57bb97cf12075561ef238cd3d39fd {
+    graph [ bgcolor="#ddddee", pencolor="black", label="obj" fontname="Helvetica", fontsize="10", URL="dir_05a57bb97cf12075561ef238cd3d39fd.html"]
+  dir_dde201e99dc06d3a390f3b67c3eb4002 [shape=box, label="Debug", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_dde201e99dc06d3a390f3b67c3eb4002.html"];
+  }
+}

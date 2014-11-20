@@ -1,0 +1,10 @@
+digraph "Superwikia-Alpha-Codebase" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_abb85f728e7f8f1d0a345892cc77a7bd {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_abb85f728e7f8f1d0a345892cc77a7bd.html"];
+    dir_abb85f728e7f8f1d0a345892cc77a7bd [shape=plaintext label="Superwikia-Alpha-Codebase"];
+    dir_7439a56fb14a77c8004dc3ef7118cf6a [shape=box label="Superwikia-Documentation-Library" color="red" fillcolor="white" style="filled" URL="dir_7439a56fb14a77c8004dc3ef7118cf6a.html"];
+  }
+}

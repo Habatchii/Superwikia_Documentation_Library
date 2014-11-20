@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="da/d52/class_assembly_1_1swa___s_p_a_c_e" kind="class" prot="package">
+    <compoundname>Assembly::swa_SPACE</compoundname>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="da/d52/class_assembly_1_1swa___s_p_a_c_e_1ab305bb28b6c5f07a8e2da860de9ad057" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Assembly.swa_SPACE.NewMethod</definition>
+        <argsstring>()</argsstring>
+        <name>NewMethod</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/swa_SPACE.cs" line="9" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/swa_SPACE.cs" bodystart="9" bodyend="12"/>
+      </memberdef>
+      <memberdef kind="function" id="da/d52/class_assembly_1_1swa___s_p_a_c_e_1a29b6ab2801ab4b5a2180a1adf2de864f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Assembly.swa_SPACE.swa_SPACE</definition>
+        <argsstring>()</argsstring>
+        <name>swa_SPACE</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/swa_SPACE.cs" line="14" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/swa_SPACE.cs" bodystart="14" bodyend="17"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="da/d52/class_assembly_1_1swa___s_p_a_c_e_1a5f1ea8a58e28716a5424b8731624e6ff" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Assembly.swa_SPACE.~swa_SPACE</definition>
+        <argsstring>()</argsstring>
+        <name>~swa_SPACE</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/swa_SPACE.cs" line="19" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/swa_SPACE.cs" bodystart="19" bodyend="22"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/swa_SPACE.cs" line="8" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/swa_SPACE.cs" bodystart="7" bodyend="23"/>
+    <listofallmembers>
+      <member refid="da/d52/class_assembly_1_1swa___s_p_a_c_e_1ab305bb28b6c5f07a8e2da860de9ad057" prot="public" virt="non-virtual"><scope>Assembly::swa_SPACE</scope><name>NewMethod</name></member>
+      <member refid="da/d52/class_assembly_1_1swa___s_p_a_c_e_1a29b6ab2801ab4b5a2180a1adf2de864f" prot="public" virt="non-virtual"><scope>Assembly::swa_SPACE</scope><name>swa_SPACE</name></member>
+      <member refid="da/d52/class_assembly_1_1swa___s_p_a_c_e_1a5f1ea8a58e28716a5424b8731624e6ff" prot="private" virt="non-virtual"><scope>Assembly::swa_SPACE</scope><name>~swa_SPACE</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

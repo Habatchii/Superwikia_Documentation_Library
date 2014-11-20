@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="dc/d5d/namespace_commands" kind="namespace">
+    <compoundname>Commands</compoundname>
+    <innerclass refid="d6/d59/struct_commands_1_1_ancilliary___commands" prot="package">Commands::Ancilliary_Commands</innerclass>
+    <innerclass refid="d7/d1c/class_commands_1_1badel___c_o_m_m_a_n_d__alpha1to" prot="package">Commands::badel_COMMAND_alpha1to</innerclass>
+    <innerclass refid="d3/d6a/class_commands_1_1badel___c_o_m_m_a_n_d__bail" prot="package">Commands::badel_COMMAND_bail</innerclass>
+    <innerclass refid="d4/df7/class_commands_1_1badel___c_o_m_m_a_n_d__diagnose" prot="package">Commands::badel_COMMAND_diagnose</innerclass>
+    <innerclass refid="d3/d40/class_commands_1_1badel___c_o_m_m_a_n_d__nameuser" prot="package">Commands::badel_COMMAND_nameuser</innerclass>
+    <innerclass refid="d0/d83/class_commands_1_1badel___c_o_m_m_a_n_d__next" prot="package">Commands::badel_COMMAND_next</innerclass>
+    <innerclass refid="d5/d0c/class_commands_1_1badel___c_o_m_m_a_n_d__overhead" prot="package">Commands::badel_COMMAND_overhead</innerclass>
+    <innerclass refid="de/d32/class_commands_1_1badel___c_o_m_m_a_n_d__reclassify" prot="package">Commands::badel_COMMAND_reclassify</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Ancilliary Commands/Ancilliary_Commands.cs" line="6" column="1"/>
+  </compounddef>
+</doxygen>

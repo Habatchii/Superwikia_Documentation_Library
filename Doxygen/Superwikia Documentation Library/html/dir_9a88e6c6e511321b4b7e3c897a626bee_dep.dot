@@ -1,0 +1,9 @@
+digraph "Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Ancilliary Commands" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_112d5142b4f05e8052401605fb977884 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="Superwikia Documentation Library" fontname="Helvetica", fontsize="10", URL="dir_112d5142b4f05e8052401605fb977884.html"]
+  dir_9a88e6c6e511321b4b7e3c897a626bee [shape=box, label="Ancilliary Commands", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_9a88e6c6e511321b4b7e3c897a626bee.html"];
+  }
+}

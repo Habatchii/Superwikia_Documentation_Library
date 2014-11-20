@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="d0/d3a/class_variables_1_1swa___lexicon_vari" kind="class" prot="package">
+    <compoundname>Variables::swa_LexiconVari</compoundname>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="d0/d3a/class_variables_1_1swa___lexicon_vari_1a69ce87f5e6f41f3b0db00d0726f38e9d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Variables.swa_LexiconVari.NewMethod</definition>
+        <argsstring>()</argsstring>
+        <name>NewMethod</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_LexiconVari.cs" line="9" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_LexiconVari.cs" bodystart="9" bodyend="12"/>
+      </memberdef>
+      <memberdef kind="function" id="d0/d3a/class_variables_1_1swa___lexicon_vari_1a371132be7409e5edf99c67a942adf940" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Variables.swa_LexiconVari.swa_LexiconVari</definition>
+        <argsstring>()</argsstring>
+        <name>swa_LexiconVari</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_LexiconVari.cs" line="14" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_LexiconVari.cs" bodystart="14" bodyend="17"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="d0/d3a/class_variables_1_1swa___lexicon_vari_1ad89a6dd617e2875c1f4f4a3c065eef82" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Variables.swa_LexiconVari.~swa_LexiconVari</definition>
+        <argsstring>()</argsstring>
+        <name>~swa_LexiconVari</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_LexiconVari.cs" line="19" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_LexiconVari.cs" bodystart="19" bodyend="22"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_LexiconVari.cs" line="8" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_LexiconVari.cs" bodystart="7" bodyend="23"/>
+    <listofallmembers>
+      <member refid="d0/d3a/class_variables_1_1swa___lexicon_vari_1a69ce87f5e6f41f3b0db00d0726f38e9d" prot="public" virt="non-virtual"><scope>Variables::swa_LexiconVari</scope><name>NewMethod</name></member>
+      <member refid="d0/d3a/class_variables_1_1swa___lexicon_vari_1a371132be7409e5edf99c67a942adf940" prot="public" virt="non-virtual"><scope>Variables::swa_LexiconVari</scope><name>swa_LexiconVari</name></member>
+      <member refid="d0/d3a/class_variables_1_1swa___lexicon_vari_1ad89a6dd617e2875c1f4f4a3c065eef82" prot="private" virt="non-virtual"><scope>Variables::swa_LexiconVari</scope><name>~swa_LexiconVari</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

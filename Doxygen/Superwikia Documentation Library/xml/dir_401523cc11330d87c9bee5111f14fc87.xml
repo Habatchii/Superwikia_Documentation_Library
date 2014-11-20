@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="dir_401523cc11330d87c9bee5111f14fc87" kind="dir">
+    <compoundname>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Policies (RAIR)</compoundname>
+    <innerfile refid="dc/d88/_backup_2_policies_01_07_r_a_i_r_08_2_policies___r_a_i_r_8cs">Policies_RAIR.cs</innerfile>
+    <innerfile refid="d1/d66/_backup_2_policies_01_07_r_a_i_r_08_2policy___a_c_t_o_r__rair_8cs">policy_ACTOR_rair.cs</innerfile>
+    <innerfile refid="d4/da1/_backup_2_policies_01_07_r_a_i_r_08_2policy___b_a_c_k_u_p__rair_8cs">policy_BACKUP_rair.cs</innerfile>
+    <innerfile refid="d0/db3/_backup_2_policies_01_07_r_a_i_r_08_2policy___d_e_s_t_r_u_c_t_o_r__rair_8cs">policy_DESTRUCTOR_rair.cs</innerfile>
+    <innerfile refid="d0/ddf/_backup_2_policies_01_07_r_a_i_r_08_2policy___n_e_x_t_s_t_a_g_e__rair_8cs">policy_NEXTSTAGE_rair.cs</innerfile>
+    <innerfile refid="d4/dc6/_backup_2_policies_01_07_r_a_i_r_08_2policy___n_o_r_m_a_l__rair_8cs">policy_NORMAL_rair.cs</innerfile>
+    <innerfile refid="de/d14/_backup_2_policies_01_07_r_a_i_r_08_2policy___o_c_c_u_p_i_e_r__rair_8cs">policy_OCCUPIER_rair.cs</innerfile>
+    <innerfile refid="d2/d1f/_backup_2_policies_01_07_r_a_i_r_08_2policy___r_e_a_c_t_o_r__rair_8cs">policy_REACTOR_rair.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Policies (RAIR)/"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,13 @@
+digraph "Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/S-Terminal" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_112d5142b4f05e8052401605fb977884 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="Superwikia Documentation Library" fontname="Helvetica", fontsize="10", URL="dir_112d5142b4f05e8052401605fb977884.html"]
+  subgraph clusterdir_466c712a54d00c9cae4ee01a0f883a50 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_466c712a54d00c9cae4ee01a0f883a50.html"];
+    dir_466c712a54d00c9cae4ee01a0f883a50 [shape=plaintext label="S-Terminal"];
+    dir_3950fc17c8ac0cbe80bd42f84bea7d9a [shape=box label="S-Terminal" color="red" fillcolor="white" style="filled" URL="dir_3950fc17c8ac0cbe80bd42f84bea7d9a.html"];
+  }
+  }
+}

@@ -1,0 +1,20 @@
+digraph "Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_112d5142b4f05e8052401605fb977884 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="Superwikia Documentation Library" fontname="Helvetica", fontsize="10", URL="dir_112d5142b4f05e8052401605fb977884.html"]
+  subgraph clusterdir_a293c9c8837fea4337482e8519904ba6 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_a293c9c8837fea4337482e8519904ba6.html"];
+    dir_a293c9c8837fea4337482e8519904ba6 [shape=plaintext label="Backup"];
+    dir_78734f90f0a6b7fa29d1e5d4fc1222df [shape=box label="Ancilliary Commands" color="black" fillcolor="white" style="filled" URL="dir_78734f90f0a6b7fa29d1e5d4fc1222df.html"];
+    dir_a63709fc6b70a829731e67ac604269a8 [shape=box label="Backup" color="red" fillcolor="white" style="filled" URL="dir_a63709fc6b70a829731e67ac604269a8.html"];
+    dir_748eb535dc43920e7aeaecf1100c2e1e [shape=box label="E-Manual" color="black" fillcolor="white" style="filled" URL="dir_748eb535dc43920e7aeaecf1100c2e1e.html"];
+    dir_5ab98dec25e23d24ee1856f2f4660607 [shape=box label="Local Ruleset Shells" color="black" fillcolor="white" style="filled" URL="dir_5ab98dec25e23d24ee1856f2f4660607.html"];
+    dir_401523cc11330d87c9bee5111f14fc87 [shape=box label="Policies (RAIR)" color="black" fillcolor="white" style="filled" URL="dir_401523cc11330d87c9bee5111f14fc87.html"];
+    dir_2434d75d4fef34ff73cfdf545b4780dd [shape=box label="SuperWikia Content Inventory Assembly" color="black" fillcolor="white" style="filled" URL="dir_2434d75d4fef34ff73cfdf545b4780dd.html"];
+    dir_0215d00092580a48c0a3d4ac39cc372e [shape=box label="SWA Apocolypia" color="black" fillcolor="white" style="filled" URL="dir_0215d00092580a48c0a3d4ac39cc372e.html"];
+    dir_8b26535e95e8c390afe217a7d0303bdf [shape=box label="Transcribe Variables" color="black" fillcolor="white" style="filled" URL="dir_8b26535e95e8c390afe217a7d0303bdf.html"];
+  }
+  }
+}

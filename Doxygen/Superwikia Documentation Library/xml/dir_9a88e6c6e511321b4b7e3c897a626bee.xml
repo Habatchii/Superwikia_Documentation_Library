@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="dir_9a88e6c6e511321b4b7e3c897a626bee" kind="dir">
+    <compoundname>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Ancilliary Commands</compoundname>
+    <innerfile refid="df/d75/_ancilliary_01_commands_2_ancilliary___commands_8cs">Ancilliary_Commands.cs</innerfile>
+    <innerfile refid="d0/d7e/_ancilliary_01_commands_2badel___c_o_m_m_a_n_d__alpha1to_8cs">badel_COMMAND_alpha1to.cs</innerfile>
+    <innerfile refid="d7/dad/_ancilliary_01_commands_2badel___c_o_m_m_a_n_d__bail_8cs">badel_COMMAND_bail.cs</innerfile>
+    <innerfile refid="d7/d18/_ancilliary_01_commands_2badel___c_o_m_m_a_n_d__diagnose_8cs">badel_COMMAND_diagnose.cs</innerfile>
+    <innerfile refid="df/ddf/_ancilliary_01_commands_2badel___c_o_m_m_a_n_d__nameuser_8cs">badel_COMMAND_nameuser.cs</innerfile>
+    <innerfile refid="d7/da2/_ancilliary_01_commands_2badel___c_o_m_m_a_n_d__next_8cs">badel_COMMAND_next.cs</innerfile>
+    <innerfile refid="d4/d4c/_ancilliary_01_commands_2badel___c_o_m_m_a_n_d__overhead_8cs">badel_COMMAND_overhead.cs</innerfile>
+    <innerfile refid="d4/d67/_ancilliary_01_commands_2badel___c_o_m_m_a_n_d__reclassify_8cs">badel_COMMAND_reclassify.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Ancilliary Commands/"/>
+  </compounddef>
+</doxygen>

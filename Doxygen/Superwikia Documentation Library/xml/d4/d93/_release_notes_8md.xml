@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="d4/d93/_release_notes_8md" kind="file">
+    <compoundname>ReleaseNotes.md</compoundname>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline><highlight class="normal">###<sp/>0.0.2<sp/>-<sp/>2014/7/5</highlight></codeline>
+<codeline><highlight class="normal">Added<sp/>NuGet<sp/>configuration<sp/>wrapper</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">###<sp/>0.0.1<sp/>-<sp/>2014/5/30</highlight></codeline>
+<codeline><highlight class="normal">Initial<sp/>Release</highlight></codeline>
+    </programlisting>
+    <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/S-Terminal/packages/PerByte.Vsix.Core.0.0.2/ReleaseNotes.md"/>
+  </compounddef>
+</doxygen>

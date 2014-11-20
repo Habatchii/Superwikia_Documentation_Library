@@ -1,0 +1,14 @@
+digraph "Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/S-Terminal/S-Terminal/obj" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_3950fc17c8ac0cbe80bd42f84bea7d9a {
+    graph [ bgcolor="#ddddee", pencolor="black", label="S-Terminal" fontname="Helvetica", fontsize="10", URL="dir_3950fc17c8ac0cbe80bd42f84bea7d9a.html"]
+  subgraph clusterdir_05a57bb97cf12075561ef238cd3d39fd {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_05a57bb97cf12075561ef238cd3d39fd.html"];
+    dir_05a57bb97cf12075561ef238cd3d39fd [shape=plaintext label="obj"];
+    dir_dde201e99dc06d3a390f3b67c3eb4002 [shape=box label="Debug" color="black" fillcolor="white" style="filled" URL="dir_dde201e99dc06d3a390f3b67c3eb4002.html"];
+    dir_61f9d5063a7f378a9947a751505ac169 [shape=box label="Release" color="black" fillcolor="white" style="filled" URL="dir_61f9d5063a7f378a9947a751505ac169.html"];
+  }
+  }
+}

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="d4/d50/struct_assembly_1_1_superwikia___c_i_a" kind="struct" prot="public">
+    <compoundname>Assembly::Superwikia_CIA</compoundname>
+      <sectiondef kind="event">
+      <memberdef kind="event" id="d4/d50/struct_assembly_1_1_superwikia___c_i_a_1accc4fa64453ac264e5a131f6fd71ac71" prot="public" static="no" add="no" remove="no" raise="no">
+        <type>EventHandler</type>
+        <definition>EventHandler Assembly.Superwikia_CIA.NewEvent</definition>
+        <argsstring></argsstring>
+        <name>NewEvent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/Superwikia_CIA.cs" line="14" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/Superwikia_CIA.cs" bodystart="14" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="d4/d50/struct_assembly_1_1_superwikia___c_i_a_1af532a22ff0fb464e0bbf027873e8e635" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Assembly.Superwikia_CIA.Superwikia_CIA</definition>
+        <argsstring>()</argsstring>
+        <name>Superwikia_CIA</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/Superwikia_CIA.cs" line="9" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/Superwikia_CIA.cs" bodystart="9" bodyend="12"/>
+      </memberdef>
+      <memberdef kind="function" id="d4/d50/struct_assembly_1_1_superwikia___c_i_a_1a9c9bb99de378c29703b68e12c920f2f8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Assembly.Superwikia_CIA.NewMethod</definition>
+        <argsstring>()</argsstring>
+        <name>NewMethod</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/Superwikia_CIA.cs" line="16" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/Superwikia_CIA.cs" bodystart="16" bodyend="19"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/Superwikia_CIA.cs" line="8" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/Superwikia_CIA.cs" bodystart="7" bodyend="20"/>
+    <listofallmembers>
+      <member refid="d4/d50/struct_assembly_1_1_superwikia___c_i_a_1accc4fa64453ac264e5a131f6fd71ac71" prot="public" virt="non-virtual"><scope>Assembly::Superwikia_CIA</scope><name>NewEvent</name></member>
+      <member refid="d4/d50/struct_assembly_1_1_superwikia___c_i_a_1a9c9bb99de378c29703b68e12c920f2f8" prot="public" virt="non-virtual"><scope>Assembly::Superwikia_CIA</scope><name>NewMethod</name></member>
+      <member refid="d4/d50/struct_assembly_1_1_superwikia___c_i_a_1af532a22ff0fb464e0bbf027873e8e635" prot="public" virt="non-virtual"><scope>Assembly::Superwikia_CIA</scope><name>Superwikia_CIA</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

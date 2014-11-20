@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="d6/d14/namespace_assembly" kind="namespace">
+    <compoundname>Assembly</compoundname>
+    <innerclass refid="d4/d50/struct_assembly_1_1_superwikia___c_i_a" prot="public">Assembly::Superwikia_CIA</innerclass>
+    <innerclass refid="d5/d90/class_assembly_1_1swa___assets" prot="package">Assembly::swa_Assets</innerclass>
+    <innerclass refid="d5/d44/class_assembly_1_1swa___elements" prot="package">Assembly::swa_Elements</innerclass>
+    <innerclass refid="dc/d5f/class_assembly_1_1swa___liabilities" prot="package">Assembly::swa_Liabilities</innerclass>
+    <innerclass refid="d1/d31/class_assembly_1_1swa___properties" prot="package">Assembly::swa_Properties</innerclass>
+    <innerclass refid="da/d52/class_assembly_1_1swa___s_p_a_c_e" prot="package">Assembly::swa_SPACE</innerclass>
+    <innerclass refid="d8/dd6/class_assembly_1_1swa___statements" prot="package">Assembly::swa_Statements</innerclass>
+    <innerclass refid="d5/d7c/class_assembly_1_1swa___trusts" prot="package">Assembly::swa_Trusts</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/Superwikia_CIA.cs" line="6" column="1"/>
+  </compounddef>
+</doxygen>

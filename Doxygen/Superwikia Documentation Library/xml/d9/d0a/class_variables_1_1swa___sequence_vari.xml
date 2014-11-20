@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="d9/d0a/class_variables_1_1swa___sequence_vari" kind="class" prot="package">
+    <compoundname>Variables::swa_SequenceVari</compoundname>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="d9/d0a/class_variables_1_1swa___sequence_vari_1a626600a445e63b2d4e55119feefebbfd" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Variables.swa_SequenceVari.NewMethod</definition>
+        <argsstring>()</argsstring>
+        <name>NewMethod</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_SequenceVari.cs" line="9" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_SequenceVari.cs" bodystart="9" bodyend="12"/>
+      </memberdef>
+      <memberdef kind="function" id="d9/d0a/class_variables_1_1swa___sequence_vari_1a41c347af84db8c0c3340a18aeda9b96e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Variables.swa_SequenceVari.swa_SequenceVari</definition>
+        <argsstring>()</argsstring>
+        <name>swa_SequenceVari</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_SequenceVari.cs" line="14" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_SequenceVari.cs" bodystart="14" bodyend="17"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="d9/d0a/class_variables_1_1swa___sequence_vari_1aef2ee2ef77cc288a747a85d2984d5521" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Variables.swa_SequenceVari.~swa_SequenceVari</definition>
+        <argsstring>()</argsstring>
+        <name>~swa_SequenceVari</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_SequenceVari.cs" line="19" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_SequenceVari.cs" bodystart="19" bodyend="22"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_SequenceVari.cs" line="8" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables/swa_SequenceVari.cs" bodystart="7" bodyend="23"/>
+    <listofallmembers>
+      <member refid="d9/d0a/class_variables_1_1swa___sequence_vari_1a626600a445e63b2d4e55119feefebbfd" prot="public" virt="non-virtual"><scope>Variables::swa_SequenceVari</scope><name>NewMethod</name></member>
+      <member refid="d9/d0a/class_variables_1_1swa___sequence_vari_1a41c347af84db8c0c3340a18aeda9b96e" prot="public" virt="non-virtual"><scope>Variables::swa_SequenceVari</scope><name>swa_SequenceVari</name></member>
+      <member refid="d9/d0a/class_variables_1_1swa___sequence_vari_1aef2ee2ef77cc288a747a85d2984d5521" prot="private" virt="non-virtual"><scope>Variables::swa_SequenceVari</scope><name>~swa_SequenceVari</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

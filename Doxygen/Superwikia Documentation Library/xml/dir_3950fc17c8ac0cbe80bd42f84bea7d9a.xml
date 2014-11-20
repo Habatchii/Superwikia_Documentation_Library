@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="dir_3950fc17c8ac0cbe80bd42f84bea7d9a" kind="dir">
+    <compoundname>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/S-Terminal/S-Terminal</compoundname>
+    <innerdir refid="dir_05a57bb97cf12075561ef238cd3d39fd">C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/S-Terminal/S-Terminal/obj</innerdir>
+    <innerdir refid="dir_110b6d5112ce700ac2f62ed2d2bdb34f">C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/S-Terminal/S-Terminal/Properties</innerdir>
+    <innerfile refid="d4/d5a/_installer1_8cs">Installer1.cs</innerfile>
+    <innerfile refid="d8/deb/_installer1_8_designer_8cs">Installer1.Designer.cs</innerfile>
+    <innerfile refid="dd/d5c/_program_8cs">Program.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/S-Terminal/S-Terminal/"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="da/d35/namespace_shells" kind="namespace">
+    <compoundname>Shells</compoundname>
+    <innerclass refid="d6/d26/class_shells_1_1local___a_n_c_i_l_l_i_a_r_y__" prot="package">Shells::local_ANCILLIARY_</innerclass>
+    <innerclass refid="d1/d23/class_shells_1_1local___e_n_v_i_r_o_n_m_e_n_t__" prot="package">Shells::local_ENVIRONMENT_</innerclass>
+    <innerclass refid="d8/dae/class_shells_1_1local___l_a_y_e_r_i_n_g__" prot="package">Shells::local_LAYERING_</innerclass>
+    <innerclass refid="d9/d69/class_shells_1_1local___p_a_c_k_a_g_i_n_g__" prot="package">Shells::local_PACKAGING_</innerclass>
+    <innerclass refid="d1/d2a/struct_shells_1_1_local___ruleset" prot="package">Shells::Local_Ruleset</innerclass>
+    <innerclass refid="d2/d79/class_shells_1_1local___s_t_a_t_i_o_n_a_r_y__" prot="package">Shells::local_STATIONARY_</innerclass>
+    <innerclass refid="da/d4e/class_shells_1_1local___s_u_p_e_r_c_l_u_s_t_e_r__" prot="package">Shells::local_SUPERCLUSTER_</innerclass>
+    <innerclass refid="d3/ddf/class_shells_1_1local___t_r_a_n_s_c_o_m__" prot="package">Shells::local_TRANSCOM_</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Local Ruleset Shells/local_ANCILLIARY_.cs" line="6" column="1"/>
+  </compounddef>
+</doxygen>

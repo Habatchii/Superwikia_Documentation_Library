@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="dir_bf743eca39512d2c620107df767b5f55" kind="dir">
+    <compoundname>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/SuperWikia Content Inventory Assembly</compoundname>
+    <innerfile refid="d4/d75/_super_wikia_01_content_01_inventory_01_assembly_2_superwikia___c_i_a_8cs">Superwikia_CIA.cs</innerfile>
+    <innerfile refid="d0/dcc/_super_wikia_01_content_01_inventory_01_assembly_2swa___assets_8cs">swa_Assets.cs</innerfile>
+    <innerfile refid="d9/def/_super_wikia_01_content_01_inventory_01_assembly_2swa___elements_8cs">swa_Elements.cs</innerfile>
+    <innerfile refid="df/dcc/_super_wikia_01_content_01_inventory_01_assembly_2swa___liabilities_8cs">swa_Liabilities.cs</innerfile>
+    <innerfile refid="d0/d48/_super_wikia_01_content_01_inventory_01_assembly_2swa___properties_8cs">swa_Properties.cs</innerfile>
+    <innerfile refid="d6/d4a/_super_wikia_01_content_01_inventory_01_assembly_2swa___s_p_a_c_e_8cs">swa_SPACE.cs</innerfile>
+    <innerfile refid="dd/d76/_super_wikia_01_content_01_inventory_01_assembly_2swa___statements_8cs">swa_Statements.cs</innerfile>
+    <innerfile refid="df/da6/_super_wikia_01_content_01_inventory_01_assembly_2swa___trusts_8cs">swa_Trusts.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/SuperWikia Content Inventory Assembly/"/>
+  </compounddef>
+</doxygen>

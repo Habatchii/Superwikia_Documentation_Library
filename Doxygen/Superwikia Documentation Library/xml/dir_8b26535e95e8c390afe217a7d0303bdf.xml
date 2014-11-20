@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="dir_8b26535e95e8c390afe217a7d0303bdf" kind="dir">
+    <compoundname>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Transcribe Variables</compoundname>
+    <innerfile refid="d4/d1b/_backup_2_transcribe_01_variables_2_superwikia___transcriber_8cs">Superwikia_Transcriber.cs</innerfile>
+    <innerfile refid="dd/d7c/_backup_2_transcribe_01_variables_2swa___assembly_vari_8cs">swa_AssemblyVari.cs</innerfile>
+    <innerfile refid="d5/de7/_backup_2_transcribe_01_variables_2swa___electroplate_vari_8cs">swa_ElectroplateVari.cs</innerfile>
+    <innerfile refid="d0/d61/_backup_2_transcribe_01_variables_2swa___lexicon_vari_8cs">swa_LexiconVari.cs</innerfile>
+    <innerfile refid="dc/d15/_backup_2_transcribe_01_variables_2swa___platform_vari_8cs">swa_PlatformVari.cs</innerfile>
+    <innerfile refid="d6/d5f/_backup_2_transcribe_01_variables_2swa___sequence_vari_8cs">swa_SequenceVari.cs</innerfile>
+    <innerfile refid="d3/d92/_backup_2_transcribe_01_variables_2swa___serial_vari_8cs">swa_SerialVari.cs</innerfile>
+    <innerfile refid="dd/d58/_backup_2_transcribe_01_variables_2swa___trunk_vari_8cs">swa_TrunkVari.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Transcribe Variables/"/>
+  </compounddef>
+</doxygen>

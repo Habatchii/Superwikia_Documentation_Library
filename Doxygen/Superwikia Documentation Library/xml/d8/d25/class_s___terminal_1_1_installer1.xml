@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="d8/d25/class_s___terminal_1_1_installer1" kind="class" prot="public">
+    <compoundname>S_Terminal::Installer1</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Installer</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="d8/d25/class_s___terminal_1_1_installer1_1afcbc08e24770fb40258b0b23472f2984" prot="private" static="no" mutable="no">
+        <type>System.ComponentModel.IContainer</type>
+        <definition>System.ComponentModel.IContainer S_Terminal.Installer1.components</definition>
+        <argsstring></argsstring>
+        <name>components</name>
+        <initializer>= null</initializer>
+        <briefdescription>
+<para>Required designer variable. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/S-Terminal/S-Terminal/Installer1.Designer.cs" line="8" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/S-Terminal/S-Terminal/Installer1.Designer.cs" bodystart="8" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="d8/d25/class_s___terminal_1_1_installer1_1a08f1b23eba2a8c451a1d4574937f0b18" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>S_Terminal.Installer1.Installer1</definition>
+        <argsstring>()</argsstring>
+        <name>Installer1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/S-Terminal/S-Terminal/Installer1.cs" line="14" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/S-Terminal/S-Terminal/Installer1.cs" bodystart="14" bodyend="17"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="d8/d25/class_s___terminal_1_1_installer1_1a868953d5780427ae80467ebd12a2e913" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void S_Terminal.Installer1.Dispose</definition>
+        <argsstring>(bool disposing)</argsstring>
+        <name>Dispose</name>
+        <param>
+          <type>bool</type>
+          <declname>disposing</declname>
+        </param>
+        <briefdescription>
+<para>Clean up any resources being used. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>disposing</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>true if managed resources should be disposed; otherwise, false.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/S-Terminal/S-Terminal/Installer1.Designer.cs" line="14" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/S-Terminal/S-Terminal/Installer1.Designer.cs" bodystart="14" bodyend="21"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="d8/d25/class_s___terminal_1_1_installer1_1ac0b65cdd3114cc7785cb236d4fba6b1c" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void S_Terminal.Installer1.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+<para>Required method for Designer support - do not modify the contents of this method with the code editor. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/S-Terminal/S-Terminal/Installer1.Designer.cs" line="29" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/S-Terminal/S-Terminal/Installer1.Designer.cs" bodystart="29" bodyend="32"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="65">
+        <label>System::Configuration::Install::Installer</label>
+      </node>
+      <node id="64">
+        <label>S_Terminal.Installer1</label>
+        <link refid="d8/d25/class_s___terminal_1_1_installer1"/>
+        <childnode refid="65" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="67">
+        <label>System::Configuration::Install::Installer</label>
+      </node>
+      <node id="66">
+        <label>S_Terminal.Installer1</label>
+        <link refid="d8/d25/class_s___terminal_1_1_installer1"/>
+        <childnode refid="67" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/S-Terminal/S-Terminal/Installer1.cs" line="13" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/S-Terminal/S-Terminal/Installer1.cs" bodystart="12" bodyend="18"/>
+    <listofallmembers>
+      <member refid="d8/d25/class_s___terminal_1_1_installer1_1afcbc08e24770fb40258b0b23472f2984" prot="private" virt="non-virtual"><scope>S_Terminal::Installer1</scope><name>components</name></member>
+      <member refid="d8/d25/class_s___terminal_1_1_installer1_1a868953d5780427ae80467ebd12a2e913" prot="protected" virt="non-virtual"><scope>S_Terminal::Installer1</scope><name>Dispose</name></member>
+      <member refid="d8/d25/class_s___terminal_1_1_installer1_1ac0b65cdd3114cc7785cb236d4fba6b1c" prot="private" virt="non-virtual"><scope>S_Terminal::Installer1</scope><name>InitializeComponent</name></member>
+      <member refid="d8/d25/class_s___terminal_1_1_installer1_1a08f1b23eba2a8c451a1d4574937f0b18" prot="public" virt="non-virtual"><scope>S_Terminal::Installer1</scope><name>Installer1</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

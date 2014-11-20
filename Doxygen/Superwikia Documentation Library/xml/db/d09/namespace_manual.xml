@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="db/d09/namespace_manual" kind="namespace">
+    <compoundname>Manual</compoundname>
+    <innerclass refid="d4/dd9/struct_manual_1_1_e___manual" prot="package">Manual::E_Manual</innerclass>
+    <innerclass refid="d5/d4b/class_manual_1_1eman___a_d_m_i_n__" prot="package">Manual::eman_ADMIN_</innerclass>
+    <innerclass refid="de/d17/class_manual_1_1eman___e_n_v_i_r_o_n__" prot="package">Manual::eman_ENVIRON_</innerclass>
+    <innerclass refid="d8/d50/class_manual_1_1eman___l_e_s_s_o_n_s__" prot="package">Manual::eman_LESSONS_</innerclass>
+    <innerclass refid="d6/ddd/class_manual_1_1eman___p_r_o_j_e_c_t_k_b_a_s_e__" prot="package">Manual::eman_PROJECTKBASE_</innerclass>
+    <innerclass refid="dd/d5d/class_manual_1_1eman___s_o_u_r_c_e_c_o_d_e__" prot="package">Manual::eman_SOURCECODE_</innerclass>
+    <innerclass refid="db/df6/class_manual_1_1eman___s_y_s_d_i_s_c_l_o_s_e__" prot="public">Manual::eman_SYSDISCLOSE_</innerclass>
+    <innerclass refid="dd/d0e/class_manual_1_1eman___t_r_a_n_s_c_r_i_b_e__" prot="package">Manual::eman_TRANSCRIBE_</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/E-Manual/E_Manual.cs" line="6" column="1"/>
+  </compounddef>
+</doxygen>

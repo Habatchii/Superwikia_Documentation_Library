@@ -1,0 +1,9 @@
+digraph "Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_a63709fc6b70a829731e67ac604269a8 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="Backup" fontname="Helvetica", fontsize="10", URL="dir_a63709fc6b70a829731e67ac604269a8.html"]
+  dir_2f8596a7e65fc0e101f3f7d1ca80c805 [shape=box, label="Transcribe Variables", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_2f8596a7e65fc0e101f3f7d1ca80c805.html"];
+  }
+}

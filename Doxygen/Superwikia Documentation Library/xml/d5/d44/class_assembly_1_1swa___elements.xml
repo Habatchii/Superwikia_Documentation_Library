@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="d5/d44/class_assembly_1_1swa___elements" kind="class" prot="package">
+    <compoundname>Assembly::swa_Elements</compoundname>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="d5/d44/class_assembly_1_1swa___elements_1adbc9100146f719129d33d8616d8abef9" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Assembly.swa_Elements.NewMethod</definition>
+        <argsstring>()</argsstring>
+        <name>NewMethod</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/swa_Elements.cs" line="9" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/swa_Elements.cs" bodystart="9" bodyend="12"/>
+      </memberdef>
+      <memberdef kind="function" id="d5/d44/class_assembly_1_1swa___elements_1a0baae23aef95222061b74eb1e935a81f" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Assembly.swa_Elements.swa_Elements</definition>
+        <argsstring>()</argsstring>
+        <name>swa_Elements</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/swa_Elements.cs" line="14" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/swa_Elements.cs" bodystart="14" bodyend="17"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="d5/d44/class_assembly_1_1swa___elements_1a5749a9d49f39e5081a93ba1771ceac27" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Assembly.swa_Elements.~swa_Elements</definition>
+        <argsstring>()</argsstring>
+        <name>~swa_Elements</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/swa_Elements.cs" line="19" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/swa_Elements.cs" bodystart="19" bodyend="22"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/swa_Elements.cs" line="8" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/swa_Elements.cs" bodystart="7" bodyend="23"/>
+    <listofallmembers>
+      <member refid="d5/d44/class_assembly_1_1swa___elements_1adbc9100146f719129d33d8616d8abef9" prot="public" virt="non-virtual"><scope>Assembly::swa_Elements</scope><name>NewMethod</name></member>
+      <member refid="d5/d44/class_assembly_1_1swa___elements_1a0baae23aef95222061b74eb1e935a81f" prot="public" virt="non-virtual"><scope>Assembly::swa_Elements</scope><name>swa_Elements</name></member>
+      <member refid="d5/d44/class_assembly_1_1swa___elements_1a5749a9d49f39e5081a93ba1771ceac27" prot="private" virt="non-virtual"><scope>Assembly::swa_Elements</scope><name>~swa_Elements</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

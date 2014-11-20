@@ -1,0 +1,9 @@
+digraph "Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Policies (RAIR)" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_112d5142b4f05e8052401605fb977884 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="Superwikia Documentation Library" fontname="Helvetica", fontsize="10", URL="dir_112d5142b4f05e8052401605fb977884.html"]
+  dir_14f26d0973abaf881036b0b3c02ce968 [shape=box, label="Policies (RAIR)", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_14f26d0973abaf881036b0b3c02ce968.html"];
+  }
+}

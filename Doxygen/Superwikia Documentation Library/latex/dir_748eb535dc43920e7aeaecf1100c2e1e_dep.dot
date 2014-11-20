@@ -1,0 +1,9 @@
+digraph "Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/E-Manual" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_a293c9c8837fea4337482e8519904ba6 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="Backup" fontname="Helvetica", fontsize="10", URL="dir_a293c9c8837fea4337482e8519904ba6.html"]
+  dir_748eb535dc43920e7aeaecf1100c2e1e [shape=box, label="E-Manual", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_748eb535dc43920e7aeaecf1100c2e1e.html"];
+  }
+}

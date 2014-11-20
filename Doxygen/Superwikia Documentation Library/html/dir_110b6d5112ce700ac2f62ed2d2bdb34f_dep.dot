@@ -1,0 +1,9 @@
+digraph "Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/S-Terminal/S-Terminal/Properties" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_3950fc17c8ac0cbe80bd42f84bea7d9a {
+    graph [ bgcolor="#ddddee", pencolor="black", label="S-Terminal" fontname="Helvetica", fontsize="10", URL="dir_3950fc17c8ac0cbe80bd42f84bea7d9a.html"]
+  dir_110b6d5112ce700ac2f62ed2d2bdb34f [shape=box, label="Properties", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_110b6d5112ce700ac2f62ed2d2bdb34f.html"];
+  }
+}

@@ -1,0 +1,9 @@
+digraph "Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/S-Terminal/S-Terminal/obj/Release" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_05a57bb97cf12075561ef238cd3d39fd {
+    graph [ bgcolor="#ddddee", pencolor="black", label="obj" fontname="Helvetica", fontsize="10", URL="dir_05a57bb97cf12075561ef238cd3d39fd.html"]
+  dir_61f9d5063a7f378a9947a751505ac169 [shape=box, label="Release", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_61f9d5063a7f378a9947a751505ac169.html"];
+  }
+}

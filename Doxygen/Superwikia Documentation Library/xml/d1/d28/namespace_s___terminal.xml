@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="d1/d28/namespace_s___terminal" kind="namespace">
+    <compoundname>S_Terminal</compoundname>
+    <innerclass refid="d8/d25/class_s___terminal_1_1_installer1" prot="public">S_Terminal::Installer1</innerclass>
+    <innerclass refid="d7/d69/class_s___terminal_1_1_program" prot="public">S_Terminal::Program</innerclass>
+    <innernamespace refid="d5/d26/namespace_s___terminal_1_1_properties">S_Terminal::Properties</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/S-Terminal/S-Terminal/Installer1.cs" line="10" column="1"/>
+  </compounddef>
+</doxygen>

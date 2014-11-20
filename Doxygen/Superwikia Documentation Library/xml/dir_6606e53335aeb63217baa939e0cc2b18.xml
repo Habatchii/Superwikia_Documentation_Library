@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="dir_6606e53335aeb63217baa939e0cc2b18" kind="dir">
+    <compoundname>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/SWA Apocolypia</compoundname>
+    <innerfile refid="da/dc7/_s_w_a_01_apocolypia_2sup___a_r_g_u_m_e_n_t___8cs">sup_ARGUMENT_.cs</innerfile>
+    <innerfile refid="d1/df9/_s_w_a_01_apocolypia_2sup___b_a_d_e_l_r_e_n_d_e_r___8cs">sup_BADELRENDER_.cs</innerfile>
+    <innerfile refid="d6/d00/_s_w_a_01_apocolypia_2sup___d_e_m_o_n_s_t_r_a_t_i_v_e___8cs">sup_DEMONSTRATIVE_.cs</innerfile>
+    <innerfile refid="d3/d12/_s_w_a_01_apocolypia_2sup___n_e_v_e_r___8cs">sup_NEVER_.cs</innerfile>
+    <innerfile refid="df/d45/_s_w_a_01_apocolypia_2sup___n_o_n_s_u_i_t___8cs">sup_NONSUIT_.cs</innerfile>
+    <innerfile refid="d1/d36/_s_w_a_01_apocolypia_2sup___o_v_e_r_h_e_a_d___8cs">sup_OVERHEAD_.cs</innerfile>
+    <innerfile refid="d1/d4e/_s_w_a_01_apocolypia_2sup___r_e_d_u_n_d_a_n_c_y___8cs">sup_REDUNDANCY_.cs</innerfile>
+    <innerfile refid="d3/de1/_s_w_a_01_apocolypia_2_s_w_a___apocolypia_8cs">SWA_Apocolypia.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/SWA Apocolypia/"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="d5/d7c/class_assembly_1_1swa___trusts" kind="class" prot="package">
+    <compoundname>Assembly::swa_Trusts</compoundname>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="d5/d7c/class_assembly_1_1swa___trusts_1ab76b96f0376de4c2b22d8cb1cad0203c" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Assembly.swa_Trusts.NewMethod</definition>
+        <argsstring>()</argsstring>
+        <name>NewMethod</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/swa_Trusts.cs" line="9" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/swa_Trusts.cs" bodystart="9" bodyend="12"/>
+      </memberdef>
+      <memberdef kind="function" id="d5/d7c/class_assembly_1_1swa___trusts_1aa8667ed8bc7eabf500bb013e0b1e2019" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Assembly.swa_Trusts.swa_Trusts</definition>
+        <argsstring>()</argsstring>
+        <name>swa_Trusts</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/swa_Trusts.cs" line="14" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/swa_Trusts.cs" bodystart="14" bodyend="17"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="d5/d7c/class_assembly_1_1swa___trusts_1a2b3731221077da59e046406ab073bb43" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Assembly.swa_Trusts.~swa_Trusts</definition>
+        <argsstring>()</argsstring>
+        <name>~swa_Trusts</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/swa_Trusts.cs" line="19" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/swa_Trusts.cs" bodystart="19" bodyend="22"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/swa_Trusts.cs" line="8" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly/swa_Trusts.cs" bodystart="7" bodyend="23"/>
+    <listofallmembers>
+      <member refid="d5/d7c/class_assembly_1_1swa___trusts_1ab76b96f0376de4c2b22d8cb1cad0203c" prot="public" virt="non-virtual"><scope>Assembly::swa_Trusts</scope><name>NewMethod</name></member>
+      <member refid="d5/d7c/class_assembly_1_1swa___trusts_1aa8667ed8bc7eabf500bb013e0b1e2019" prot="public" virt="non-virtual"><scope>Assembly::swa_Trusts</scope><name>swa_Trusts</name></member>
+      <member refid="d5/d7c/class_assembly_1_1swa___trusts_1a2b3731221077da59e046406ab073bb43" prot="private" virt="non-virtual"><scope>Assembly::swa_Trusts</scope><name>~swa_Trusts</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

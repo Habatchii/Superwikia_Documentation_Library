@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.8">
+  <compounddef id="d4/dd9/struct_manual_1_1_e___manual" kind="struct" prot="package">
+    <compoundname>Manual::E_Manual</compoundname>
+      <sectiondef kind="event">
+      <memberdef kind="event" id="d4/dd9/struct_manual_1_1_e___manual_1a23e7ace252c911e5594bdeeb299797e2" prot="public" static="no" add="no" remove="no" raise="no">
+        <type>EventHandler</type>
+        <definition>EventHandler Manual.E_Manual.NewEvent</definition>
+        <argsstring></argsstring>
+        <name>NewEvent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/E-Manual/E_Manual.cs" line="14" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/E-Manual/E_Manual.cs" bodystart="14" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="d4/dd9/struct_manual_1_1_e___manual_1aad927aaa6358bed55e62a9a1b7a10975" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Manual.E_Manual.E_Manual</definition>
+        <argsstring>()</argsstring>
+        <name>E_Manual</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/E-Manual/E_Manual.cs" line="9" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/E-Manual/E_Manual.cs" bodystart="9" bodyend="12"/>
+      </memberdef>
+      <memberdef kind="function" id="d4/dd9/struct_manual_1_1_e___manual_1af4106f22cca9304c3b12c3e6a29e47be" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Manual.E_Manual.NewMethod</definition>
+        <argsstring>()</argsstring>
+        <name>NewMethod</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/E-Manual/E_Manual.cs" line="16" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/E-Manual/E_Manual.cs" bodystart="16" bodyend="19"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/E-Manual/E_Manual.cs" line="8" column="1" bodyfile="C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/E-Manual/E_Manual.cs" bodystart="7" bodyend="20"/>
+    <listofallmembers>
+      <member refid="d4/dd9/struct_manual_1_1_e___manual_1aad927aaa6358bed55e62a9a1b7a10975" prot="public" virt="non-virtual"><scope>Manual::E_Manual</scope><name>E_Manual</name></member>
+      <member refid="d4/dd9/struct_manual_1_1_e___manual_1a23e7ace252c911e5594bdeeb299797e2" prot="public" virt="non-virtual"><scope>Manual::E_Manual</scope><name>NewEvent</name></member>
+      <member refid="d4/dd9/struct_manual_1_1_e___manual_1af4106f22cca9304c3b12c3e6a29e47be" prot="public" virt="non-virtual"><scope>Manual::E_Manual</scope><name>NewMethod</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,1216 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.8">
+  <compound refid="de/d36/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1_ancilliary___commands" kind="class"><name>Superwikia_Documentation_Library::Ancilliary_Commands::Ancilliary_Commands</name>
+    <member refid="de/d36/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1_ancilliary___commands_1a0a01f23f660a08889c958b6c6e60ddaa" kind="event"><name>NewEvent</name></member>
+    <member refid="de/d36/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1_ancilliary___commands_1a5e610ccb5cbf2987cd0ff9c1994fed72" kind="function"><name>Ancilliary_Commands</name></member>
+    <member refid="de/d36/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1_ancilliary___commands_1aed8250bde01c04519857abd4776060ce" kind="function"><name>NewMethod</name></member>
+    <member refid="de/d36/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1_ancilliary___commands_1a5e610ccb5cbf2987cd0ff9c1994fed72" kind="function"><name>Ancilliary_Commands</name></member>
+    <member refid="de/d36/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1_ancilliary___commands_1aed8250bde01c04519857abd4776060ce" kind="function"><name>NewMethod</name></member>
+  </compound>
+  <compound refid="d6/d59/struct_commands_1_1_ancilliary___commands" kind="struct"><name>Commands::Ancilliary_Commands</name>
+    <member refid="d6/d59/struct_commands_1_1_ancilliary___commands_1a7e61a632edfe9317294de8183672e91c" kind="event"><name>NewEvent</name></member>
+    <member refid="d6/d59/struct_commands_1_1_ancilliary___commands_1a20339bab0e53449c7c321bbb7fa4933e" kind="function"><name>Ancilliary_Commands</name></member>
+    <member refid="d6/d59/struct_commands_1_1_ancilliary___commands_1a8e9b9d1b9695d4d314c29aeb1f8ddfad" kind="function"><name>NewMethod</name></member>
+  </compound>
+  <compound refid="d5/d9f/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__alpha1to" kind="class"><name>Superwikia_Documentation_Library::Ancilliary_Commands::badel_COMMAND_alpha1to</name>
+    <member refid="d5/d9f/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__alpha1to_1ad15d39201b83e7884922c79453869418" kind="function"><name>NewMethod</name></member>
+    <member refid="d5/d9f/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__alpha1to_1abbb29f65f49f3812098d7cfdc773d2c2" kind="function"><name>badel_COMMAND_alpha1to</name></member>
+    <member refid="d5/d9f/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__alpha1to_1ad15d39201b83e7884922c79453869418" kind="function"><name>NewMethod</name></member>
+    <member refid="d5/d9f/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__alpha1to_1abbb29f65f49f3812098d7cfdc773d2c2" kind="function"><name>badel_COMMAND_alpha1to</name></member>
+    <member refid="d5/d9f/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__alpha1to_1aa728f71ac1b90076ebe526cf0ab4cead" kind="function"><name>~badel_COMMAND_alpha1to</name></member>
+    <member refid="d5/d9f/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__alpha1to_1aa728f71ac1b90076ebe526cf0ab4cead" kind="function"><name>~badel_COMMAND_alpha1to</name></member>
+  </compound>
+  <compound refid="d7/d1c/class_commands_1_1badel___c_o_m_m_a_n_d__alpha1to" kind="class"><name>Commands::badel_COMMAND_alpha1to</name>
+    <member refid="d7/d1c/class_commands_1_1badel___c_o_m_m_a_n_d__alpha1to_1a95a7f6b97b311c5cd93726c8a809dc40" kind="function"><name>NewMethod</name></member>
+    <member refid="d7/d1c/class_commands_1_1badel___c_o_m_m_a_n_d__alpha1to_1a46958762f6b57ab3d22f951f99baf5a4" kind="function"><name>badel_COMMAND_alpha1to</name></member>
+    <member refid="d7/d1c/class_commands_1_1badel___c_o_m_m_a_n_d__alpha1to_1afa690f49e43e48864946b85de946ec45" kind="function"><name>~badel_COMMAND_alpha1to</name></member>
+  </compound>
+  <compound refid="d3/d6a/class_commands_1_1badel___c_o_m_m_a_n_d__bail" kind="class"><name>Commands::badel_COMMAND_bail</name>
+    <member refid="d3/d6a/class_commands_1_1badel___c_o_m_m_a_n_d__bail_1a28679b3bbe44c25497c088378647008e" kind="function"><name>NewMethod</name></member>
+    <member refid="d3/d6a/class_commands_1_1badel___c_o_m_m_a_n_d__bail_1a29679933f12d8af443a2b4a6e96a6d88" kind="function"><name>badel_COMMAND_bail</name></member>
+    <member refid="d3/d6a/class_commands_1_1badel___c_o_m_m_a_n_d__bail_1a54661a12258be431b55876aa264923c9" kind="function"><name>~badel_COMMAND_bail</name></member>
+  </compound>
+  <compound refid="d3/dcb/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__bail" kind="class"><name>Superwikia_Documentation_Library::Ancilliary_Commands::badel_COMMAND_bail</name>
+    <member refid="d3/dcb/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__bail_1a5b8d148a74050f6f644da3469a87d024" kind="function"><name>NewMethod</name></member>
+    <member refid="d3/dcb/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__bail_1a3083a2f6e4769c4f113d365db9e9672a" kind="function"><name>badel_COMMAND_bail</name></member>
+    <member refid="d3/dcb/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__bail_1a5b8d148a74050f6f644da3469a87d024" kind="function"><name>NewMethod</name></member>
+    <member refid="d3/dcb/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__bail_1a3083a2f6e4769c4f113d365db9e9672a" kind="function"><name>badel_COMMAND_bail</name></member>
+    <member refid="d3/dcb/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__bail_1ac7b4e03217263a43dcefd7b10a4d26bf" kind="function"><name>~badel_COMMAND_bail</name></member>
+    <member refid="d3/dcb/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__bail_1ac7b4e03217263a43dcefd7b10a4d26bf" kind="function"><name>~badel_COMMAND_bail</name></member>
+  </compound>
+  <compound refid="db/d00/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__diagnose" kind="class"><name>Superwikia_Documentation_Library::Ancilliary_Commands::badel_COMMAND_diagnose</name>
+    <member refid="db/d00/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__diagnose_1afc97025cfe34c732ec3920bd386c1b98" kind="function"><name>NewMethod</name></member>
+    <member refid="db/d00/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__diagnose_1a1844f244ac15ca2ece46515aa438eb71" kind="function"><name>badel_COMMAND_diagnose</name></member>
+    <member refid="db/d00/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__diagnose_1afc97025cfe34c732ec3920bd386c1b98" kind="function"><name>NewMethod</name></member>
+    <member refid="db/d00/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__diagnose_1a1844f244ac15ca2ece46515aa438eb71" kind="function"><name>badel_COMMAND_diagnose</name></member>
+    <member refid="db/d00/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__diagnose_1a93d785b4f34882c2163958b535344b31" kind="function"><name>~badel_COMMAND_diagnose</name></member>
+    <member refid="db/d00/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__diagnose_1a93d785b4f34882c2163958b535344b31" kind="function"><name>~badel_COMMAND_diagnose</name></member>
+  </compound>
+  <compound refid="d4/df7/class_commands_1_1badel___c_o_m_m_a_n_d__diagnose" kind="class"><name>Commands::badel_COMMAND_diagnose</name>
+    <member refid="d4/df7/class_commands_1_1badel___c_o_m_m_a_n_d__diagnose_1a549b6906ec4a7bfcfe152753992e83a5" kind="function"><name>NewMethod</name></member>
+    <member refid="d4/df7/class_commands_1_1badel___c_o_m_m_a_n_d__diagnose_1acd6969c464691e96ff796bac18412152" kind="function"><name>badel_COMMAND_diagnose</name></member>
+    <member refid="d4/df7/class_commands_1_1badel___c_o_m_m_a_n_d__diagnose_1a922a2c1a81576b52fe6c864edbe6cb80" kind="function"><name>~badel_COMMAND_diagnose</name></member>
+  </compound>
+  <compound refid="dc/d67/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__nameuser" kind="class"><name>Superwikia_Documentation_Library::Ancilliary_Commands::badel_COMMAND_nameuser</name>
+    <member refid="dc/d67/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__nameuser_1a24ef130a95121b02f2fb1b620c0d3a57" kind="function"><name>NewMethod</name></member>
+    <member refid="dc/d67/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__nameuser_1a7cfaf8303498a0376f38fba3b39a348b" kind="function"><name>badel_COMMAND_nameuser</name></member>
+    <member refid="dc/d67/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__nameuser_1a24ef130a95121b02f2fb1b620c0d3a57" kind="function"><name>NewMethod</name></member>
+    <member refid="dc/d67/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__nameuser_1a7cfaf8303498a0376f38fba3b39a348b" kind="function"><name>badel_COMMAND_nameuser</name></member>
+    <member refid="dc/d67/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__nameuser_1a45dc2dfb161c1d2633f2421b5fbc2410" kind="function"><name>~badel_COMMAND_nameuser</name></member>
+    <member refid="dc/d67/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__nameuser_1a45dc2dfb161c1d2633f2421b5fbc2410" kind="function"><name>~badel_COMMAND_nameuser</name></member>
+  </compound>
+  <compound refid="d3/d40/class_commands_1_1badel___c_o_m_m_a_n_d__nameuser" kind="class"><name>Commands::badel_COMMAND_nameuser</name>
+    <member refid="d3/d40/class_commands_1_1badel___c_o_m_m_a_n_d__nameuser_1a1351d9492c57fda14bce8e457237286d" kind="function"><name>NewMethod</name></member>
+    <member refid="d3/d40/class_commands_1_1badel___c_o_m_m_a_n_d__nameuser_1a0fc08bb56e7ffd59f374d011ceb2cfc8" kind="function"><name>badel_COMMAND_nameuser</name></member>
+    <member refid="d3/d40/class_commands_1_1badel___c_o_m_m_a_n_d__nameuser_1a026303dfab629a96b7129a7279d9980a" kind="function"><name>~badel_COMMAND_nameuser</name></member>
+  </compound>
+  <compound refid="d2/d20/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__next" kind="class"><name>Superwikia_Documentation_Library::Ancilliary_Commands::badel_COMMAND_next</name>
+    <member refid="d2/d20/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__next_1a30e3938a15801f03805e7e01769df398" kind="function"><name>NewMethod</name></member>
+    <member refid="d2/d20/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__next_1aef80d61be2f60f43e440b5cf08867e9b" kind="function"><name>badel_COMMAND_next</name></member>
+    <member refid="d2/d20/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__next_1a30e3938a15801f03805e7e01769df398" kind="function"><name>NewMethod</name></member>
+    <member refid="d2/d20/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__next_1aef80d61be2f60f43e440b5cf08867e9b" kind="function"><name>badel_COMMAND_next</name></member>
+    <member refid="d2/d20/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__next_1a407eb383cb205e6109074c26e4956f24" kind="function"><name>~badel_COMMAND_next</name></member>
+    <member refid="d2/d20/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__next_1a407eb383cb205e6109074c26e4956f24" kind="function"><name>~badel_COMMAND_next</name></member>
+  </compound>
+  <compound refid="d0/d83/class_commands_1_1badel___c_o_m_m_a_n_d__next" kind="class"><name>Commands::badel_COMMAND_next</name>
+    <member refid="d0/d83/class_commands_1_1badel___c_o_m_m_a_n_d__next_1a0b4d30090619b9264c087f663c0dcb55" kind="function"><name>NewMethod</name></member>
+    <member refid="d0/d83/class_commands_1_1badel___c_o_m_m_a_n_d__next_1aa3961ee030670fd02f840ee3a31afb68" kind="function"><name>badel_COMMAND_next</name></member>
+    <member refid="d0/d83/class_commands_1_1badel___c_o_m_m_a_n_d__next_1a2cd24fa6d8dafa8313ebf35131194604" kind="function"><name>~badel_COMMAND_next</name></member>
+  </compound>
+  <compound refid="dc/d89/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__overhead" kind="class"><name>Superwikia_Documentation_Library::Ancilliary_Commands::badel_COMMAND_overhead</name>
+    <member refid="dc/d89/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__overhead_1a7bd32a95b940c840099832cb9b4caaf2" kind="function"><name>NewMethod</name></member>
+    <member refid="dc/d89/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__overhead_1a376e00e97c5569a37c1ebd1cb454e8fd" kind="function"><name>badel_COMMAND_overhead</name></member>
+    <member refid="dc/d89/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__overhead_1a7bd32a95b940c840099832cb9b4caaf2" kind="function"><name>NewMethod</name></member>
+    <member refid="dc/d89/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__overhead_1a376e00e97c5569a37c1ebd1cb454e8fd" kind="function"><name>badel_COMMAND_overhead</name></member>
+    <member refid="dc/d89/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__overhead_1a5435d999390049608f1f8a9a6c7d1f3a" kind="function"><name>~badel_COMMAND_overhead</name></member>
+    <member refid="dc/d89/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__overhead_1a5435d999390049608f1f8a9a6c7d1f3a" kind="function"><name>~badel_COMMAND_overhead</name></member>
+  </compound>
+  <compound refid="d5/d0c/class_commands_1_1badel___c_o_m_m_a_n_d__overhead" kind="class"><name>Commands::badel_COMMAND_overhead</name>
+    <member refid="d5/d0c/class_commands_1_1badel___c_o_m_m_a_n_d__overhead_1a5f4032f8ea46450b4d5c1b5144986087" kind="function"><name>NewMethod</name></member>
+    <member refid="d5/d0c/class_commands_1_1badel___c_o_m_m_a_n_d__overhead_1a77c6dc04eaddf1bf77d9faaa036f7e8c" kind="function"><name>badel_COMMAND_overhead</name></member>
+    <member refid="d5/d0c/class_commands_1_1badel___c_o_m_m_a_n_d__overhead_1a722f209895638c571bc7ae4164a132c8" kind="function"><name>~badel_COMMAND_overhead</name></member>
+  </compound>
+  <compound refid="d0/dbf/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__reclassify" kind="class"><name>Superwikia_Documentation_Library::Ancilliary_Commands::badel_COMMAND_reclassify</name>
+    <member refid="d0/dbf/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__reclassify_1a940d8cd0824ce1d9943c95df32dd9c70" kind="function"><name>NewMethod</name></member>
+    <member refid="d0/dbf/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__reclassify_1a55a094d13c8c52dcb35cd7dc29faf3f5" kind="function"><name>badel_COMMAND_reclassify</name></member>
+    <member refid="d0/dbf/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__reclassify_1a940d8cd0824ce1d9943c95df32dd9c70" kind="function"><name>NewMethod</name></member>
+    <member refid="d0/dbf/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__reclassify_1a55a094d13c8c52dcb35cd7dc29faf3f5" kind="function"><name>badel_COMMAND_reclassify</name></member>
+    <member refid="d0/dbf/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__reclassify_1a76ed614e566ebd9b4866b1e04f2db54e" kind="function"><name>~badel_COMMAND_reclassify</name></member>
+    <member refid="d0/dbf/class_superwikia___documentation___library_1_1_ancilliary___commands_1_1badel___c_o_m_m_a_n_d__reclassify_1a76ed614e566ebd9b4866b1e04f2db54e" kind="function"><name>~badel_COMMAND_reclassify</name></member>
+  </compound>
+  <compound refid="de/d32/class_commands_1_1badel___c_o_m_m_a_n_d__reclassify" kind="class"><name>Commands::badel_COMMAND_reclassify</name>
+    <member refid="de/d32/class_commands_1_1badel___c_o_m_m_a_n_d__reclassify_1af01a9e988eb5c81941609820e11752a2" kind="function"><name>NewMethod</name></member>
+    <member refid="de/d32/class_commands_1_1badel___c_o_m_m_a_n_d__reclassify_1af89761a93487d38d84a24ecbe2beba4d" kind="function"><name>badel_COMMAND_reclassify</name></member>
+    <member refid="de/d32/class_commands_1_1badel___c_o_m_m_a_n_d__reclassify_1a8d3307aec14933eaf461230fb60d49ab" kind="function"><name>~badel_COMMAND_reclassify</name></member>
+  </compound>
+  <compound refid="d4/dd9/struct_manual_1_1_e___manual" kind="struct"><name>Manual::E_Manual</name>
+    <member refid="d4/dd9/struct_manual_1_1_e___manual_1a23e7ace252c911e5594bdeeb299797e2" kind="event"><name>NewEvent</name></member>
+    <member refid="d4/dd9/struct_manual_1_1_e___manual_1aad927aaa6358bed55e62a9a1b7a10975" kind="function"><name>E_Manual</name></member>
+    <member refid="d4/dd9/struct_manual_1_1_e___manual_1af4106f22cca9304c3b12c3e6a29e47be" kind="function"><name>NewMethod</name></member>
+  </compound>
+  <compound refid="db/d77/class_superwikia___documentation___library_1_1_e___manual_1_1_e___manual" kind="class"><name>Superwikia_Documentation_Library::E_Manual::E_Manual</name>
+    <member refid="db/d77/class_superwikia___documentation___library_1_1_e___manual_1_1_e___manual_1ad2c4e625f5461cce12908e300b3d6273" kind="event"><name>NewEvent</name></member>
+    <member refid="db/d77/class_superwikia___documentation___library_1_1_e___manual_1_1_e___manual_1aa8afc927173e67736e78e39ca5d6f2e4" kind="function"><name>E_Manual</name></member>
+    <member refid="db/d77/class_superwikia___documentation___library_1_1_e___manual_1_1_e___manual_1ad896ba984162fd4eeeb4f416e594c6ad" kind="function"><name>NewMethod</name></member>
+    <member refid="db/d77/class_superwikia___documentation___library_1_1_e___manual_1_1_e___manual_1aa8afc927173e67736e78e39ca5d6f2e4" kind="function"><name>E_Manual</name></member>
+    <member refid="db/d77/class_superwikia___documentation___library_1_1_e___manual_1_1_e___manual_1ad896ba984162fd4eeeb4f416e594c6ad" kind="function"><name>NewMethod</name></member>
+  </compound>
+  <compound refid="d5/d4b/class_manual_1_1eman___a_d_m_i_n__" kind="class"><name>Manual::eman_ADMIN_</name>
+    <member refid="d5/d4b/class_manual_1_1eman___a_d_m_i_n___1aa171e42cea33462d292be78a5daa625a" kind="function"><name>NewMethod</name></member>
+    <member refid="d5/d4b/class_manual_1_1eman___a_d_m_i_n___1a2a280e57e308701ac99f53fdc65fcdd8" kind="function"><name>eman_ADMIN_</name></member>
+    <member refid="d5/d4b/class_manual_1_1eman___a_d_m_i_n___1af93c175167e097284ebf7a2a0d3b31d4" kind="function"><name>~eman_ADMIN_</name></member>
+  </compound>
+  <compound refid="d7/dad/class_superwikia___documentation___library_1_1_e___manual_1_1eman___a_d_m_i_n__" kind="class"><name>Superwikia_Documentation_Library::E_Manual::eman_ADMIN_</name>
+    <member refid="d7/dad/class_superwikia___documentation___library_1_1_e___manual_1_1eman___a_d_m_i_n___1a0c5685ce3b05e549fc2781b9d87a9f9c" kind="function"><name>NewMethod</name></member>
+    <member refid="d7/dad/class_superwikia___documentation___library_1_1_e___manual_1_1eman___a_d_m_i_n___1af5aac64e2b4c79ff79277427703efc01" kind="function"><name>eman_ADMIN_</name></member>
+    <member refid="d7/dad/class_superwikia___documentation___library_1_1_e___manual_1_1eman___a_d_m_i_n___1a0c5685ce3b05e549fc2781b9d87a9f9c" kind="function"><name>NewMethod</name></member>
+    <member refid="d7/dad/class_superwikia___documentation___library_1_1_e___manual_1_1eman___a_d_m_i_n___1af5aac64e2b4c79ff79277427703efc01" kind="function"><name>eman_ADMIN_</name></member>
+    <member refid="d7/dad/class_superwikia___documentation___library_1_1_e___manual_1_1eman___a_d_m_i_n___1aeb3ab65dc94886f426b636b7585e354b" kind="function"><name>~eman_ADMIN_</name></member>
+    <member refid="d7/dad/class_superwikia___documentation___library_1_1_e___manual_1_1eman___a_d_m_i_n___1aeb3ab65dc94886f426b636b7585e354b" kind="function"><name>~eman_ADMIN_</name></member>
+  </compound>
+  <compound refid="de/d17/class_manual_1_1eman___e_n_v_i_r_o_n__" kind="class"><name>Manual::eman_ENVIRON_</name>
+    <member refid="de/d17/class_manual_1_1eman___e_n_v_i_r_o_n___1acd0ce6cb6175f625bdefed42a182562f" kind="function"><name>NewMethod</name></member>
+    <member refid="de/d17/class_manual_1_1eman___e_n_v_i_r_o_n___1a20f29bb4b8409bb3ee501315ba72286b" kind="function"><name>eman_ENVIRON_</name></member>
+    <member refid="de/d17/class_manual_1_1eman___e_n_v_i_r_o_n___1a7f41d032b3bd1966796efdbee933ff3b" kind="function"><name>~eman_ENVIRON_</name></member>
+  </compound>
+  <compound refid="d1/d6b/class_superwikia___documentation___library_1_1_e___manual_1_1eman___e_n_v_i_r_o_n__" kind="class"><name>Superwikia_Documentation_Library::E_Manual::eman_ENVIRON_</name>
+    <member refid="d1/d6b/class_superwikia___documentation___library_1_1_e___manual_1_1eman___e_n_v_i_r_o_n___1a7e9d76338b60527f7631d09cb5893278" kind="function"><name>NewMethod</name></member>
+    <member refid="d1/d6b/class_superwikia___documentation___library_1_1_e___manual_1_1eman___e_n_v_i_r_o_n___1a40bce9e0a7f931fda64a41108c5f338e" kind="function"><name>eman_ENVIRON_</name></member>
+    <member refid="d1/d6b/class_superwikia___documentation___library_1_1_e___manual_1_1eman___e_n_v_i_r_o_n___1a7e9d76338b60527f7631d09cb5893278" kind="function"><name>NewMethod</name></member>
+    <member refid="d1/d6b/class_superwikia___documentation___library_1_1_e___manual_1_1eman___e_n_v_i_r_o_n___1a40bce9e0a7f931fda64a41108c5f338e" kind="function"><name>eman_ENVIRON_</name></member>
+    <member refid="d1/d6b/class_superwikia___documentation___library_1_1_e___manual_1_1eman___e_n_v_i_r_o_n___1aab5183fc0dcb2e0d418c2fc9e54959cb" kind="function"><name>~eman_ENVIRON_</name></member>
+    <member refid="d1/d6b/class_superwikia___documentation___library_1_1_e___manual_1_1eman___e_n_v_i_r_o_n___1aab5183fc0dcb2e0d418c2fc9e54959cb" kind="function"><name>~eman_ENVIRON_</name></member>
+  </compound>
+  <compound refid="d8/d50/class_manual_1_1eman___l_e_s_s_o_n_s__" kind="class"><name>Manual::eman_LESSONS_</name>
+    <member refid="d8/d50/class_manual_1_1eman___l_e_s_s_o_n_s___1a6655b6ce783a5ff32f53623dc67d3895" kind="function"><name>NewMethod</name></member>
+    <member refid="d8/d50/class_manual_1_1eman___l_e_s_s_o_n_s___1ac569d2b9177abf807a1c422fb1e25a95" kind="function"><name>~eman_LESSONS_</name></member>
+    <member refid="d8/d50/class_manual_1_1eman___l_e_s_s_o_n_s___1a9844c08dddc2530abc68b221c4b400bc" kind="function"><name>eman_LESSONS_</name></member>
+  </compound>
+  <compound refid="de/d5b/class_superwikia___documentation___library_1_1_e___manual_1_1eman___l_e_s_s_o_n_s__" kind="class"><name>Superwikia_Documentation_Library::E_Manual::eman_LESSONS_</name>
+    <member refid="de/d5b/class_superwikia___documentation___library_1_1_e___manual_1_1eman___l_e_s_s_o_n_s___1a8584da2983a9d5b1abe8ff270c014403" kind="function"><name>NewMethod</name></member>
+    <member refid="de/d5b/class_superwikia___documentation___library_1_1_e___manual_1_1eman___l_e_s_s_o_n_s___1afb383cb911e97069cd692a544b68ec8e" kind="function"><name>~eman_LESSONS_</name></member>
+    <member refid="de/d5b/class_superwikia___documentation___library_1_1_e___manual_1_1eman___l_e_s_s_o_n_s___1a8584da2983a9d5b1abe8ff270c014403" kind="function"><name>NewMethod</name></member>
+    <member refid="de/d5b/class_superwikia___documentation___library_1_1_e___manual_1_1eman___l_e_s_s_o_n_s___1afb383cb911e97069cd692a544b68ec8e" kind="function"><name>~eman_LESSONS_</name></member>
+    <member refid="de/d5b/class_superwikia___documentation___library_1_1_e___manual_1_1eman___l_e_s_s_o_n_s___1a7f03d91e248f2f814d30b8765b992831" kind="function"><name>eman_LESSONS_</name></member>
+    <member refid="de/d5b/class_superwikia___documentation___library_1_1_e___manual_1_1eman___l_e_s_s_o_n_s___1a7f03d91e248f2f814d30b8765b992831" kind="function"><name>eman_LESSONS_</name></member>
+  </compound>
+  <compound refid="d6/ddd/class_manual_1_1eman___p_r_o_j_e_c_t_k_b_a_s_e__" kind="class"><name>Manual::eman_PROJECTKBASE_</name>
+    <member refid="d6/ddd/class_manual_1_1eman___p_r_o_j_e_c_t_k_b_a_s_e___1a21b77a87854c95095f128735e34cee9b" kind="function"><name>NewMethod</name></member>
+    <member refid="d6/ddd/class_manual_1_1eman___p_r_o_j_e_c_t_k_b_a_s_e___1aa6518f0f61e69c350d216fc99c8a7f58" kind="function"><name>eman_PROJECTKBASE_</name></member>
+    <member refid="d6/ddd/class_manual_1_1eman___p_r_o_j_e_c_t_k_b_a_s_e___1a920842d51248faad66c146b15d43c78f" kind="function"><name>~eman_PROJECTKBASE_</name></member>
+  </compound>
+  <compound refid="df/de6/class_superwikia___documentation___library_1_1_e___manual_1_1eman___p_r_o_j_e_c_t_k_b_a_s_e__" kind="class"><name>Superwikia_Documentation_Library::E_Manual::eman_PROJECTKBASE_</name>
+    <member refid="df/de6/class_superwikia___documentation___library_1_1_e___manual_1_1eman___p_r_o_j_e_c_t_k_b_a_s_e___1a546b60346eee623149a4f0c18a61779a" kind="function"><name>NewMethod</name></member>
+    <member refid="df/de6/class_superwikia___documentation___library_1_1_e___manual_1_1eman___p_r_o_j_e_c_t_k_b_a_s_e___1a3728123b110af492d91c36d7dc721a6b" kind="function"><name>eman_PROJECTKBASE_</name></member>
+    <member refid="df/de6/class_superwikia___documentation___library_1_1_e___manual_1_1eman___p_r_o_j_e_c_t_k_b_a_s_e___1a546b60346eee623149a4f0c18a61779a" kind="function"><name>NewMethod</name></member>
+    <member refid="df/de6/class_superwikia___documentation___library_1_1_e___manual_1_1eman___p_r_o_j_e_c_t_k_b_a_s_e___1a3728123b110af492d91c36d7dc721a6b" kind="function"><name>eman_PROJECTKBASE_</name></member>
+    <member refid="df/de6/class_superwikia___documentation___library_1_1_e___manual_1_1eman___p_r_o_j_e_c_t_k_b_a_s_e___1aa4a9adfb28241b581cee76c071ab1f5d" kind="function"><name>~eman_PROJECTKBASE_</name></member>
+    <member refid="df/de6/class_superwikia___documentation___library_1_1_e___manual_1_1eman___p_r_o_j_e_c_t_k_b_a_s_e___1aa4a9adfb28241b581cee76c071ab1f5d" kind="function"><name>~eman_PROJECTKBASE_</name></member>
+  </compound>
+  <compound refid="dd/d5d/class_manual_1_1eman___s_o_u_r_c_e_c_o_d_e__" kind="class"><name>Manual::eman_SOURCECODE_</name>
+    <member refid="dd/d5d/class_manual_1_1eman___s_o_u_r_c_e_c_o_d_e___1a2cd444840f5b74f252b54ce221f0bf34" kind="function"><name>NewMethod</name></member>
+    <member refid="dd/d5d/class_manual_1_1eman___s_o_u_r_c_e_c_o_d_e___1a318606a65d1dd0e4dcac544f941ca9be" kind="function"><name>eman_SOURCECODE_</name></member>
+    <member refid="dd/d5d/class_manual_1_1eman___s_o_u_r_c_e_c_o_d_e___1a6e6f9681e89b4bd84c93abd13d2aeb83" kind="function"><name>~eman_SOURCECODE_</name></member>
+  </compound>
+  <compound refid="d1/d39/class_superwikia___documentation___library_1_1_e___manual_1_1eman___s_o_u_r_c_e_c_o_d_e__" kind="class"><name>Superwikia_Documentation_Library::E_Manual::eman_SOURCECODE_</name>
+    <member refid="d1/d39/class_superwikia___documentation___library_1_1_e___manual_1_1eman___s_o_u_r_c_e_c_o_d_e___1aba97d37000c16835df840012ed69cdaa" kind="function"><name>NewMethod</name></member>
+    <member refid="d1/d39/class_superwikia___documentation___library_1_1_e___manual_1_1eman___s_o_u_r_c_e_c_o_d_e___1a6437635dfbb5ac2d6b8de648ccca0ff5" kind="function"><name>eman_SOURCECODE_</name></member>
+    <member refid="d1/d39/class_superwikia___documentation___library_1_1_e___manual_1_1eman___s_o_u_r_c_e_c_o_d_e___1aba97d37000c16835df840012ed69cdaa" kind="function"><name>NewMethod</name></member>
+    <member refid="d1/d39/class_superwikia___documentation___library_1_1_e___manual_1_1eman___s_o_u_r_c_e_c_o_d_e___1a6437635dfbb5ac2d6b8de648ccca0ff5" kind="function"><name>eman_SOURCECODE_</name></member>
+    <member refid="d1/d39/class_superwikia___documentation___library_1_1_e___manual_1_1eman___s_o_u_r_c_e_c_o_d_e___1acc7a191d6309665256c2c8298f4a2524" kind="function"><name>~eman_SOURCECODE_</name></member>
+    <member refid="d1/d39/class_superwikia___documentation___library_1_1_e___manual_1_1eman___s_o_u_r_c_e_c_o_d_e___1acc7a191d6309665256c2c8298f4a2524" kind="function"><name>~eman_SOURCECODE_</name></member>
+  </compound>
+  <compound refid="db/df6/class_manual_1_1eman___s_y_s_d_i_s_c_l_o_s_e__" kind="class"><name>Manual::eman_SYSDISCLOSE_</name>
+    <member refid="db/df6/class_manual_1_1eman___s_y_s_d_i_s_c_l_o_s_e___1a29d192b1f6999c898c39d0650e5deadb" kind="function"><name>NewMethod</name></member>
+    <member refid="db/df6/class_manual_1_1eman___s_y_s_d_i_s_c_l_o_s_e___1ab52d0a34380e4ada4790421b6bb1c39c" kind="function"><name>eman_SYSDISCLOSE_</name></member>
+    <member refid="db/df6/class_manual_1_1eman___s_y_s_d_i_s_c_l_o_s_e___1afba396f0b3a7a7b666ffa4ca590eaab4" kind="function"><name>~eman_SYSDISCLOSE_</name></member>
+  </compound>
+  <compound refid="d4/d32/class_superwikia___documentation___library_1_1_e___manual_1_1eman___s_y_s_d_i_s_c_l_o_s_e__" kind="class"><name>Superwikia_Documentation_Library::E_Manual::eman_SYSDISCLOSE_</name>
+    <member refid="d4/d32/class_superwikia___documentation___library_1_1_e___manual_1_1eman___s_y_s_d_i_s_c_l_o_s_e___1a62db0873f6ff4a40f2b582706ec175b6" kind="function"><name>NewMethod</name></member>
+    <member refid="d4/d32/class_superwikia___documentation___library_1_1_e___manual_1_1eman___s_y_s_d_i_s_c_l_o_s_e___1a51cc5f50df7096078d002743d024f42f" kind="function"><name>eman_SYSDISCLOSE_</name></member>
+    <member refid="d4/d32/class_superwikia___documentation___library_1_1_e___manual_1_1eman___s_y_s_d_i_s_c_l_o_s_e___1a62db0873f6ff4a40f2b582706ec175b6" kind="function"><name>NewMethod</name></member>
+    <member refid="d4/d32/class_superwikia___documentation___library_1_1_e___manual_1_1eman___s_y_s_d_i_s_c_l_o_s_e___1a51cc5f50df7096078d002743d024f42f" kind="function"><name>eman_SYSDISCLOSE_</name></member>
+    <member refid="d4/d32/class_superwikia___documentation___library_1_1_e___manual_1_1eman___s_y_s_d_i_s_c_l_o_s_e___1a49c8fe5265343144859bb6b4052bd72c" kind="function"><name>~eman_SYSDISCLOSE_</name></member>
+    <member refid="d4/d32/class_superwikia___documentation___library_1_1_e___manual_1_1eman___s_y_s_d_i_s_c_l_o_s_e___1a49c8fe5265343144859bb6b4052bd72c" kind="function"><name>~eman_SYSDISCLOSE_</name></member>
+  </compound>
+  <compound refid="d0/dd2/class_superwikia___documentation___library_1_1_e___manual_1_1eman___t_r_a_n_s_c_r_i_b_e__" kind="class"><name>Superwikia_Documentation_Library::E_Manual::eman_TRANSCRIBE_</name>
+    <member refid="d0/dd2/class_superwikia___documentation___library_1_1_e___manual_1_1eman___t_r_a_n_s_c_r_i_b_e___1a3c383c3ddd2e8eb5bb00cacec900672f" kind="function"><name>NewMethod</name></member>
+    <member refid="d0/dd2/class_superwikia___documentation___library_1_1_e___manual_1_1eman___t_r_a_n_s_c_r_i_b_e___1a84c0d4ca9ba411bee6c6b9ebf26eeef3" kind="function"><name>eman_TRANSCRIBE_</name></member>
+    <member refid="d0/dd2/class_superwikia___documentation___library_1_1_e___manual_1_1eman___t_r_a_n_s_c_r_i_b_e___1a3c383c3ddd2e8eb5bb00cacec900672f" kind="function"><name>NewMethod</name></member>
+    <member refid="d0/dd2/class_superwikia___documentation___library_1_1_e___manual_1_1eman___t_r_a_n_s_c_r_i_b_e___1a84c0d4ca9ba411bee6c6b9ebf26eeef3" kind="function"><name>eman_TRANSCRIBE_</name></member>
+    <member refid="d0/dd2/class_superwikia___documentation___library_1_1_e___manual_1_1eman___t_r_a_n_s_c_r_i_b_e___1a5c4976f449311de1fb0663080a54920e" kind="function"><name>~eman_TRANSCRIBE_</name></member>
+    <member refid="d0/dd2/class_superwikia___documentation___library_1_1_e___manual_1_1eman___t_r_a_n_s_c_r_i_b_e___1a5c4976f449311de1fb0663080a54920e" kind="function"><name>~eman_TRANSCRIBE_</name></member>
+  </compound>
+  <compound refid="dd/d0e/class_manual_1_1eman___t_r_a_n_s_c_r_i_b_e__" kind="class"><name>Manual::eman_TRANSCRIBE_</name>
+    <member refid="dd/d0e/class_manual_1_1eman___t_r_a_n_s_c_r_i_b_e___1ae78f547911323e66c2756e4bfa06fee6" kind="function"><name>NewMethod</name></member>
+    <member refid="dd/d0e/class_manual_1_1eman___t_r_a_n_s_c_r_i_b_e___1a52afd80851704556165e3d471561a2c0" kind="function"><name>eman_TRANSCRIBE_</name></member>
+    <member refid="dd/d0e/class_manual_1_1eman___t_r_a_n_s_c_r_i_b_e___1a666a2f57120df3128a7b9c6ade205431" kind="function"><name>~eman_TRANSCRIBE_</name></member>
+  </compound>
+  <compound refid="d8/d25/class_s___terminal_1_1_installer1" kind="class"><name>S_Terminal::Installer1</name>
+    <member refid="d8/d25/class_s___terminal_1_1_installer1_1afcbc08e24770fb40258b0b23472f2984" kind="variable"><name>components</name></member>
+    <member refid="d8/d25/class_s___terminal_1_1_installer1_1a08f1b23eba2a8c451a1d4574937f0b18" kind="function"><name>Installer1</name></member>
+    <member refid="d8/d25/class_s___terminal_1_1_installer1_1a868953d5780427ae80467ebd12a2e913" kind="function"><name>Dispose</name></member>
+    <member refid="d8/d25/class_s___terminal_1_1_installer1_1ac0b65cdd3114cc7785cb236d4fba6b1c" kind="function"><name>InitializeComponent</name></member>
+  </compound>
+  <compound refid="de/d74/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___a_n_c_i_l_l_i_a_r_y__" kind="class"><name>Superwikia_Documentation_Library::Local_Ruleset_Shells::local_ANCILLIARY_</name>
+    <member refid="de/d74/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___a_n_c_i_l_l_i_a_r_y___1a48cac9792289176534a8a7c7354fe222" kind="function"><name>NewMethod</name></member>
+    <member refid="de/d74/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___a_n_c_i_l_l_i_a_r_y___1a9e512adc168f368bbddee9fc173edd45" kind="function"><name>local_ANCILLIARY_</name></member>
+    <member refid="de/d74/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___a_n_c_i_l_l_i_a_r_y___1a48cac9792289176534a8a7c7354fe222" kind="function"><name>NewMethod</name></member>
+    <member refid="de/d74/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___a_n_c_i_l_l_i_a_r_y___1a9e512adc168f368bbddee9fc173edd45" kind="function"><name>local_ANCILLIARY_</name></member>
+    <member refid="de/d74/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___a_n_c_i_l_l_i_a_r_y___1a9dedd9e9a5c05084371336ba86249f1d" kind="function"><name>~local_ANCILLIARY_</name></member>
+    <member refid="de/d74/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___a_n_c_i_l_l_i_a_r_y___1a9dedd9e9a5c05084371336ba86249f1d" kind="function"><name>~local_ANCILLIARY_</name></member>
+  </compound>
+  <compound refid="d6/d26/class_shells_1_1local___a_n_c_i_l_l_i_a_r_y__" kind="class"><name>Shells::local_ANCILLIARY_</name>
+    <member refid="d6/d26/class_shells_1_1local___a_n_c_i_l_l_i_a_r_y___1a582f461b84fd2e6252a25c638604ed1d" kind="function"><name>NewMethod</name></member>
+    <member refid="d6/d26/class_shells_1_1local___a_n_c_i_l_l_i_a_r_y___1a4b1e51545b024df96f89b36431b32d8f" kind="function"><name>local_ANCILLIARY_</name></member>
+    <member refid="d6/d26/class_shells_1_1local___a_n_c_i_l_l_i_a_r_y___1ace805a9d2e4f45ef95699a3db98dbea5" kind="function"><name>~local_ANCILLIARY_</name></member>
+  </compound>
+  <compound refid="de/d05/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___e_n_v_i_r_o_n_m_e_n_t__" kind="class"><name>Superwikia_Documentation_Library::Local_Ruleset_Shells::local_ENVIRONMENT_</name>
+    <member refid="de/d05/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___e_n_v_i_r_o_n_m_e_n_t___1a9fa9f841ef26590fe80b7375f196a08b" kind="function"><name>NewMethod</name></member>
+    <member refid="de/d05/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___e_n_v_i_r_o_n_m_e_n_t___1a2794e328e13f08f8ba0d4c229a63afcc" kind="function"><name>local_ENVIRONMENT_</name></member>
+    <member refid="de/d05/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___e_n_v_i_r_o_n_m_e_n_t___1a9fa9f841ef26590fe80b7375f196a08b" kind="function"><name>NewMethod</name></member>
+    <member refid="de/d05/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___e_n_v_i_r_o_n_m_e_n_t___1a2794e328e13f08f8ba0d4c229a63afcc" kind="function"><name>local_ENVIRONMENT_</name></member>
+    <member refid="de/d05/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___e_n_v_i_r_o_n_m_e_n_t___1acd642f8cd9e03434caf2f416051ad977" kind="function"><name>~local_ENVIRONMENT_</name></member>
+    <member refid="de/d05/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___e_n_v_i_r_o_n_m_e_n_t___1acd642f8cd9e03434caf2f416051ad977" kind="function"><name>~local_ENVIRONMENT_</name></member>
+  </compound>
+  <compound refid="d1/d23/class_shells_1_1local___e_n_v_i_r_o_n_m_e_n_t__" kind="class"><name>Shells::local_ENVIRONMENT_</name>
+    <member refid="d1/d23/class_shells_1_1local___e_n_v_i_r_o_n_m_e_n_t___1a0dc98333cd1d73725270994804562517" kind="function"><name>NewMethod</name></member>
+    <member refid="d1/d23/class_shells_1_1local___e_n_v_i_r_o_n_m_e_n_t___1a0f99f17914a4dbd66836184fdb0bdb97" kind="function"><name>local_ENVIRONMENT_</name></member>
+    <member refid="d1/d23/class_shells_1_1local___e_n_v_i_r_o_n_m_e_n_t___1a491af563cbba7016ec3a9e648bbcd4a8" kind="function"><name>~local_ENVIRONMENT_</name></member>
+  </compound>
+  <compound refid="d9/de9/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___l_a_y_e_r_i_n_g__" kind="class"><name>Superwikia_Documentation_Library::Local_Ruleset_Shells::local_LAYERING_</name>
+    <member refid="d9/de9/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___l_a_y_e_r_i_n_g___1a468cfdb3878de73e6473753f787e1bb7" kind="function"><name>NewMethod</name></member>
+    <member refid="d9/de9/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___l_a_y_e_r_i_n_g___1a4a8309f474ded9f955c77fa8388ea9c1" kind="function"><name>local_LAYERING_</name></member>
+    <member refid="d9/de9/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___l_a_y_e_r_i_n_g___1a468cfdb3878de73e6473753f787e1bb7" kind="function"><name>NewMethod</name></member>
+    <member refid="d9/de9/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___l_a_y_e_r_i_n_g___1a4a8309f474ded9f955c77fa8388ea9c1" kind="function"><name>local_LAYERING_</name></member>
+    <member refid="d9/de9/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___l_a_y_e_r_i_n_g___1aef4fb3cc5a1811d3c2812133d029975b" kind="function"><name>~local_LAYERING_</name></member>
+    <member refid="d9/de9/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___l_a_y_e_r_i_n_g___1aef4fb3cc5a1811d3c2812133d029975b" kind="function"><name>~local_LAYERING_</name></member>
+  </compound>
+  <compound refid="d8/dae/class_shells_1_1local___l_a_y_e_r_i_n_g__" kind="class"><name>Shells::local_LAYERING_</name>
+    <member refid="d8/dae/class_shells_1_1local___l_a_y_e_r_i_n_g___1a69bd5a4ae2cdb33cef298837a7a47635" kind="function"><name>NewMethod</name></member>
+    <member refid="d8/dae/class_shells_1_1local___l_a_y_e_r_i_n_g___1a72074e5e2a5b7e59a57da255930f0a6b" kind="function"><name>local_LAYERING_</name></member>
+    <member refid="d8/dae/class_shells_1_1local___l_a_y_e_r_i_n_g___1a42a9a065bbe3f81866a36b9a14ce17da" kind="function"><name>~local_LAYERING_</name></member>
+  </compound>
+  <compound refid="d6/dc7/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___p_a_c_k_a_g_i_n_g__" kind="class"><name>Superwikia_Documentation_Library::Local_Ruleset_Shells::local_PACKAGING_</name>
+    <member refid="d6/dc7/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___p_a_c_k_a_g_i_n_g___1a038adf4522cf427abd738a41e32975ba" kind="function"><name>NewMethod</name></member>
+    <member refid="d6/dc7/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___p_a_c_k_a_g_i_n_g___1ab5266ebdd5c85690624d7123e6b2aa84" kind="function"><name>local_PACKAGING_</name></member>
+    <member refid="d6/dc7/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___p_a_c_k_a_g_i_n_g___1a038adf4522cf427abd738a41e32975ba" kind="function"><name>NewMethod</name></member>
+    <member refid="d6/dc7/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___p_a_c_k_a_g_i_n_g___1ab5266ebdd5c85690624d7123e6b2aa84" kind="function"><name>local_PACKAGING_</name></member>
+    <member refid="d6/dc7/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___p_a_c_k_a_g_i_n_g___1abb1d31e6e2d8013e63ef0c5bd0c32826" kind="function"><name>~local_PACKAGING_</name></member>
+    <member refid="d6/dc7/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___p_a_c_k_a_g_i_n_g___1abb1d31e6e2d8013e63ef0c5bd0c32826" kind="function"><name>~local_PACKAGING_</name></member>
+  </compound>
+  <compound refid="d9/d69/class_shells_1_1local___p_a_c_k_a_g_i_n_g__" kind="class"><name>Shells::local_PACKAGING_</name>
+    <member refid="d9/d69/class_shells_1_1local___p_a_c_k_a_g_i_n_g___1a6c41a43eef12809cae5e40b0da74155e" kind="function"><name>NewMethod</name></member>
+    <member refid="d9/d69/class_shells_1_1local___p_a_c_k_a_g_i_n_g___1a7c2259ad9ea63265f40dd2ffcca412d3" kind="function"><name>local_PACKAGING_</name></member>
+    <member refid="d9/d69/class_shells_1_1local___p_a_c_k_a_g_i_n_g___1ab36ee8a3bfeac892fa6b24134e8f2aad" kind="function"><name>~local_PACKAGING_</name></member>
+  </compound>
+  <compound refid="df/db5/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1_local___ruleset" kind="class"><name>Superwikia_Documentation_Library::Local_Ruleset_Shells::Local_Ruleset</name>
+    <member refid="df/db5/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1_local___ruleset_1abe14cbc2fa852e8389cfe7ec5a359589" kind="event"><name>NewEvent</name></member>
+    <member refid="df/db5/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1_local___ruleset_1aca701e2d3cad1ad42b1e24b8d6ab87e7" kind="function"><name>Local_Ruleset</name></member>
+    <member refid="df/db5/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1_local___ruleset_1aa558e853bb8936b400a452f861ab4461" kind="function"><name>NewMethod</name></member>
+    <member refid="df/db5/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1_local___ruleset_1aca701e2d3cad1ad42b1e24b8d6ab87e7" kind="function"><name>Local_Ruleset</name></member>
+    <member refid="df/db5/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1_local___ruleset_1aa558e853bb8936b400a452f861ab4461" kind="function"><name>NewMethod</name></member>
+  </compound>
+  <compound refid="d1/d2a/struct_shells_1_1_local___ruleset" kind="struct"><name>Shells::Local_Ruleset</name>
+    <member refid="d1/d2a/struct_shells_1_1_local___ruleset_1a9fa824cb070ad9ea106be8c58e0f2fcc" kind="event"><name>NewEvent</name></member>
+    <member refid="d1/d2a/struct_shells_1_1_local___ruleset_1ae5c6341a79a2ea2408196b7dd38f01e8" kind="function"><name>Local_Ruleset</name></member>
+    <member refid="d1/d2a/struct_shells_1_1_local___ruleset_1ac6e3993021626492110b372dc4256a17" kind="function"><name>NewMethod</name></member>
+  </compound>
+  <compound refid="d5/d4c/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___s_t_a_t_i_o_n_a_r_y__" kind="class"><name>Superwikia_Documentation_Library::Local_Ruleset_Shells::local_STATIONARY_</name>
+    <member refid="d5/d4c/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___s_t_a_t_i_o_n_a_r_y___1a24d9a2bb9562ac8c0c884179c2744447" kind="function"><name>NewMethod</name></member>
+    <member refid="d5/d4c/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___s_t_a_t_i_o_n_a_r_y___1ac32167179700512dbf0b008beedc2c49" kind="function"><name>local_STATIONARY_</name></member>
+    <member refid="d5/d4c/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___s_t_a_t_i_o_n_a_r_y___1a24d9a2bb9562ac8c0c884179c2744447" kind="function"><name>NewMethod</name></member>
+    <member refid="d5/d4c/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___s_t_a_t_i_o_n_a_r_y___1ac32167179700512dbf0b008beedc2c49" kind="function"><name>local_STATIONARY_</name></member>
+    <member refid="d5/d4c/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___s_t_a_t_i_o_n_a_r_y___1a690bcfb8fc8d7fecc69d37365ae3b6dc" kind="function"><name>~local_STATIONARY_</name></member>
+    <member refid="d5/d4c/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___s_t_a_t_i_o_n_a_r_y___1a690bcfb8fc8d7fecc69d37365ae3b6dc" kind="function"><name>~local_STATIONARY_</name></member>
+  </compound>
+  <compound refid="d2/d79/class_shells_1_1local___s_t_a_t_i_o_n_a_r_y__" kind="class"><name>Shells::local_STATIONARY_</name>
+    <member refid="d2/d79/class_shells_1_1local___s_t_a_t_i_o_n_a_r_y___1acc1ccf1a05b4b7356124ee6b29231e04" kind="function"><name>NewMethod</name></member>
+    <member refid="d2/d79/class_shells_1_1local___s_t_a_t_i_o_n_a_r_y___1ace1c993eda831fa8a264ef4f671f03bc" kind="function"><name>local_STATIONARY_</name></member>
+    <member refid="d2/d79/class_shells_1_1local___s_t_a_t_i_o_n_a_r_y___1a1fc971a98caf1567d5cd1c8c5dbc4f2c" kind="function"><name>~local_STATIONARY_</name></member>
+  </compound>
+  <compound refid="d3/ddd/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___s_u_p_e_r_c_l_u_s_t_e_r__" kind="class"><name>Superwikia_Documentation_Library::Local_Ruleset_Shells::local_SUPERCLUSTER_</name>
+    <member refid="d3/ddd/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___s_u_p_e_r_c_l_u_s_t_e_r___1a9e9425a2b87dda47666a1484c69ecb64" kind="function"><name>NewMethod</name></member>
+    <member refid="d3/ddd/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___s_u_p_e_r_c_l_u_s_t_e_r___1a8b337e65be31ecd19afacece6dd742b6" kind="function"><name>local_SUPERCLUSTER_</name></member>
+    <member refid="d3/ddd/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___s_u_p_e_r_c_l_u_s_t_e_r___1a9e9425a2b87dda47666a1484c69ecb64" kind="function"><name>NewMethod</name></member>
+    <member refid="d3/ddd/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___s_u_p_e_r_c_l_u_s_t_e_r___1a8b337e65be31ecd19afacece6dd742b6" kind="function"><name>local_SUPERCLUSTER_</name></member>
+    <member refid="d3/ddd/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___s_u_p_e_r_c_l_u_s_t_e_r___1a05cdcb35c7337d96bcb64be8ea849e7e" kind="function"><name>~local_SUPERCLUSTER_</name></member>
+    <member refid="d3/ddd/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___s_u_p_e_r_c_l_u_s_t_e_r___1a05cdcb35c7337d96bcb64be8ea849e7e" kind="function"><name>~local_SUPERCLUSTER_</name></member>
+  </compound>
+  <compound refid="da/d4e/class_shells_1_1local___s_u_p_e_r_c_l_u_s_t_e_r__" kind="class"><name>Shells::local_SUPERCLUSTER_</name>
+    <member refid="da/d4e/class_shells_1_1local___s_u_p_e_r_c_l_u_s_t_e_r___1aaa549feaad7f8ace156e0f4741342129" kind="function"><name>NewMethod</name></member>
+    <member refid="da/d4e/class_shells_1_1local___s_u_p_e_r_c_l_u_s_t_e_r___1a33cc8cd7d08f37b3f60a687e58f381ca" kind="function"><name>local_SUPERCLUSTER_</name></member>
+    <member refid="da/d4e/class_shells_1_1local___s_u_p_e_r_c_l_u_s_t_e_r___1a1125c67c689cadf5ef36e7aeeb1f755e" kind="function"><name>~local_SUPERCLUSTER_</name></member>
+  </compound>
+  <compound refid="d3/ddf/class_shells_1_1local___t_r_a_n_s_c_o_m__" kind="class"><name>Shells::local_TRANSCOM_</name>
+    <member refid="d3/ddf/class_shells_1_1local___t_r_a_n_s_c_o_m___1a8352e88856e4cc884a94f77c9cc58e43" kind="function"><name>NewMethod</name></member>
+    <member refid="d3/ddf/class_shells_1_1local___t_r_a_n_s_c_o_m___1a7081c4f9355d28b437c75d3b6cbb1eb4" kind="function"><name>local_TRANSCOM_</name></member>
+    <member refid="d3/ddf/class_shells_1_1local___t_r_a_n_s_c_o_m___1a7f3ad03197fe0a7d03eec59b9a8bc789" kind="function"><name>~local_TRANSCOM_</name></member>
+  </compound>
+  <compound refid="d5/d50/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___t_r_a_n_s_c_o_m__" kind="class"><name>Superwikia_Documentation_Library::Local_Ruleset_Shells::local_TRANSCOM_</name>
+    <member refid="d5/d50/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___t_r_a_n_s_c_o_m___1a52a1a0e797743e0dea00f7ce917e5432" kind="function"><name>NewMethod</name></member>
+    <member refid="d5/d50/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___t_r_a_n_s_c_o_m___1a9c17b13b9d0d0f70ab28648bf5dba690" kind="function"><name>local_TRANSCOM_</name></member>
+    <member refid="d5/d50/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___t_r_a_n_s_c_o_m___1a52a1a0e797743e0dea00f7ce917e5432" kind="function"><name>NewMethod</name></member>
+    <member refid="d5/d50/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___t_r_a_n_s_c_o_m___1a9c17b13b9d0d0f70ab28648bf5dba690" kind="function"><name>local_TRANSCOM_</name></member>
+    <member refid="d5/d50/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___t_r_a_n_s_c_o_m___1abbf42cc93731960482e82472de50bb34" kind="function"><name>~local_TRANSCOM_</name></member>
+    <member refid="d5/d50/class_superwikia___documentation___library_1_1_local___ruleset___shells_1_1local___t_r_a_n_s_c_o_m___1abbf42cc93731960482e82472de50bb34" kind="function"><name>~local_TRANSCOM_</name></member>
+  </compound>
+  <compound refid="dd/df6/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1_policies___r_a_i_r" kind="class"><name>Superwikia_Documentation_Library::Policies_RAIR::Policies_RAIR</name>
+    <member refid="dd/df6/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1_policies___r_a_i_r_1ac6b8e20e8874b79016b7599c18131ee2" kind="event"><name>NewEvent</name></member>
+    <member refid="dd/df6/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1_policies___r_a_i_r_1adef64123b615fe82ad22166f0e09637d" kind="function"><name>Policies_RAIR</name></member>
+    <member refid="dd/df6/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1_policies___r_a_i_r_1ab341d443656ed7c18bec20520bb6a707" kind="function"><name>NewMethod</name></member>
+    <member refid="dd/df6/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1_policies___r_a_i_r_1adef64123b615fe82ad22166f0e09637d" kind="function"><name>Policies_RAIR</name></member>
+    <member refid="dd/df6/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1_policies___r_a_i_r_1ab341d443656ed7c18bec20520bb6a707" kind="function"><name>NewMethod</name></member>
+  </compound>
+  <compound refid="da/de8/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___a_c_t_o_r__rair" kind="class"><name>Superwikia_Documentation_Library::Policies_RAIR::policy_ACTOR_rair</name>
+    <member refid="da/de8/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___a_c_t_o_r__rair_1adc270b0655465b672c62525cb7beb62c" kind="function"><name>NewMethod</name></member>
+    <member refid="da/de8/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___a_c_t_o_r__rair_1a20925e536688397f4c1eaee613c842ab" kind="function"><name>policy_ACTOR_rair</name></member>
+    <member refid="da/de8/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___a_c_t_o_r__rair_1adc270b0655465b672c62525cb7beb62c" kind="function"><name>NewMethod</name></member>
+    <member refid="da/de8/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___a_c_t_o_r__rair_1a20925e536688397f4c1eaee613c842ab" kind="function"><name>policy_ACTOR_rair</name></member>
+    <member refid="da/de8/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___a_c_t_o_r__rair_1a5fa39481f031e8efc3ad8aff689a068b" kind="function"><name>~policy_ACTOR_rair</name></member>
+    <member refid="da/de8/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___a_c_t_o_r__rair_1a5fa39481f031e8efc3ad8aff689a068b" kind="function"><name>~policy_ACTOR_rair</name></member>
+  </compound>
+  <compound refid="dc/d0f/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___b_a_c_k_u_p__rair" kind="class"><name>Superwikia_Documentation_Library::Policies_RAIR::policy_BACKUP_rair</name>
+    <member refid="dc/d0f/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___b_a_c_k_u_p__rair_1a5fd946d26dbb1b85cf93867713063ab0" kind="function"><name>NewMethod</name></member>
+    <member refid="dc/d0f/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___b_a_c_k_u_p__rair_1a74afd178406efeddb8c95f7d07b2763c" kind="function"><name>policy_BACKUP_rair</name></member>
+    <member refid="dc/d0f/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___b_a_c_k_u_p__rair_1a5fd946d26dbb1b85cf93867713063ab0" kind="function"><name>NewMethod</name></member>
+    <member refid="dc/d0f/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___b_a_c_k_u_p__rair_1a74afd178406efeddb8c95f7d07b2763c" kind="function"><name>policy_BACKUP_rair</name></member>
+    <member refid="dc/d0f/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___b_a_c_k_u_p__rair_1a3d0ea44a1d987ced3fe589fb2517d6fc" kind="function"><name>~policy_BACKUP_rair</name></member>
+    <member refid="dc/d0f/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___b_a_c_k_u_p__rair_1a3d0ea44a1d987ced3fe589fb2517d6fc" kind="function"><name>~policy_BACKUP_rair</name></member>
+  </compound>
+  <compound refid="dc/de7/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___d_e_s_t_r_u_c_t_o_r__rair" kind="class"><name>Superwikia_Documentation_Library::Policies_RAIR::policy_DESTRUCTOR_rair</name>
+    <member refid="dc/de7/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___d_e_s_t_r_u_c_t_o_r__rair_1a79ba568f09cea2f84c877d69f12d5724" kind="function"><name>NewMethod</name></member>
+    <member refid="dc/de7/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___d_e_s_t_r_u_c_t_o_r__rair_1a4b401a2ef9c8db5bd121f343cfbcb945" kind="function"><name>policy_DESTRUCTOR_rair</name></member>
+    <member refid="dc/de7/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___d_e_s_t_r_u_c_t_o_r__rair_1a79ba568f09cea2f84c877d69f12d5724" kind="function"><name>NewMethod</name></member>
+    <member refid="dc/de7/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___d_e_s_t_r_u_c_t_o_r__rair_1a4b401a2ef9c8db5bd121f343cfbcb945" kind="function"><name>policy_DESTRUCTOR_rair</name></member>
+    <member refid="dc/de7/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___d_e_s_t_r_u_c_t_o_r__rair_1a0b7d4fe74616e3ecb32e0ee7b8e63f64" kind="function"><name>~policy_DESTRUCTOR_rair</name></member>
+    <member refid="dc/de7/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___d_e_s_t_r_u_c_t_o_r__rair_1a0b7d4fe74616e3ecb32e0ee7b8e63f64" kind="function"><name>~policy_DESTRUCTOR_rair</name></member>
+  </compound>
+  <compound refid="d4/dc3/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___n_e_x_t_s_t_a_g_e__rair" kind="class"><name>Superwikia_Documentation_Library::Policies_RAIR::policy_NEXTSTAGE_rair</name>
+    <member refid="d4/dc3/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___n_e_x_t_s_t_a_g_e__rair_1aeccd76c341df80f0d457dc14200cae05" kind="function"><name>NewMethod</name></member>
+    <member refid="d4/dc3/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___n_e_x_t_s_t_a_g_e__rair_1a7d28e2964fe14c83e34c562818bd04c3" kind="function"><name>policy_NEXTSTAGE_rair</name></member>
+    <member refid="d4/dc3/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___n_e_x_t_s_t_a_g_e__rair_1aeccd76c341df80f0d457dc14200cae05" kind="function"><name>NewMethod</name></member>
+    <member refid="d4/dc3/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___n_e_x_t_s_t_a_g_e__rair_1a7d28e2964fe14c83e34c562818bd04c3" kind="function"><name>policy_NEXTSTAGE_rair</name></member>
+    <member refid="d4/dc3/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___n_e_x_t_s_t_a_g_e__rair_1a1200c937fa7cf34974ba84a5402c4cdb" kind="function"><name>~policy_NEXTSTAGE_rair</name></member>
+    <member refid="d4/dc3/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___n_e_x_t_s_t_a_g_e__rair_1a1200c937fa7cf34974ba84a5402c4cdb" kind="function"><name>~policy_NEXTSTAGE_rair</name></member>
+  </compound>
+  <compound refid="d1/db4/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___n_o_r_m_a_l__rair" kind="class"><name>Superwikia_Documentation_Library::Policies_RAIR::policy_NORMAL_rair</name>
+    <member refid="d1/db4/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___n_o_r_m_a_l__rair_1ac1862e12918d06028b5a6be85a58bfd0" kind="function"><name>NewMethod</name></member>
+    <member refid="d1/db4/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___n_o_r_m_a_l__rair_1ab9c9248ce4e700cc42cb9cf4cfff8c94" kind="function"><name>policy_NORMAL_rair</name></member>
+    <member refid="d1/db4/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___n_o_r_m_a_l__rair_1ac1862e12918d06028b5a6be85a58bfd0" kind="function"><name>NewMethod</name></member>
+    <member refid="d1/db4/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___n_o_r_m_a_l__rair_1ab9c9248ce4e700cc42cb9cf4cfff8c94" kind="function"><name>policy_NORMAL_rair</name></member>
+    <member refid="d1/db4/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___n_o_r_m_a_l__rair_1ae7d3509697377a8739f791657d527d12" kind="function"><name>~policy_NORMAL_rair</name></member>
+    <member refid="d1/db4/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___n_o_r_m_a_l__rair_1ae7d3509697377a8739f791657d527d12" kind="function"><name>~policy_NORMAL_rair</name></member>
+  </compound>
+  <compound refid="d0/dda/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___o_c_c_u_p_i_e_r__rair" kind="class"><name>Superwikia_Documentation_Library::Policies_RAIR::policy_OCCUPIER_rair</name>
+    <member refid="d0/dda/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___o_c_c_u_p_i_e_r__rair_1a5f8c39e47a1074a6ae2dd5fec93e1956" kind="function"><name>NewMethod</name></member>
+    <member refid="d0/dda/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___o_c_c_u_p_i_e_r__rair_1ae7ccb50b418ca802affa5959e26a18a5" kind="function"><name>policy_OCCUPIER_rair</name></member>
+    <member refid="d0/dda/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___o_c_c_u_p_i_e_r__rair_1a5f8c39e47a1074a6ae2dd5fec93e1956" kind="function"><name>NewMethod</name></member>
+    <member refid="d0/dda/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___o_c_c_u_p_i_e_r__rair_1ae7ccb50b418ca802affa5959e26a18a5" kind="function"><name>policy_OCCUPIER_rair</name></member>
+    <member refid="d0/dda/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___o_c_c_u_p_i_e_r__rair_1a83dca06fef88f60338ebadad6c1e5faa" kind="function"><name>~policy_OCCUPIER_rair</name></member>
+    <member refid="d0/dda/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___o_c_c_u_p_i_e_r__rair_1a83dca06fef88f60338ebadad6c1e5faa" kind="function"><name>~policy_OCCUPIER_rair</name></member>
+  </compound>
+  <compound refid="d0/d8b/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___r_e_a_c_t_o_r__rair" kind="class"><name>Superwikia_Documentation_Library::Policies_RAIR::policy_REACTOR_rair</name>
+    <member refid="d0/d8b/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___r_e_a_c_t_o_r__rair_1a837f9462f32b8164db84ab69ff730846" kind="function"><name>NewMethod</name></member>
+    <member refid="d0/d8b/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___r_e_a_c_t_o_r__rair_1acb65cb64b47b0c6cb4d4369a783574c9" kind="function"><name>policy_REACTOR_rair</name></member>
+    <member refid="d0/d8b/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___r_e_a_c_t_o_r__rair_1a837f9462f32b8164db84ab69ff730846" kind="function"><name>NewMethod</name></member>
+    <member refid="d0/d8b/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___r_e_a_c_t_o_r__rair_1acb65cb64b47b0c6cb4d4369a783574c9" kind="function"><name>policy_REACTOR_rair</name></member>
+    <member refid="d0/d8b/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___r_e_a_c_t_o_r__rair_1ac32400281ab4df01206dedd88345f62d" kind="function"><name>~policy_REACTOR_rair</name></member>
+    <member refid="d0/d8b/class_superwikia___documentation___library_1_1_policies___r_a_i_r_1_1policy___r_e_a_c_t_o_r__rair_1ac32400281ab4df01206dedd88345f62d" kind="function"><name>~policy_REACTOR_rair</name></member>
+  </compound>
+  <compound refid="d7/d69/class_s___terminal_1_1_program" kind="class"><name>S_Terminal::Program</name>
+    <member refid="d7/d69/class_s___terminal_1_1_program_1adac9f6ed2b27f8c2bd6a5a9cd164aea2" kind="function"><name>Main</name></member>
+  </compound>
+  <compound refid="d7/d0f/class_s___terminal_1_1_properties_1_1_resources" kind="class"><name>S_Terminal::Properties::Resources</name>
+    <member refid="d7/d0f/class_s___terminal_1_1_properties_1_1_resources_1a0b7ec826374ea01350c57983cbfb65fe" kind="variable"><name>resourceMan</name></member>
+    <member refid="d7/d0f/class_s___terminal_1_1_properties_1_1_resources_1aae55af8328bafaa6197a54c3fd4594b5" kind="variable"><name>resourceCulture</name></member>
+    <member refid="d7/d0f/class_s___terminal_1_1_properties_1_1_resources_1a5281810d0a5d531c4fe338bb1df80c93" kind="property"><name>ResourceManager</name></member>
+    <member refid="d7/d0f/class_s___terminal_1_1_properties_1_1_resources_1ae9ace450fe3edd60c295ebc2396bbce7" kind="property"><name>Culture</name></member>
+    <member refid="d7/d0f/class_s___terminal_1_1_properties_1_1_resources_1a8906d8d82e59636dbf08e711f10a3718" kind="function"><name>Resources</name></member>
+  </compound>
+  <compound refid="d7/dcb/class_s___terminal_1_1_properties_1_1_settings" kind="class"><name>S_Terminal::Properties::Settings</name>
+    <member refid="d7/dcb/class_s___terminal_1_1_properties_1_1_settings_1ab8097f18d1f2f75e3b2c12c4db8688a3" kind="variable"><name>defaultInstance</name></member>
+    <member refid="d7/dcb/class_s___terminal_1_1_properties_1_1_settings_1ad2f7da028150bef5f315c00f44613589" kind="property"><name>Default</name></member>
+    <member refid="d7/dcb/class_s___terminal_1_1_properties_1_1_settings_1a48a225fe6ab87f8a7752de09cfc24e1c" kind="property"><name>Setting</name></member>
+  </compound>
+  <compound refid="da/de6/class_apocolypia_1_1sup___a_r_g_u_m_e_n_t__" kind="class"><name>Apocolypia::sup_ARGUMENT_</name>
+    <member refid="da/de6/class_apocolypia_1_1sup___a_r_g_u_m_e_n_t___1aa3c20b3643b998ac7c37ee4d20158787" kind="function"><name>NewMethod</name></member>
+    <member refid="da/de6/class_apocolypia_1_1sup___a_r_g_u_m_e_n_t___1a47f6a77ab19b8cf205ae3c408e6217ca" kind="function"><name>sup_ARGUMENT_</name></member>
+    <member refid="da/de6/class_apocolypia_1_1sup___a_r_g_u_m_e_n_t___1a822e88b605890d8e471d0ad86152e117" kind="function"><name>~sup_ARGUMENT_</name></member>
+  </compound>
+  <compound refid="de/d72/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___a_r_g_u_m_e_n_t__" kind="class"><name>Superwikia_Documentation_Library::SWA_Apocolypia::sup_ARGUMENT_</name>
+    <member refid="de/d72/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___a_r_g_u_m_e_n_t___1ad5f6fcdc8f33efc1a25c35a09912d8df" kind="function"><name>NewMethod</name></member>
+    <member refid="de/d72/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___a_r_g_u_m_e_n_t___1a78f9e902049d5ad145a1e7a1f9328ceb" kind="function"><name>sup_ARGUMENT_</name></member>
+    <member refid="de/d72/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___a_r_g_u_m_e_n_t___1ad5f6fcdc8f33efc1a25c35a09912d8df" kind="function"><name>NewMethod</name></member>
+    <member refid="de/d72/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___a_r_g_u_m_e_n_t___1a78f9e902049d5ad145a1e7a1f9328ceb" kind="function"><name>sup_ARGUMENT_</name></member>
+    <member refid="de/d72/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___a_r_g_u_m_e_n_t___1acf5d5623ff7a495ee582cc49317ff4e8" kind="function"><name>~sup_ARGUMENT_</name></member>
+    <member refid="de/d72/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___a_r_g_u_m_e_n_t___1acf5d5623ff7a495ee582cc49317ff4e8" kind="function"><name>~sup_ARGUMENT_</name></member>
+  </compound>
+  <compound refid="db/da3/class_apocolypia_1_1sup___b_a_d_e_l_r_e_n_d_e_r__" kind="class"><name>Apocolypia::sup_BADELRENDER_</name>
+    <member refid="db/da3/class_apocolypia_1_1sup___b_a_d_e_l_r_e_n_d_e_r___1ab2ff8334d2839ed68b39565b534ecd0e" kind="function"><name>NewMethod</name></member>
+    <member refid="db/da3/class_apocolypia_1_1sup___b_a_d_e_l_r_e_n_d_e_r___1a366f180202aa3597066b58b3ca6a24e9" kind="function"><name>sup_BADELRENDER_</name></member>
+    <member refid="db/da3/class_apocolypia_1_1sup___b_a_d_e_l_r_e_n_d_e_r___1a3d93de062801fb341c36dd1b281adfad" kind="function"><name>~sup_BADELRENDER_</name></member>
+  </compound>
+  <compound refid="d0/d1b/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___b_a_d_e_l_r_e_n_d_e_r__" kind="class"><name>Superwikia_Documentation_Library::SWA_Apocolypia::sup_BADELRENDER_</name>
+    <member refid="d0/d1b/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___b_a_d_e_l_r_e_n_d_e_r___1a360ae5523a35de83090840a01ac54544" kind="function"><name>NewMethod</name></member>
+    <member refid="d0/d1b/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___b_a_d_e_l_r_e_n_d_e_r___1a271b77ef0ec85c17a7164433516e1ce0" kind="function"><name>sup_BADELRENDER_</name></member>
+    <member refid="d0/d1b/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___b_a_d_e_l_r_e_n_d_e_r___1a360ae5523a35de83090840a01ac54544" kind="function"><name>NewMethod</name></member>
+    <member refid="d0/d1b/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___b_a_d_e_l_r_e_n_d_e_r___1a271b77ef0ec85c17a7164433516e1ce0" kind="function"><name>sup_BADELRENDER_</name></member>
+    <member refid="d0/d1b/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___b_a_d_e_l_r_e_n_d_e_r___1a37cb0b9c1960ba4eb74c54a90d520a58" kind="function"><name>~sup_BADELRENDER_</name></member>
+    <member refid="d0/d1b/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___b_a_d_e_l_r_e_n_d_e_r___1a37cb0b9c1960ba4eb74c54a90d520a58" kind="function"><name>~sup_BADELRENDER_</name></member>
+  </compound>
+  <compound refid="d3/da6/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___d_e_m_o_n_s_t_r_a_t_i_v_e__" kind="class"><name>Superwikia_Documentation_Library::SWA_Apocolypia::sup_DEMONSTRATIVE_</name>
+    <member refid="d3/da6/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___d_e_m_o_n_s_t_r_a_t_i_v_e___1a9a01e081cf0a88d06470e65b99f4f778" kind="function"><name>NewMethod</name></member>
+    <member refid="d3/da6/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___d_e_m_o_n_s_t_r_a_t_i_v_e___1ac18c972a68e60b96963f7c20a5ee7764" kind="function"><name>sup_DEMONSTRATIVE_</name></member>
+    <member refid="d3/da6/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___d_e_m_o_n_s_t_r_a_t_i_v_e___1a9a01e081cf0a88d06470e65b99f4f778" kind="function"><name>NewMethod</name></member>
+    <member refid="d3/da6/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___d_e_m_o_n_s_t_r_a_t_i_v_e___1ac18c972a68e60b96963f7c20a5ee7764" kind="function"><name>sup_DEMONSTRATIVE_</name></member>
+    <member refid="d3/da6/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___d_e_m_o_n_s_t_r_a_t_i_v_e___1a88985b0c481e990b202e7d0a3fbe38f7" kind="function"><name>~sup_DEMONSTRATIVE_</name></member>
+    <member refid="d3/da6/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___d_e_m_o_n_s_t_r_a_t_i_v_e___1a88985b0c481e990b202e7d0a3fbe38f7" kind="function"><name>~sup_DEMONSTRATIVE_</name></member>
+  </compound>
+  <compound refid="d2/d6c/class_apocolypia_1_1sup___d_e_m_o_n_s_t_r_a_t_i_v_e__" kind="class"><name>Apocolypia::sup_DEMONSTRATIVE_</name>
+    <member refid="d2/d6c/class_apocolypia_1_1sup___d_e_m_o_n_s_t_r_a_t_i_v_e___1a926c963762defe5e2222868e6f6fa127" kind="function"><name>NewMethod</name></member>
+    <member refid="d2/d6c/class_apocolypia_1_1sup___d_e_m_o_n_s_t_r_a_t_i_v_e___1af75e21737374dc4ca47aefcc0de78fda" kind="function"><name>sup_DEMONSTRATIVE_</name></member>
+    <member refid="d2/d6c/class_apocolypia_1_1sup___d_e_m_o_n_s_t_r_a_t_i_v_e___1aa82eb3d8cfadc03e804d7550fb9d11bf" kind="function"><name>~sup_DEMONSTRATIVE_</name></member>
+  </compound>
+  <compound refid="db/d54/class_apocolypia_1_1sup___n_e_v_e_r__" kind="class"><name>Apocolypia::sup_NEVER_</name>
+    <member refid="db/d54/class_apocolypia_1_1sup___n_e_v_e_r___1a3da90147a9a137d91500b63c72cad43a" kind="function"><name>NewMethod</name></member>
+    <member refid="db/d54/class_apocolypia_1_1sup___n_e_v_e_r___1a4e211bdb356ff1818bdbaede262738e0" kind="function"><name>sup_NEVER_</name></member>
+    <member refid="db/d54/class_apocolypia_1_1sup___n_e_v_e_r___1ac1ab64a9b72b7c808855f7b627cb4cd2" kind="function"><name>~sup_NEVER_</name></member>
+  </compound>
+  <compound refid="d6/df8/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___n_e_v_e_r__" kind="class"><name>Superwikia_Documentation_Library::SWA_Apocolypia::sup_NEVER_</name>
+    <member refid="d6/df8/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___n_e_v_e_r___1a2d9e4012bfda449bb4a6bf090043ce39" kind="function"><name>NewMethod</name></member>
+    <member refid="d6/df8/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___n_e_v_e_r___1a3f62b51d7ff141da8648dacf619a212b" kind="function"><name>sup_NEVER_</name></member>
+    <member refid="d6/df8/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___n_e_v_e_r___1a2d9e4012bfda449bb4a6bf090043ce39" kind="function"><name>NewMethod</name></member>
+    <member refid="d6/df8/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___n_e_v_e_r___1a3f62b51d7ff141da8648dacf619a212b" kind="function"><name>sup_NEVER_</name></member>
+    <member refid="d6/df8/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___n_e_v_e_r___1ac9396972e126dd9441557eb02dcddfec" kind="function"><name>~sup_NEVER_</name></member>
+    <member refid="d6/df8/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___n_e_v_e_r___1ac9396972e126dd9441557eb02dcddfec" kind="function"><name>~sup_NEVER_</name></member>
+  </compound>
+  <compound refid="d8/d38/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___n_o_n_s_u_i_t__" kind="class"><name>Superwikia_Documentation_Library::SWA_Apocolypia::sup_NONSUIT_</name>
+    <member refid="d8/d38/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___n_o_n_s_u_i_t___1a758e5f14c79cd52d24f5de6f38845251" kind="function"><name>NewMethod</name></member>
+    <member refid="d8/d38/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___n_o_n_s_u_i_t___1a4c0584fd47c9c8dc9c58a35367e9c45d" kind="function"><name>sup_NONSUIT_</name></member>
+    <member refid="d8/d38/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___n_o_n_s_u_i_t___1a758e5f14c79cd52d24f5de6f38845251" kind="function"><name>NewMethod</name></member>
+    <member refid="d8/d38/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___n_o_n_s_u_i_t___1a4c0584fd47c9c8dc9c58a35367e9c45d" kind="function"><name>sup_NONSUIT_</name></member>
+    <member refid="d8/d38/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___n_o_n_s_u_i_t___1a903470954d22f44c0f409b705bf9a622" kind="function"><name>~sup_NONSUIT_</name></member>
+    <member refid="d8/d38/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___n_o_n_s_u_i_t___1a903470954d22f44c0f409b705bf9a622" kind="function"><name>~sup_NONSUIT_</name></member>
+  </compound>
+  <compound refid="d1/d0e/class_apocolypia_1_1sup___n_o_n_s_u_i_t__" kind="class"><name>Apocolypia::sup_NONSUIT_</name>
+    <member refid="d1/d0e/class_apocolypia_1_1sup___n_o_n_s_u_i_t___1a52ebc9d279ab8780b9fdaaef8978d7a4" kind="function"><name>NewMethod</name></member>
+    <member refid="d1/d0e/class_apocolypia_1_1sup___n_o_n_s_u_i_t___1ae5fa6aa4c0923d4614057e94e50f2270" kind="function"><name>sup_NONSUIT_</name></member>
+    <member refid="d1/d0e/class_apocolypia_1_1sup___n_o_n_s_u_i_t___1aa0b5110d673538d147ea378e08dd3ac9" kind="function"><name>~sup_NONSUIT_</name></member>
+  </compound>
+  <compound refid="d1/db3/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___o_v_e_r_h_e_a_d__" kind="class"><name>Superwikia_Documentation_Library::SWA_Apocolypia::sup_OVERHEAD_</name>
+    <member refid="d1/db3/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___o_v_e_r_h_e_a_d___1af58970700c6ae60911ff5573b05ddabf" kind="function"><name>NewMethod</name></member>
+    <member refid="d1/db3/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___o_v_e_r_h_e_a_d___1a2f8f02cbaf3b5e67f97941dde50b6134" kind="function"><name>sup_OVERHEAD_</name></member>
+    <member refid="d1/db3/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___o_v_e_r_h_e_a_d___1af58970700c6ae60911ff5573b05ddabf" kind="function"><name>NewMethod</name></member>
+    <member refid="d1/db3/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___o_v_e_r_h_e_a_d___1a2f8f02cbaf3b5e67f97941dde50b6134" kind="function"><name>sup_OVERHEAD_</name></member>
+    <member refid="d1/db3/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___o_v_e_r_h_e_a_d___1ab1a64886c8639a369b8f72f547886e1a" kind="function"><name>~sup_OVERHEAD_</name></member>
+    <member refid="d1/db3/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___o_v_e_r_h_e_a_d___1ab1a64886c8639a369b8f72f547886e1a" kind="function"><name>~sup_OVERHEAD_</name></member>
+  </compound>
+  <compound refid="dc/ddc/class_apocolypia_1_1sup___o_v_e_r_h_e_a_d__" kind="class"><name>Apocolypia::sup_OVERHEAD_</name>
+    <member refid="dc/ddc/class_apocolypia_1_1sup___o_v_e_r_h_e_a_d___1ae4f20d655aa8049bae7a69a7f8b2b7c0" kind="function"><name>NewMethod</name></member>
+    <member refid="dc/ddc/class_apocolypia_1_1sup___o_v_e_r_h_e_a_d___1ae0385d091bf395bdb2fbd4cb26c0b4a5" kind="function"><name>sup_OVERHEAD_</name></member>
+    <member refid="dc/ddc/class_apocolypia_1_1sup___o_v_e_r_h_e_a_d___1aa3b714cf5b8031b8eff186cbd4669b67" kind="function"><name>~sup_OVERHEAD_</name></member>
+  </compound>
+  <compound refid="d5/d2a/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___r_e_d_u_n_d_a_n_c_y__" kind="class"><name>Superwikia_Documentation_Library::SWA_Apocolypia::sup_REDUNDANCY_</name>
+    <member refid="d5/d2a/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___r_e_d_u_n_d_a_n_c_y___1af3d4cc37b940b9db60dd8fa769d67130" kind="function"><name>NewMethod</name></member>
+    <member refid="d5/d2a/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___r_e_d_u_n_d_a_n_c_y___1aca8518bf92ea3ba898ae52e3a9a3eea3" kind="function"><name>sup_REDUNDANCY_</name></member>
+    <member refid="d5/d2a/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___r_e_d_u_n_d_a_n_c_y___1af3d4cc37b940b9db60dd8fa769d67130" kind="function"><name>NewMethod</name></member>
+    <member refid="d5/d2a/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___r_e_d_u_n_d_a_n_c_y___1aca8518bf92ea3ba898ae52e3a9a3eea3" kind="function"><name>sup_REDUNDANCY_</name></member>
+    <member refid="d5/d2a/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___r_e_d_u_n_d_a_n_c_y___1a7c85d8920e6c792fb38aeab6a4c5cda4" kind="function"><name>~sup_REDUNDANCY_</name></member>
+    <member refid="d5/d2a/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1sup___r_e_d_u_n_d_a_n_c_y___1a7c85d8920e6c792fb38aeab6a4c5cda4" kind="function"><name>~sup_REDUNDANCY_</name></member>
+  </compound>
+  <compound refid="d1/d79/class_apocolypia_1_1sup___r_e_d_u_n_d_a_n_c_y__" kind="class"><name>Apocolypia::sup_REDUNDANCY_</name>
+    <member refid="d1/d79/class_apocolypia_1_1sup___r_e_d_u_n_d_a_n_c_y___1a5e663b35173ccf2d7d6a65b7912047bf" kind="function"><name>NewMethod</name></member>
+    <member refid="d1/d79/class_apocolypia_1_1sup___r_e_d_u_n_d_a_n_c_y___1a1ab04e76cf159a1cbad9dac504683184" kind="function"><name>sup_REDUNDANCY_</name></member>
+    <member refid="d1/d79/class_apocolypia_1_1sup___r_e_d_u_n_d_a_n_c_y___1af26adeb555eb6fbb73e49152cb97fda8" kind="function"><name>~sup_REDUNDANCY_</name></member>
+  </compound>
+  <compound refid="d4/d50/struct_assembly_1_1_superwikia___c_i_a" kind="struct"><name>Assembly::Superwikia_CIA</name>
+    <member refid="d4/d50/struct_assembly_1_1_superwikia___c_i_a_1accc4fa64453ac264e5a131f6fd71ac71" kind="event"><name>NewEvent</name></member>
+    <member refid="d4/d50/struct_assembly_1_1_superwikia___c_i_a_1af532a22ff0fb464e0bbf027873e8e635" kind="function"><name>Superwikia_CIA</name></member>
+    <member refid="d4/d50/struct_assembly_1_1_superwikia___c_i_a_1a9c9bb99de378c29703b68e12c920f2f8" kind="function"><name>NewMethod</name></member>
+  </compound>
+  <compound refid="d6/df3/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1_superwikia___c_i_a" kind="class"><name>Superwikia_Documentation_Library::SuperWikia_Content_Inventory_Assembly::Superwikia_CIA</name>
+    <member refid="d6/df3/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1_superwikia___c_i_a_1a1e3b94fd2957cefd2ab9b27d71702870" kind="event"><name>NewEvent</name></member>
+    <member refid="d6/df3/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1_superwikia___c_i_a_1af3f661022c8e17640b3d0827f0c6cc28" kind="function"><name>Superwikia_CIA</name></member>
+    <member refid="d6/df3/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1_superwikia___c_i_a_1afb3b5603314c44afd2d02e4a3ddf0861" kind="function"><name>NewMethod</name></member>
+    <member refid="d6/df3/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1_superwikia___c_i_a_1af3f661022c8e17640b3d0827f0c6cc28" kind="function"><name>Superwikia_CIA</name></member>
+    <member refid="d6/df3/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1_superwikia___c_i_a_1afb3b5603314c44afd2d02e4a3ddf0861" kind="function"><name>NewMethod</name></member>
+  </compound>
+  <compound refid="d5/d63/class_superwikia___documentation___library_1_1_transcribe___variables_1_1_superwikia___transcriber" kind="class"><name>Superwikia_Documentation_Library::Transcribe_Variables::Superwikia_Transcriber</name>
+    <member refid="d5/d63/class_superwikia___documentation___library_1_1_transcribe___variables_1_1_superwikia___transcriber_1ac187da7a903dadee2b475b61b419f188" kind="event"><name>NewEvent</name></member>
+    <member refid="d5/d63/class_superwikia___documentation___library_1_1_transcribe___variables_1_1_superwikia___transcriber_1a4e15c8fba292b074eee73fafea051a46" kind="function"><name>Superwikia_Transcriber</name></member>
+    <member refid="d5/d63/class_superwikia___documentation___library_1_1_transcribe___variables_1_1_superwikia___transcriber_1a6717095ec80f2112f2d2210d1f004c69" kind="function"><name>NewMethod</name></member>
+    <member refid="d5/d63/class_superwikia___documentation___library_1_1_transcribe___variables_1_1_superwikia___transcriber_1a4e15c8fba292b074eee73fafea051a46" kind="function"><name>Superwikia_Transcriber</name></member>
+    <member refid="d5/d63/class_superwikia___documentation___library_1_1_transcribe___variables_1_1_superwikia___transcriber_1a6717095ec80f2112f2d2210d1f004c69" kind="function"><name>NewMethod</name></member>
+  </compound>
+  <compound refid="d8/d05/struct_variables_1_1_superwikia___transcriber" kind="struct"><name>Variables::Superwikia_Transcriber</name>
+    <member refid="d8/d05/struct_variables_1_1_superwikia___transcriber_1ac5c1ac5194ea5191dd550f8fbc0e7118" kind="event"><name>NewEvent</name></member>
+    <member refid="d8/d05/struct_variables_1_1_superwikia___transcriber_1a2a20647017f3fdf5f46391b11f65c3a3" kind="function"><name>Superwikia_Transcriber</name></member>
+    <member refid="d8/d05/struct_variables_1_1_superwikia___transcriber_1a285537c15a99062c7db0569ee32ea015" kind="function"><name>NewMethod</name></member>
+  </compound>
+  <compound refid="d1/d37/struct_apocolypia_1_1_s_w_a___apocolypia" kind="struct"><name>Apocolypia::SWA_Apocolypia</name>
+    <member refid="d1/d37/struct_apocolypia_1_1_s_w_a___apocolypia_1a4465437260db49a4311a1bb39a2ed364" kind="event"><name>NewEvent</name></member>
+    <member refid="d1/d37/struct_apocolypia_1_1_s_w_a___apocolypia_1ae35725d1d05ea81b4e0d72f8def2a0da" kind="function"><name>SWA_Apocolypia</name></member>
+    <member refid="d1/d37/struct_apocolypia_1_1_s_w_a___apocolypia_1aba65cfacca4a7dd8b64c3330bd7f75e4" kind="function"><name>NewMethod</name></member>
+  </compound>
+  <compound refid="d2/d1d/class_superwikia___documentation___library_1_1_superwikia___apocolypia_1_1_s_w_a___apocolypia" kind="class"><name>Superwikia_Documentation_Library::Superwikia_Apocolypia::SWA_Apocolypia</name>
+    <member refid="d2/d1d/class_superwikia___documentation___library_1_1_superwikia___apocolypia_1_1_s_w_a___apocolypia_1acca8260e15a8c68a80ad2f2ffd0c7a78" kind="event"><name>NewEvent</name></member>
+    <member refid="d2/d1d/class_superwikia___documentation___library_1_1_superwikia___apocolypia_1_1_s_w_a___apocolypia_1af69f6bfd8268fe712f0311742c8a7258" kind="function"><name>SWA_Apocolypia</name></member>
+    <member refid="d2/d1d/class_superwikia___documentation___library_1_1_superwikia___apocolypia_1_1_s_w_a___apocolypia_1a51449a7a1e8c8687f87d803d48fb8ec1" kind="function"><name>NewMethod</name></member>
+  </compound>
+  <compound refid="d5/d77/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1_s_w_a___apocolypia" kind="class"><name>Superwikia_Documentation_Library::SWA_Apocolypia::SWA_Apocolypia</name>
+    <member refid="d5/d77/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1_s_w_a___apocolypia_1ae7894a1c9c71b36988488d61ecc89709" kind="event"><name>NewEvent</name></member>
+    <member refid="d5/d77/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1_s_w_a___apocolypia_1a08cac328099f781fa9cdfc2e4e5357a4" kind="function"><name>SWA_Apocolypia</name></member>
+    <member refid="d5/d77/class_superwikia___documentation___library_1_1_s_w_a___apocolypia_1_1_s_w_a___apocolypia_1a2935dc74eec780cfd8dfe133166da7b4" kind="function"><name>NewMethod</name></member>
+  </compound>
+  <compound refid="d4/d04/class_variables_1_1swa___assembly_vari" kind="class"><name>Variables::swa_AssemblyVari</name>
+    <member refid="d4/d04/class_variables_1_1swa___assembly_vari_1a6252c26af235c3e9fff00f952ed7956e" kind="function"><name>NewMethod</name></member>
+    <member refid="d4/d04/class_variables_1_1swa___assembly_vari_1a447f4e672ded56477b1df3f60e0593c4" kind="function"><name>swa_AssemblyVari</name></member>
+    <member refid="d4/d04/class_variables_1_1swa___assembly_vari_1aeeb1b32a953687299cd6d6af9e848ce1" kind="function"><name>~swa_AssemblyVari</name></member>
+  </compound>
+  <compound refid="de/d17/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___assembly_vari" kind="class"><name>Superwikia_Documentation_Library::Transcribe_Variables::swa_AssemblyVari</name>
+    <member refid="de/d17/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___assembly_vari_1a83034c1e19baf523fb44e62b201512d6" kind="function"><name>NewMethod</name></member>
+    <member refid="de/d17/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___assembly_vari_1adb2f2b412123b55ed1a3e27b7bb9ff0b" kind="function"><name>swa_AssemblyVari</name></member>
+    <member refid="de/d17/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___assembly_vari_1a83034c1e19baf523fb44e62b201512d6" kind="function"><name>NewMethod</name></member>
+    <member refid="de/d17/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___assembly_vari_1adb2f2b412123b55ed1a3e27b7bb9ff0b" kind="function"><name>swa_AssemblyVari</name></member>
+    <member refid="de/d17/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___assembly_vari_1a82bc762a21606cae940ecc658badd942" kind="function"><name>~swa_AssemblyVari</name></member>
+    <member refid="de/d17/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___assembly_vari_1a82bc762a21606cae940ecc658badd942" kind="function"><name>~swa_AssemblyVari</name></member>
+  </compound>
+  <compound refid="d5/d90/class_assembly_1_1swa___assets" kind="class"><name>Assembly::swa_Assets</name>
+    <member refid="d5/d90/class_assembly_1_1swa___assets_1a1216707877944b92ded707993159fec3" kind="function"><name>NewMethod</name></member>
+    <member refid="d5/d90/class_assembly_1_1swa___assets_1a33b8afb5b8f596ecc643f88a891aad83" kind="function"><name>swa_Assets</name></member>
+    <member refid="d5/d90/class_assembly_1_1swa___assets_1ae8b4d3255a239b398cbf8e0896ef0884" kind="function"><name>~swa_Assets</name></member>
+  </compound>
+  <compound refid="d6/d94/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___assets" kind="class"><name>Superwikia_Documentation_Library::SuperWikia_Content_Inventory_Assembly::swa_Assets</name>
+    <member refid="d6/d94/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___assets_1a77fac38bf7a3022aecb6511d47d4d2a0" kind="function"><name>NewMethod</name></member>
+    <member refid="d6/d94/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___assets_1a5fd27f92323afc0d135dc0b116648b48" kind="function"><name>swa_Assets</name></member>
+    <member refid="d6/d94/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___assets_1a77fac38bf7a3022aecb6511d47d4d2a0" kind="function"><name>NewMethod</name></member>
+    <member refid="d6/d94/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___assets_1a5fd27f92323afc0d135dc0b116648b48" kind="function"><name>swa_Assets</name></member>
+    <member refid="d6/d94/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___assets_1a177f267ad8a62b0ae5b7ddcd8dad4628" kind="function"><name>~swa_Assets</name></member>
+    <member refid="d6/d94/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___assets_1a177f267ad8a62b0ae5b7ddcd8dad4628" kind="function"><name>~swa_Assets</name></member>
+  </compound>
+  <compound refid="d9/d52/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___electroplate_vari" kind="class"><name>Superwikia_Documentation_Library::Transcribe_Variables::swa_ElectroplateVari</name>
+    <member refid="d9/d52/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___electroplate_vari_1ac85a007a42d92d80254fc8c58126af91" kind="function"><name>NewMethod</name></member>
+    <member refid="d9/d52/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___electroplate_vari_1a513fb0ea9a240b960ebf94d0a0c83e49" kind="function"><name>swa_ElectroplateVari</name></member>
+    <member refid="d9/d52/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___electroplate_vari_1ac85a007a42d92d80254fc8c58126af91" kind="function"><name>NewMethod</name></member>
+    <member refid="d9/d52/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___electroplate_vari_1a513fb0ea9a240b960ebf94d0a0c83e49" kind="function"><name>swa_ElectroplateVari</name></member>
+    <member refid="d9/d52/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___electroplate_vari_1aa7b23a2e592b3331c16bcba0e703c4e3" kind="function"><name>~swa_ElectroplateVari</name></member>
+    <member refid="d9/d52/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___electroplate_vari_1aa7b23a2e592b3331c16bcba0e703c4e3" kind="function"><name>~swa_ElectroplateVari</name></member>
+  </compound>
+  <compound refid="d2/d9e/class_variables_1_1swa___electroplate_vari" kind="class"><name>Variables::swa_ElectroplateVari</name>
+    <member refid="d2/d9e/class_variables_1_1swa___electroplate_vari_1a35bf277974dcb29f74e14f528e507e24" kind="function"><name>NewMethod</name></member>
+    <member refid="d2/d9e/class_variables_1_1swa___electroplate_vari_1a805b4ed502471fe5624738cb193aaef3" kind="function"><name>swa_ElectroplateVari</name></member>
+    <member refid="d2/d9e/class_variables_1_1swa___electroplate_vari_1ae9fd8c154643f6ca8d63f282d808ae8d" kind="function"><name>~swa_ElectroplateVari</name></member>
+  </compound>
+  <compound refid="d5/d44/class_assembly_1_1swa___elements" kind="class"><name>Assembly::swa_Elements</name>
+    <member refid="d5/d44/class_assembly_1_1swa___elements_1adbc9100146f719129d33d8616d8abef9" kind="function"><name>NewMethod</name></member>
+    <member refid="d5/d44/class_assembly_1_1swa___elements_1a0baae23aef95222061b74eb1e935a81f" kind="function"><name>swa_Elements</name></member>
+    <member refid="d5/d44/class_assembly_1_1swa___elements_1a5749a9d49f39e5081a93ba1771ceac27" kind="function"><name>~swa_Elements</name></member>
+  </compound>
+  <compound refid="da/d07/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___elements" kind="class"><name>Superwikia_Documentation_Library::SuperWikia_Content_Inventory_Assembly::swa_Elements</name>
+    <member refid="da/d07/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___elements_1a384e5e7db9f19b703007c0932bd9c8b2" kind="function"><name>NewMethod</name></member>
+    <member refid="da/d07/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___elements_1a73592d09d924d901ceed876683109d07" kind="function"><name>swa_Elements</name></member>
+    <member refid="da/d07/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___elements_1a384e5e7db9f19b703007c0932bd9c8b2" kind="function"><name>NewMethod</name></member>
+    <member refid="da/d07/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___elements_1a73592d09d924d901ceed876683109d07" kind="function"><name>swa_Elements</name></member>
+    <member refid="da/d07/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___elements_1ae7098d80ddbe7b6e20e046fe624f9f14" kind="function"><name>~swa_Elements</name></member>
+    <member refid="da/d07/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___elements_1ae7098d80ddbe7b6e20e046fe624f9f14" kind="function"><name>~swa_Elements</name></member>
+  </compound>
+  <compound refid="d1/dc0/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___lexicon_vari" kind="class"><name>Superwikia_Documentation_Library::Transcribe_Variables::swa_LexiconVari</name>
+    <member refid="d1/dc0/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___lexicon_vari_1aa3f8007c859456735edfad97934e3ada" kind="function"><name>NewMethod</name></member>
+    <member refid="d1/dc0/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___lexicon_vari_1a520e4dfa4232bacb22624671d8e3c43d" kind="function"><name>swa_LexiconVari</name></member>
+    <member refid="d1/dc0/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___lexicon_vari_1aa3f8007c859456735edfad97934e3ada" kind="function"><name>NewMethod</name></member>
+    <member refid="d1/dc0/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___lexicon_vari_1a520e4dfa4232bacb22624671d8e3c43d" kind="function"><name>swa_LexiconVari</name></member>
+    <member refid="d1/dc0/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___lexicon_vari_1aea5adaa2b1895dd8d40a42837ca92477" kind="function"><name>~swa_LexiconVari</name></member>
+    <member refid="d1/dc0/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___lexicon_vari_1aea5adaa2b1895dd8d40a42837ca92477" kind="function"><name>~swa_LexiconVari</name></member>
+  </compound>
+  <compound refid="d0/d3a/class_variables_1_1swa___lexicon_vari" kind="class"><name>Variables::swa_LexiconVari</name>
+    <member refid="d0/d3a/class_variables_1_1swa___lexicon_vari_1a69ce87f5e6f41f3b0db00d0726f38e9d" kind="function"><name>NewMethod</name></member>
+    <member refid="d0/d3a/class_variables_1_1swa___lexicon_vari_1a371132be7409e5edf99c67a942adf940" kind="function"><name>swa_LexiconVari</name></member>
+    <member refid="d0/d3a/class_variables_1_1swa___lexicon_vari_1ad89a6dd617e2875c1f4f4a3c065eef82" kind="function"><name>~swa_LexiconVari</name></member>
+  </compound>
+  <compound refid="dc/d5f/class_assembly_1_1swa___liabilities" kind="class"><name>Assembly::swa_Liabilities</name>
+    <member refid="dc/d5f/class_assembly_1_1swa___liabilities_1ae5b2884a2a6abf05cc70fccc6b8d73af" kind="function"><name>NewMethod</name></member>
+    <member refid="dc/d5f/class_assembly_1_1swa___liabilities_1a4dea24c5d76d7d00b88c8498b28a9bf9" kind="function"><name>swa_Liabilities</name></member>
+    <member refid="dc/d5f/class_assembly_1_1swa___liabilities_1a79e3818b96932cc238d6746616ce63b8" kind="function"><name>~swa_Liabilities</name></member>
+  </compound>
+  <compound refid="d0/d00/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___liabilities" kind="class"><name>Superwikia_Documentation_Library::SuperWikia_Content_Inventory_Assembly::swa_Liabilities</name>
+    <member refid="d0/d00/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___liabilities_1a0ceec86e5d26413317a40c95e5c015c8" kind="function"><name>NewMethod</name></member>
+    <member refid="d0/d00/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___liabilities_1a154f83154688fb7a120b18f103f7da7c" kind="function"><name>swa_Liabilities</name></member>
+    <member refid="d0/d00/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___liabilities_1a0ceec86e5d26413317a40c95e5c015c8" kind="function"><name>NewMethod</name></member>
+    <member refid="d0/d00/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___liabilities_1a154f83154688fb7a120b18f103f7da7c" kind="function"><name>swa_Liabilities</name></member>
+    <member refid="d0/d00/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___liabilities_1ac2341f1348b5f93fb51de16867f1bf82" kind="function"><name>~swa_Liabilities</name></member>
+    <member refid="d0/d00/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___liabilities_1ac2341f1348b5f93fb51de16867f1bf82" kind="function"><name>~swa_Liabilities</name></member>
+  </compound>
+  <compound refid="d7/d26/class_variables_1_1swa___platform_vari" kind="class"><name>Variables::swa_PlatformVari</name>
+    <member refid="d7/d26/class_variables_1_1swa___platform_vari_1a9e3eb268578a52d2e5daecdcacbacb31" kind="function"><name>NewMethod</name></member>
+    <member refid="d7/d26/class_variables_1_1swa___platform_vari_1a2934bb3ac14940d906b8152db9cd7e36" kind="function"><name>swa_PlatformVari</name></member>
+    <member refid="d7/d26/class_variables_1_1swa___platform_vari_1a9841a27c9485fe592ef17fbe06272fab" kind="function"><name>~swa_PlatformVari</name></member>
+  </compound>
+  <compound refid="dd/d93/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___platform_vari" kind="class"><name>Superwikia_Documentation_Library::Transcribe_Variables::swa_PlatformVari</name>
+    <member refid="dd/d93/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___platform_vari_1aa3945b32c5212e33ead8d54f921d7d6c" kind="function"><name>NewMethod</name></member>
+    <member refid="dd/d93/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___platform_vari_1a23d0785a54654aad845d7f89aa28ca31" kind="function"><name>swa_PlatformVari</name></member>
+    <member refid="dd/d93/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___platform_vari_1aa3945b32c5212e33ead8d54f921d7d6c" kind="function"><name>NewMethod</name></member>
+    <member refid="dd/d93/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___platform_vari_1a23d0785a54654aad845d7f89aa28ca31" kind="function"><name>swa_PlatformVari</name></member>
+    <member refid="dd/d93/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___platform_vari_1af1165f9dc8ed0908cadaeba0046da64b" kind="function"><name>~swa_PlatformVari</name></member>
+    <member refid="dd/d93/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___platform_vari_1af1165f9dc8ed0908cadaeba0046da64b" kind="function"><name>~swa_PlatformVari</name></member>
+  </compound>
+  <compound refid="d3/d91/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___properties" kind="class"><name>Superwikia_Documentation_Library::SuperWikia_Content_Inventory_Assembly::swa_Properties</name>
+    <member refid="d3/d91/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___properties_1a940a4994e867f6aae0be6735f50245b8" kind="function"><name>NewMethod</name></member>
+    <member refid="d3/d91/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___properties_1a3b79a904ee29901bf0377c2daf20b361" kind="function"><name>swa_Properties</name></member>
+    <member refid="d3/d91/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___properties_1a940a4994e867f6aae0be6735f50245b8" kind="function"><name>NewMethod</name></member>
+    <member refid="d3/d91/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___properties_1a3b79a904ee29901bf0377c2daf20b361" kind="function"><name>swa_Properties</name></member>
+    <member refid="d3/d91/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___properties_1aa628a0443a717d2dd429a4e825ebc5a2" kind="function"><name>~swa_Properties</name></member>
+    <member refid="d3/d91/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___properties_1aa628a0443a717d2dd429a4e825ebc5a2" kind="function"><name>~swa_Properties</name></member>
+  </compound>
+  <compound refid="d1/d31/class_assembly_1_1swa___properties" kind="class"><name>Assembly::swa_Properties</name>
+    <member refid="d1/d31/class_assembly_1_1swa___properties_1aaf242d36601383ff3a91239b3f144744" kind="function"><name>NewMethod</name></member>
+    <member refid="d1/d31/class_assembly_1_1swa___properties_1a030e92c97054e6bd3fee9dedf3b06311" kind="function"><name>swa_Properties</name></member>
+    <member refid="d1/d31/class_assembly_1_1swa___properties_1aa2c466445507bb789093afc926b3b8e6" kind="function"><name>~swa_Properties</name></member>
+  </compound>
+  <compound refid="db/d3d/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___sequence_vari" kind="class"><name>Superwikia_Documentation_Library::Transcribe_Variables::swa_SequenceVari</name>
+    <member refid="db/d3d/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___sequence_vari_1a64634372cba33ad86e21c895506ed610" kind="function"><name>NewMethod</name></member>
+    <member refid="db/d3d/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___sequence_vari_1a01bd31fea48362674a04077a9331c71c" kind="function"><name>swa_SequenceVari</name></member>
+    <member refid="db/d3d/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___sequence_vari_1a64634372cba33ad86e21c895506ed610" kind="function"><name>NewMethod</name></member>
+    <member refid="db/d3d/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___sequence_vari_1a01bd31fea48362674a04077a9331c71c" kind="function"><name>swa_SequenceVari</name></member>
+    <member refid="db/d3d/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___sequence_vari_1a162c44d0ae0678d65cc7b44bd2daa44e" kind="function"><name>~swa_SequenceVari</name></member>
+    <member refid="db/d3d/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___sequence_vari_1a162c44d0ae0678d65cc7b44bd2daa44e" kind="function"><name>~swa_SequenceVari</name></member>
+  </compound>
+  <compound refid="d9/d0a/class_variables_1_1swa___sequence_vari" kind="class"><name>Variables::swa_SequenceVari</name>
+    <member refid="d9/d0a/class_variables_1_1swa___sequence_vari_1a626600a445e63b2d4e55119feefebbfd" kind="function"><name>NewMethod</name></member>
+    <member refid="d9/d0a/class_variables_1_1swa___sequence_vari_1a41c347af84db8c0c3340a18aeda9b96e" kind="function"><name>swa_SequenceVari</name></member>
+    <member refid="d9/d0a/class_variables_1_1swa___sequence_vari_1aef2ee2ef77cc288a747a85d2984d5521" kind="function"><name>~swa_SequenceVari</name></member>
+  </compound>
+  <compound refid="d3/d6c/class_variables_1_1swa___serial_vari" kind="class"><name>Variables::swa_SerialVari</name>
+    <member refid="d3/d6c/class_variables_1_1swa___serial_vari_1a387e7c92b53a90d492bd4dd350ae2bb5" kind="function"><name>NewMethod</name></member>
+    <member refid="d3/d6c/class_variables_1_1swa___serial_vari_1a40cb32af77a2c4d9fb8a7b2f2dd60397" kind="function"><name>swa_SerialVari</name></member>
+    <member refid="d3/d6c/class_variables_1_1swa___serial_vari_1aa95a2df9bd004eb3c14d5aef1fd3097d" kind="function"><name>~swa_SerialVari</name></member>
+  </compound>
+  <compound refid="d7/d8a/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___serial_vari" kind="class"><name>Superwikia_Documentation_Library::Transcribe_Variables::swa_SerialVari</name>
+    <member refid="d7/d8a/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___serial_vari_1a7a5a50323c4a12e03bc104be2708f515" kind="function"><name>NewMethod</name></member>
+    <member refid="d7/d8a/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___serial_vari_1ac48ca73ad2c28a642b98bda8704c6951" kind="function"><name>swa_SerialVari</name></member>
+    <member refid="d7/d8a/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___serial_vari_1a7a5a50323c4a12e03bc104be2708f515" kind="function"><name>NewMethod</name></member>
+    <member refid="d7/d8a/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___serial_vari_1ac48ca73ad2c28a642b98bda8704c6951" kind="function"><name>swa_SerialVari</name></member>
+    <member refid="d7/d8a/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___serial_vari_1af7d9f9b5c615fe65a229f77076e05637" kind="function"><name>~swa_SerialVari</name></member>
+    <member refid="d7/d8a/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___serial_vari_1af7d9f9b5c615fe65a229f77076e05637" kind="function"><name>~swa_SerialVari</name></member>
+  </compound>
+  <compound refid="da/d52/class_assembly_1_1swa___s_p_a_c_e" kind="class"><name>Assembly::swa_SPACE</name>
+    <member refid="da/d52/class_assembly_1_1swa___s_p_a_c_e_1ab305bb28b6c5f07a8e2da860de9ad057" kind="function"><name>NewMethod</name></member>
+    <member refid="da/d52/class_assembly_1_1swa___s_p_a_c_e_1a29b6ab2801ab4b5a2180a1adf2de864f" kind="function"><name>swa_SPACE</name></member>
+    <member refid="da/d52/class_assembly_1_1swa___s_p_a_c_e_1a5f1ea8a58e28716a5424b8731624e6ff" kind="function"><name>~swa_SPACE</name></member>
+  </compound>
+  <compound refid="df/d3c/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___s_p_a_c_e" kind="class"><name>Superwikia_Documentation_Library::SuperWikia_Content_Inventory_Assembly::swa_SPACE</name>
+    <member refid="df/d3c/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___s_p_a_c_e_1ac737e5cd8be20cf11093a3cceae1139c" kind="function"><name>NewMethod</name></member>
+    <member refid="df/d3c/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___s_p_a_c_e_1a777316dd7e93f1ccaba9ec7c7792a75f" kind="function"><name>swa_SPACE</name></member>
+    <member refid="df/d3c/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___s_p_a_c_e_1ac737e5cd8be20cf11093a3cceae1139c" kind="function"><name>NewMethod</name></member>
+    <member refid="df/d3c/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___s_p_a_c_e_1a777316dd7e93f1ccaba9ec7c7792a75f" kind="function"><name>swa_SPACE</name></member>
+    <member refid="df/d3c/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___s_p_a_c_e_1a4aafc3e1fd092d3acd3b0b985cdae9fe" kind="function"><name>~swa_SPACE</name></member>
+    <member refid="df/d3c/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___s_p_a_c_e_1a4aafc3e1fd092d3acd3b0b985cdae9fe" kind="function"><name>~swa_SPACE</name></member>
+  </compound>
+  <compound refid="d8/dd6/class_assembly_1_1swa___statements" kind="class"><name>Assembly::swa_Statements</name>
+    <member refid="d8/dd6/class_assembly_1_1swa___statements_1acb0a0488090c281684875417e8f1a1ad" kind="function"><name>NewMethod</name></member>
+    <member refid="d8/dd6/class_assembly_1_1swa___statements_1a6682588a687a7b0528c3f501e781681a" kind="function"><name>swa_Statements</name></member>
+    <member refid="d8/dd6/class_assembly_1_1swa___statements_1a2a43fb28f2ab860ff7448f9299ec71a2" kind="function"><name>~swa_Statements</name></member>
+  </compound>
+  <compound refid="dc/dbd/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___statements" kind="class"><name>Superwikia_Documentation_Library::SuperWikia_Content_Inventory_Assembly::swa_Statements</name>
+    <member refid="dc/dbd/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___statements_1a66c3d2b91f5a4c556688b3e2c8db2584" kind="function"><name>NewMethod</name></member>
+    <member refid="dc/dbd/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___statements_1a7086be9ee3e99b03caa0380f25e7a270" kind="function"><name>swa_Statements</name></member>
+    <member refid="dc/dbd/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___statements_1a66c3d2b91f5a4c556688b3e2c8db2584" kind="function"><name>NewMethod</name></member>
+    <member refid="dc/dbd/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___statements_1a7086be9ee3e99b03caa0380f25e7a270" kind="function"><name>swa_Statements</name></member>
+    <member refid="dc/dbd/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___statements_1ae39b2787f13a14a1444e974c78c4de08" kind="function"><name>~swa_Statements</name></member>
+    <member refid="dc/dbd/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___statements_1ae39b2787f13a14a1444e974c78c4de08" kind="function"><name>~swa_Statements</name></member>
+  </compound>
+  <compound refid="d5/d1d/class_variables_1_1swa___trunk_vari" kind="class"><name>Variables::swa_TrunkVari</name>
+    <member refid="d5/d1d/class_variables_1_1swa___trunk_vari_1a4874fbe9e97281e6cc6613acd266128d" kind="function"><name>NewMethod</name></member>
+    <member refid="d5/d1d/class_variables_1_1swa___trunk_vari_1a70959405edf8c53821d241613ca7bb59" kind="function"><name>swa_TrunkVari</name></member>
+    <member refid="d5/d1d/class_variables_1_1swa___trunk_vari_1ac10a4e6e1faaf4ed236d1db79234fdc1" kind="function"><name>~swa_TrunkVari</name></member>
+  </compound>
+  <compound refid="d2/df9/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___trunk_vari" kind="class"><name>Superwikia_Documentation_Library::Transcribe_Variables::swa_TrunkVari</name>
+    <member refid="d2/df9/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___trunk_vari_1ad468fb540f8a7f05c28af53009bb570f" kind="function"><name>NewMethod</name></member>
+    <member refid="d2/df9/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___trunk_vari_1a91448cc6ddf24e5c942fe6eaaa5653e8" kind="function"><name>swa_TrunkVari</name></member>
+    <member refid="d2/df9/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___trunk_vari_1ad468fb540f8a7f05c28af53009bb570f" kind="function"><name>NewMethod</name></member>
+    <member refid="d2/df9/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___trunk_vari_1a91448cc6ddf24e5c942fe6eaaa5653e8" kind="function"><name>swa_TrunkVari</name></member>
+    <member refid="d2/df9/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___trunk_vari_1a3459c0d1a27fae372499e4951d87eb46" kind="function"><name>~swa_TrunkVari</name></member>
+    <member refid="d2/df9/class_superwikia___documentation___library_1_1_transcribe___variables_1_1swa___trunk_vari_1a3459c0d1a27fae372499e4951d87eb46" kind="function"><name>~swa_TrunkVari</name></member>
+  </compound>
+  <compound refid="dd/d56/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___trusts" kind="class"><name>Superwikia_Documentation_Library::SuperWikia_Content_Inventory_Assembly::swa_Trusts</name>
+    <member refid="dd/d56/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___trusts_1a1c72a70f31428a669cbc69ffcfdf1ee9" kind="function"><name>NewMethod</name></member>
+    <member refid="dd/d56/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___trusts_1ae5ca130621d502305e56ec8a53f1d69c" kind="function"><name>swa_Trusts</name></member>
+    <member refid="dd/d56/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___trusts_1a1c72a70f31428a669cbc69ffcfdf1ee9" kind="function"><name>NewMethod</name></member>
+    <member refid="dd/d56/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___trusts_1ae5ca130621d502305e56ec8a53f1d69c" kind="function"><name>swa_Trusts</name></member>
+    <member refid="dd/d56/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___trusts_1a777cfad14c88265dfa2b2b51fb03b23d" kind="function"><name>~swa_Trusts</name></member>
+    <member refid="dd/d56/class_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly_1_1swa___trusts_1a777cfad14c88265dfa2b2b51fb03b23d" kind="function"><name>~swa_Trusts</name></member>
+  </compound>
+  <compound refid="d5/d7c/class_assembly_1_1swa___trusts" kind="class"><name>Assembly::swa_Trusts</name>
+    <member refid="d5/d7c/class_assembly_1_1swa___trusts_1ab76b96f0376de4c2b22d8cb1cad0203c" kind="function"><name>NewMethod</name></member>
+    <member refid="d5/d7c/class_assembly_1_1swa___trusts_1aa8667ed8bc7eabf500bb013e0b1e2019" kind="function"><name>swa_Trusts</name></member>
+    <member refid="d5/d7c/class_assembly_1_1swa___trusts_1a2b3731221077da59e046406ab073bb43" kind="function"><name>~swa_Trusts</name></member>
+  </compound>
+  <compound refid="d6/d3a/namespace_apocolypia" kind="namespace"><name>Apocolypia</name>
+  </compound>
+  <compound refid="d6/d14/namespace_assembly" kind="namespace"><name>Assembly</name>
+  </compound>
+  <compound refid="dc/d5d/namespace_commands" kind="namespace"><name>Commands</name>
+  </compound>
+  <compound refid="db/d09/namespace_manual" kind="namespace"><name>Manual</name>
+  </compound>
+  <compound refid="d1/d28/namespace_s___terminal" kind="namespace"><name>S_Terminal</name>
+  </compound>
+  <compound refid="d5/d26/namespace_s___terminal_1_1_properties" kind="namespace"><name>S_Terminal::Properties</name>
+  </compound>
+  <compound refid="da/d35/namespace_shells" kind="namespace"><name>Shells</name>
+  </compound>
+  <compound refid="db/dd2/namespace_superwikia___documentation___library" kind="namespace"><name>Superwikia_Documentation_Library</name>
+  </compound>
+  <compound refid="d1/d59/namespace_superwikia___documentation___library_1_1_ancilliary___commands" kind="namespace"><name>Superwikia_Documentation_Library::Ancilliary_Commands</name>
+  </compound>
+  <compound refid="de/d76/namespace_superwikia___documentation___library_1_1_e___manual" kind="namespace"><name>Superwikia_Documentation_Library::E_Manual</name>
+  </compound>
+  <compound refid="d5/d94/namespace_superwikia___documentation___library_1_1_local___ruleset___shells" kind="namespace"><name>Superwikia_Documentation_Library::Local_Ruleset_Shells</name>
+  </compound>
+  <compound refid="d4/d3e/namespace_superwikia___documentation___library_1_1_policies___r_a_i_r" kind="namespace"><name>Superwikia_Documentation_Library::Policies_RAIR</name>
+  </compound>
+  <compound refid="d4/dc4/namespace_superwikia___documentation___library_1_1_superwikia___apocolypia" kind="namespace"><name>Superwikia_Documentation_Library::Superwikia_Apocolypia</name>
+  </compound>
+  <compound refid="d2/d37/namespace_superwikia___documentation___library_1_1_super_wikia___content___inventory___assembly" kind="namespace"><name>Superwikia_Documentation_Library::SuperWikia_Content_Inventory_Assembly</name>
+  </compound>
+  <compound refid="d0/d5a/namespace_superwikia___documentation___library_1_1_s_w_a___apocolypia" kind="namespace"><name>Superwikia_Documentation_Library::SWA_Apocolypia</name>
+  </compound>
+  <compound refid="d9/d7a/namespace_superwikia___documentation___library_1_1_transcribe___variables" kind="namespace"><name>Superwikia_Documentation_Library::Transcribe_Variables</name>
+  </compound>
+  <compound refid="d8/dd0/namespace_system" kind="namespace"><name>System</name>
+  </compound>
+  <compound refid="d5/da7/namespace_system_1_1_collections" kind="namespace"><name>System::Collections</name>
+  </compound>
+  <compound refid="d9/d1b/namespace_system_1_1_collections_1_1_generic" kind="namespace"><name>System::Collections::Generic</name>
+  </compound>
+  <compound refid="d1/d58/namespace_system_1_1_component_model" kind="namespace"><name>System::ComponentModel</name>
+  </compound>
+  <compound refid="d8/dc4/namespace_system_1_1_configuration_1_1_install" kind="namespace"><name>System::Configuration::Install</name>
+  </compound>
+  <compound refid="d5/de4/namespace_system_1_1_linq" kind="namespace"><name>System::Linq</name>
+  </compound>
+  <compound refid="d0/d9d/namespace_system_1_1_reflection" kind="namespace"><name>System::Reflection</name>
+  </compound>
+  <compound refid="d1/d9e/namespace_system_1_1_resources" kind="namespace"><name>System::Resources</name>
+  </compound>
+  <compound refid="da/d54/namespace_system_1_1_runtime_1_1_compiler_services" kind="namespace"><name>System::Runtime::CompilerServices</name>
+  </compound>
+  <compound refid="d1/dee/namespace_system_1_1_runtime_1_1_interop_services" kind="namespace"><name>System::Runtime::InteropServices</name>
+  </compound>
+  <compound refid="d8/d71/namespace_system_1_1_text" kind="namespace"><name>System::Text</name>
+  </compound>
+  <compound refid="d7/d66/namespace_system_1_1_threading_1_1_tasks" kind="namespace"><name>System::Threading::Tasks</name>
+  </compound>
+  <compound refid="d7/db9/namespace_variables" kind="namespace"><name>Variables</name>
+  </compound>
+  <compound refid="df/d75/_ancilliary_01_commands_2_ancilliary___commands_8cs" kind="file"><name>Ancilliary_Commands.cs</name>
+  </compound>
+  <compound refid="d1/df8/_backup_2_ancilliary_01_commands_2_ancilliary___commands_8cs" kind="file"><name>Ancilliary_Commands.cs</name>
+  </compound>
+  <compound refid="dc/de5/_backup_2_backup_2_ancilliary_01_commands_2_ancilliary___commands_8cs" kind="file"><name>Ancilliary_Commands.cs</name>
+  </compound>
+  <compound refid="d0/d7e/_ancilliary_01_commands_2badel___c_o_m_m_a_n_d__alpha1to_8cs" kind="file"><name>badel_COMMAND_alpha1to.cs</name>
+  </compound>
+  <compound refid="df/df2/_backup_2_ancilliary_01_commands_2badel___c_o_m_m_a_n_d__alpha1to_8cs" kind="file"><name>badel_COMMAND_alpha1to.cs</name>
+  </compound>
+  <compound refid="dc/d65/_backup_2_backup_2_ancilliary_01_commands_2badel___c_o_m_m_a_n_d__alpha1to_8cs" kind="file"><name>badel_COMMAND_alpha1to.cs</name>
+  </compound>
+  <compound refid="d7/dad/_ancilliary_01_commands_2badel___c_o_m_m_a_n_d__bail_8cs" kind="file"><name>badel_COMMAND_bail.cs</name>
+  </compound>
+  <compound refid="d0/dd9/_backup_2_ancilliary_01_commands_2badel___c_o_m_m_a_n_d__bail_8cs" kind="file"><name>badel_COMMAND_bail.cs</name>
+  </compound>
+  <compound refid="da/d05/_backup_2_backup_2_ancilliary_01_commands_2badel___c_o_m_m_a_n_d__bail_8cs" kind="file"><name>badel_COMMAND_bail.cs</name>
+  </compound>
+  <compound refid="d7/d18/_ancilliary_01_commands_2badel___c_o_m_m_a_n_d__diagnose_8cs" kind="file"><name>badel_COMMAND_diagnose.cs</name>
+  </compound>
+  <compound refid="d8/d6d/_backup_2_ancilliary_01_commands_2badel___c_o_m_m_a_n_d__diagnose_8cs" kind="file"><name>badel_COMMAND_diagnose.cs</name>
+  </compound>
+  <compound refid="de/d3e/_backup_2_backup_2_ancilliary_01_commands_2badel___c_o_m_m_a_n_d__diagnose_8cs" kind="file"><name>badel_COMMAND_diagnose.cs</name>
+  </compound>
+  <compound refid="df/ddf/_ancilliary_01_commands_2badel___c_o_m_m_a_n_d__nameuser_8cs" kind="file"><name>badel_COMMAND_nameuser.cs</name>
+  </compound>
+  <compound refid="de/d92/_backup_2_ancilliary_01_commands_2badel___c_o_m_m_a_n_d__nameuser_8cs" kind="file"><name>badel_COMMAND_nameuser.cs</name>
+  </compound>
+  <compound refid="d3/d1a/_backup_2_backup_2_ancilliary_01_commands_2badel___c_o_m_m_a_n_d__nameuser_8cs" kind="file"><name>badel_COMMAND_nameuser.cs</name>
+  </compound>
+  <compound refid="d7/da2/_ancilliary_01_commands_2badel___c_o_m_m_a_n_d__next_8cs" kind="file"><name>badel_COMMAND_next.cs</name>
+  </compound>
+  <compound refid="d3/d9d/_backup_2_ancilliary_01_commands_2badel___c_o_m_m_a_n_d__next_8cs" kind="file"><name>badel_COMMAND_next.cs</name>
+  </compound>
+  <compound refid="d2/d69/_backup_2_backup_2_ancilliary_01_commands_2badel___c_o_m_m_a_n_d__next_8cs" kind="file"><name>badel_COMMAND_next.cs</name>
+  </compound>
+  <compound refid="d4/d4c/_ancilliary_01_commands_2badel___c_o_m_m_a_n_d__overhead_8cs" kind="file"><name>badel_COMMAND_overhead.cs</name>
+  </compound>
+  <compound refid="d1/d52/_backup_2_ancilliary_01_commands_2badel___c_o_m_m_a_n_d__overhead_8cs" kind="file"><name>badel_COMMAND_overhead.cs</name>
+  </compound>
+  <compound refid="d5/d4c/_backup_2_backup_2_ancilliary_01_commands_2badel___c_o_m_m_a_n_d__overhead_8cs" kind="file"><name>badel_COMMAND_overhead.cs</name>
+  </compound>
+  <compound refid="d4/d67/_ancilliary_01_commands_2badel___c_o_m_m_a_n_d__reclassify_8cs" kind="file"><name>badel_COMMAND_reclassify.cs</name>
+  </compound>
+  <compound refid="df/d29/_backup_2_ancilliary_01_commands_2badel___c_o_m_m_a_n_d__reclassify_8cs" kind="file"><name>badel_COMMAND_reclassify.cs</name>
+  </compound>
+  <compound refid="d8/d17/_backup_2_backup_2_ancilliary_01_commands_2badel___c_o_m_m_a_n_d__reclassify_8cs" kind="file"><name>badel_COMMAND_reclassify.cs</name>
+  </compound>
+  <compound refid="dc/dfc/_backup_2_backup_2_e-_manual_2_e___manual_8cs" kind="file"><name>E_Manual.cs</name>
+  </compound>
+  <compound refid="d8/d6e/_backup_2_e-_manual_2_e___manual_8cs" kind="file"><name>E_Manual.cs</name>
+  </compound>
+  <compound refid="db/d94/_e-_manual_2_e___manual_8cs" kind="file"><name>E_Manual.cs</name>
+  </compound>
+  <compound refid="df/d0f/_backup_2_backup_2_e-_manual_2eman___a_d_m_i_n___8cs" kind="file"><name>eman_ADMIN_.cs</name>
+  </compound>
+  <compound refid="d0/dde/_backup_2_e-_manual_2eman___a_d_m_i_n___8cs" kind="file"><name>eman_ADMIN_.cs</name>
+  </compound>
+  <compound refid="d2/de7/_e-_manual_2eman___a_d_m_i_n___8cs" kind="file"><name>eman_ADMIN_.cs</name>
+  </compound>
+  <compound refid="db/dee/_backup_2_backup_2_e-_manual_2eman___e_n_v_i_r_o_n___8cs" kind="file"><name>eman_ENVIRON_.cs</name>
+  </compound>
+  <compound refid="d5/d63/_backup_2_e-_manual_2eman___e_n_v_i_r_o_n___8cs" kind="file"><name>eman_ENVIRON_.cs</name>
+  </compound>
+  <compound refid="df/d2f/_e-_manual_2eman___e_n_v_i_r_o_n___8cs" kind="file"><name>eman_ENVIRON_.cs</name>
+  </compound>
+  <compound refid="dc/daf/_backup_2_backup_2_e-_manual_2eman___l_e_s_s_o_n_s___8cs" kind="file"><name>eman_LESSONS_.cs</name>
+  </compound>
+  <compound refid="d4/d1c/_backup_2_e-_manual_2eman___l_e_s_s_o_n_s___8cs" kind="file"><name>eman_LESSONS_.cs</name>
+  </compound>
+  <compound refid="df/d11/_e-_manual_2eman___l_e_s_s_o_n_s___8cs" kind="file"><name>eman_LESSONS_.cs</name>
+  </compound>
+  <compound refid="df/dba/_backup_2_backup_2_e-_manual_2eman___p_r_o_j_e_c_t_k_b_a_s_e___8cs" kind="file"><name>eman_PROJECTKBASE_.cs</name>
+  </compound>
+  <compound refid="de/dd9/_backup_2_e-_manual_2eman___p_r_o_j_e_c_t_k_b_a_s_e___8cs" kind="file"><name>eman_PROJECTKBASE_.cs</name>
+  </compound>
+  <compound refid="df/dd7/_e-_manual_2eman___p_r_o_j_e_c_t_k_b_a_s_e___8cs" kind="file"><name>eman_PROJECTKBASE_.cs</name>
+  </compound>
+  <compound refid="d1/d63/_backup_2_backup_2_e-_manual_2eman___s_o_u_r_c_e_c_o_d_e___8cs" kind="file"><name>eman_SOURCECODE_.cs</name>
+  </compound>
+  <compound refid="df/d9c/_backup_2_e-_manual_2eman___s_o_u_r_c_e_c_o_d_e___8cs" kind="file"><name>eman_SOURCECODE_.cs</name>
+  </compound>
+  <compound refid="d0/d37/_e-_manual_2eman___s_o_u_r_c_e_c_o_d_e___8cs" kind="file"><name>eman_SOURCECODE_.cs</name>
+  </compound>
+  <compound refid="d7/da7/_backup_2_backup_2_e-_manual_2eman___s_y_s_d_i_s_c_l_o_s_e___8cs" kind="file"><name>eman_SYSDISCLOSE_.cs</name>
+  </compound>
+  <compound refid="d8/d7c/_backup_2_e-_manual_2eman___s_y_s_d_i_s_c_l_o_s_e___8cs" kind="file"><name>eman_SYSDISCLOSE_.cs</name>
+  </compound>
+  <compound refid="df/dea/_e-_manual_2eman___s_y_s_d_i_s_c_l_o_s_e___8cs" kind="file"><name>eman_SYSDISCLOSE_.cs</name>
+  </compound>
+  <compound refid="db/de6/_backup_2_backup_2_e-_manual_2eman___t_r_a_n_s_c_r_i_b_e___8cs" kind="file"><name>eman_TRANSCRIBE_.cs</name>
+  </compound>
+  <compound refid="dc/d9d/_backup_2_e-_manual_2eman___t_r_a_n_s_c_r_i_b_e___8cs" kind="file"><name>eman_TRANSCRIBE_.cs</name>
+  </compound>
+  <compound refid="de/dd2/_e-_manual_2eman___t_r_a_n_s_c_r_i_b_e___8cs" kind="file"><name>eman_TRANSCRIBE_.cs</name>
+  </compound>
+  <compound refid="dc/df8/_backup_2_backup_2_local_01_ruleset_01_shells_2local___a_n_c_i_l_l_i_a_r_y___8cs" kind="file"><name>local_ANCILLIARY_.cs</name>
+  </compound>
+  <compound refid="dc/df4/_backup_2_local_01_ruleset_01_shells_2local___a_n_c_i_l_l_i_a_r_y___8cs" kind="file"><name>local_ANCILLIARY_.cs</name>
+  </compound>
+  <compound refid="d8/d7c/_local_01_ruleset_01_shells_2local___a_n_c_i_l_l_i_a_r_y___8cs" kind="file"><name>local_ANCILLIARY_.cs</name>
+  </compound>
+  <compound refid="d1/dc6/_backup_2_backup_2_local_01_ruleset_01_shells_2local___e_n_v_i_r_o_n_m_e_n_t___8cs" kind="file"><name>local_ENVIRONMENT_.cs</name>
+  </compound>
+  <compound refid="d5/d92/_backup_2_local_01_ruleset_01_shells_2local___e_n_v_i_r_o_n_m_e_n_t___8cs" kind="file"><name>local_ENVIRONMENT_.cs</name>
+  </compound>
+  <compound refid="de/d63/_local_01_ruleset_01_shells_2local___e_n_v_i_r_o_n_m_e_n_t___8cs" kind="file"><name>local_ENVIRONMENT_.cs</name>
+  </compound>
+  <compound refid="d0/d7e/_backup_2_backup_2_local_01_ruleset_01_shells_2local___l_a_y_e_r_i_n_g___8cs" kind="file"><name>local_LAYERING_.cs</name>
+  </compound>
+  <compound refid="de/ded/_backup_2_local_01_ruleset_01_shells_2local___l_a_y_e_r_i_n_g___8cs" kind="file"><name>local_LAYERING_.cs</name>
+  </compound>
+  <compound refid="d8/d71/_local_01_ruleset_01_shells_2local___l_a_y_e_r_i_n_g___8cs" kind="file"><name>local_LAYERING_.cs</name>
+  </compound>
+  <compound refid="de/dd1/_backup_2_backup_2_local_01_ruleset_01_shells_2local___p_a_c_k_a_g_i_n_g___8cs" kind="file"><name>local_PACKAGING_.cs</name>
+  </compound>
+  <compound refid="d0/dc6/_backup_2_local_01_ruleset_01_shells_2local___p_a_c_k_a_g_i_n_g___8cs" kind="file"><name>local_PACKAGING_.cs</name>
+  </compound>
+  <compound refid="d4/d25/_local_01_ruleset_01_shells_2local___p_a_c_k_a_g_i_n_g___8cs" kind="file"><name>local_PACKAGING_.cs</name>
+  </compound>
+  <compound refid="d5/d1a/_backup_2_backup_2_local_01_ruleset_01_shells_2_local___ruleset_8cs" kind="file"><name>Local_Ruleset.cs</name>
+  </compound>
+  <compound refid="da/d04/_backup_2_local_01_ruleset_01_shells_2_local___ruleset_8cs" kind="file"><name>Local_Ruleset.cs</name>
+  </compound>
+  <compound refid="dc/d67/_local_01_ruleset_01_shells_2_local___ruleset_8cs" kind="file"><name>Local_Ruleset.cs</name>
+  </compound>
+  <compound refid="d8/dfb/_backup_2_backup_2_local_01_ruleset_01_shells_2local___s_t_a_t_i_o_n_a_r_y___8cs" kind="file"><name>local_STATIONARY_.cs</name>
+  </compound>
+  <compound refid="d8/d4a/_backup_2_local_01_ruleset_01_shells_2local___s_t_a_t_i_o_n_a_r_y___8cs" kind="file"><name>local_STATIONARY_.cs</name>
+  </compound>
+  <compound refid="d1/dcb/_local_01_ruleset_01_shells_2local___s_t_a_t_i_o_n_a_r_y___8cs" kind="file"><name>local_STATIONARY_.cs</name>
+  </compound>
+  <compound refid="dd/de4/_backup_2_backup_2_local_01_ruleset_01_shells_2local___s_u_p_e_r_c_l_u_s_t_e_r___8cs" kind="file"><name>local_SUPERCLUSTER_.cs</name>
+  </compound>
+  <compound refid="d8/d09/_backup_2_local_01_ruleset_01_shells_2local___s_u_p_e_r_c_l_u_s_t_e_r___8cs" kind="file"><name>local_SUPERCLUSTER_.cs</name>
+  </compound>
+  <compound refid="d5/dd4/_local_01_ruleset_01_shells_2local___s_u_p_e_r_c_l_u_s_t_e_r___8cs" kind="file"><name>local_SUPERCLUSTER_.cs</name>
+  </compound>
+  <compound refid="dc/d6b/_backup_2_backup_2_local_01_ruleset_01_shells_2local___t_r_a_n_s_c_o_m___8cs" kind="file"><name>local_TRANSCOM_.cs</name>
+  </compound>
+  <compound refid="d3/d6c/_backup_2_local_01_ruleset_01_shells_2local___t_r_a_n_s_c_o_m___8cs" kind="file"><name>local_TRANSCOM_.cs</name>
+  </compound>
+  <compound refid="da/dff/_local_01_ruleset_01_shells_2local___t_r_a_n_s_c_o_m___8cs" kind="file"><name>local_TRANSCOM_.cs</name>
+  </compound>
+  <compound refid="d1/de3/_backup_2_backup_2_policies_01_07_r_a_i_r_08_2_policies___r_a_i_r_8cs" kind="file"><name>Policies_RAIR.cs</name>
+    <member refid="d1/de3/_backup_2_backup_2_policies_01_07_r_a_i_r_08_2_policies___r_a_i_r_8cs_1a8eeab53f3cd937ff3b018d004348168b" kind="function"><name>Policies</name></member>
+  </compound>
+  <compound refid="dc/d88/_backup_2_policies_01_07_r_a_i_r_08_2_policies___r_a_i_r_8cs" kind="file"><name>Policies_RAIR.cs</name>
+  </compound>
+  <compound refid="d7/dbc/_policies_01_07_r_a_i_r_08_2_policies___r_a_i_r_8cs" kind="file"><name>Policies_RAIR.cs</name>
+  </compound>
+  <compound refid="d2/d2f/_backup_2_backup_2_policies_01_07_r_a_i_r_08_2policy___a_c_t_o_r__rair_8cs" kind="file"><name>policy_ACTOR_rair.cs</name>
+    <member refid="d2/d2f/_backup_2_backup_2_policies_01_07_r_a_i_r_08_2policy___a_c_t_o_r__rair_8cs_1a8eeab53f3cd937ff3b018d004348168b" kind="function"><name>Policies</name></member>
+  </compound>
+  <compound refid="d1/d66/_backup_2_policies_01_07_r_a_i_r_08_2policy___a_c_t_o_r__rair_8cs" kind="file"><name>policy_ACTOR_rair.cs</name>
+  </compound>
+  <compound refid="d5/dbc/_policies_01_07_r_a_i_r_08_2policy___a_c_t_o_r__rair_8cs" kind="file"><name>policy_ACTOR_rair.cs</name>
+  </compound>
+  <compound refid="d6/de6/_backup_2_backup_2_policies_01_07_r_a_i_r_08_2policy___b_a_c_k_u_p__rair_8cs" kind="file"><name>policy_BACKUP_rair.cs</name>
+    <member refid="d6/de6/_backup_2_backup_2_policies_01_07_r_a_i_r_08_2policy___b_a_c_k_u_p__rair_8cs_1a8eeab53f3cd937ff3b018d004348168b" kind="function"><name>Policies</name></member>
+  </compound>
+  <compound refid="d4/da1/_backup_2_policies_01_07_r_a_i_r_08_2policy___b_a_c_k_u_p__rair_8cs" kind="file"><name>policy_BACKUP_rair.cs</name>
+  </compound>
+  <compound refid="df/dd5/_policies_01_07_r_a_i_r_08_2policy___b_a_c_k_u_p__rair_8cs" kind="file"><name>policy_BACKUP_rair.cs</name>
+  </compound>
+  <compound refid="d5/da8/_backup_2_backup_2_policies_01_07_r_a_i_r_08_2policy___d_e_s_t_r_u_c_t_o_r__rair_8cs" kind="file"><name>policy_DESTRUCTOR_rair.cs</name>
+    <member refid="d5/da8/_backup_2_backup_2_policies_01_07_r_a_i_r_08_2policy___d_e_s_t_r_u_c_t_o_r__rair_8cs_1a8eeab53f3cd937ff3b018d004348168b" kind="function"><name>Policies</name></member>
+  </compound>
+  <compound refid="d0/db3/_backup_2_policies_01_07_r_a_i_r_08_2policy___d_e_s_t_r_u_c_t_o_r__rair_8cs" kind="file"><name>policy_DESTRUCTOR_rair.cs</name>
+  </compound>
+  <compound refid="d5/dcc/_policies_01_07_r_a_i_r_08_2policy___d_e_s_t_r_u_c_t_o_r__rair_8cs" kind="file"><name>policy_DESTRUCTOR_rair.cs</name>
+  </compound>
+  <compound refid="d3/de0/_backup_2_backup_2_policies_01_07_r_a_i_r_08_2policy___n_e_x_t_s_t_a_g_e__rair_8cs" kind="file"><name>policy_NEXTSTAGE_rair.cs</name>
+    <member refid="d3/de0/_backup_2_backup_2_policies_01_07_r_a_i_r_08_2policy___n_e_x_t_s_t_a_g_e__rair_8cs_1a8eeab53f3cd937ff3b018d004348168b" kind="function"><name>Policies</name></member>
+  </compound>
+  <compound refid="d0/ddf/_backup_2_policies_01_07_r_a_i_r_08_2policy___n_e_x_t_s_t_a_g_e__rair_8cs" kind="file"><name>policy_NEXTSTAGE_rair.cs</name>
+  </compound>
+  <compound refid="d4/d3a/_policies_01_07_r_a_i_r_08_2policy___n_e_x_t_s_t_a_g_e__rair_8cs" kind="file"><name>policy_NEXTSTAGE_rair.cs</name>
+  </compound>
+  <compound refid="d5/d06/_backup_2_backup_2_policies_01_07_r_a_i_r_08_2policy___n_o_r_m_a_l__rair_8cs" kind="file"><name>policy_NORMAL_rair.cs</name>
+    <member refid="d5/d06/_backup_2_backup_2_policies_01_07_r_a_i_r_08_2policy___n_o_r_m_a_l__rair_8cs_1a8eeab53f3cd937ff3b018d004348168b" kind="function"><name>Policies</name></member>
+  </compound>
+  <compound refid="d4/dc6/_backup_2_policies_01_07_r_a_i_r_08_2policy___n_o_r_m_a_l__rair_8cs" kind="file"><name>policy_NORMAL_rair.cs</name>
+  </compound>
+  <compound refid="dd/d2b/_policies_01_07_r_a_i_r_08_2policy___n_o_r_m_a_l__rair_8cs" kind="file"><name>policy_NORMAL_rair.cs</name>
+  </compound>
+  <compound refid="d2/dcd/_backup_2_backup_2_policies_01_07_r_a_i_r_08_2policy___o_c_c_u_p_i_e_r__rair_8cs" kind="file"><name>policy_OCCUPIER_rair.cs</name>
+    <member refid="d2/dcd/_backup_2_backup_2_policies_01_07_r_a_i_r_08_2policy___o_c_c_u_p_i_e_r__rair_8cs_1a8eeab53f3cd937ff3b018d004348168b" kind="function"><name>Policies</name></member>
+  </compound>
+  <compound refid="de/d14/_backup_2_policies_01_07_r_a_i_r_08_2policy___o_c_c_u_p_i_e_r__rair_8cs" kind="file"><name>policy_OCCUPIER_rair.cs</name>
+  </compound>
+  <compound refid="d7/dc7/_policies_01_07_r_a_i_r_08_2policy___o_c_c_u_p_i_e_r__rair_8cs" kind="file"><name>policy_OCCUPIER_rair.cs</name>
+  </compound>
+  <compound refid="d0/d33/_backup_2_backup_2_policies_01_07_r_a_i_r_08_2policy___r_e_a_c_t_o_r__rair_8cs" kind="file"><name>policy_REACTOR_rair.cs</name>
+    <member refid="d0/d33/_backup_2_backup_2_policies_01_07_r_a_i_r_08_2policy___r_e_a_c_t_o_r__rair_8cs_1a8eeab53f3cd937ff3b018d004348168b" kind="function"><name>Policies</name></member>
+  </compound>
+  <compound refid="d2/d1f/_backup_2_policies_01_07_r_a_i_r_08_2policy___r_e_a_c_t_o_r__rair_8cs" kind="file"><name>policy_REACTOR_rair.cs</name>
+  </compound>
+  <compound refid="d8/dbb/_policies_01_07_r_a_i_r_08_2policy___r_e_a_c_t_o_r__rair_8cs" kind="file"><name>policy_REACTOR_rair.cs</name>
+  </compound>
+  <compound refid="d8/d2e/_backup_2_backup_2_super_wikia_01_content_01_inventory_01_assembly_2_superwikia___c_i_a_8cs" kind="file"><name>Superwikia_CIA.cs</name>
+  </compound>
+  <compound refid="dc/d6a/_backup_2_super_wikia_01_content_01_inventory_01_assembly_2_superwikia___c_i_a_8cs" kind="file"><name>Superwikia_CIA.cs</name>
+  </compound>
+  <compound refid="d4/d75/_super_wikia_01_content_01_inventory_01_assembly_2_superwikia___c_i_a_8cs" kind="file"><name>Superwikia_CIA.cs</name>
+  </compound>
+  <compound refid="d1/d43/_backup_2_backup_2_super_wikia_01_content_01_inventory_01_assembly_2swa___assets_8cs" kind="file"><name>swa_Assets.cs</name>
+  </compound>
+  <compound refid="df/d4d/_backup_2_super_wikia_01_content_01_inventory_01_assembly_2swa___assets_8cs" kind="file"><name>swa_Assets.cs</name>
+  </compound>
+  <compound refid="d0/dcc/_super_wikia_01_content_01_inventory_01_assembly_2swa___assets_8cs" kind="file"><name>swa_Assets.cs</name>
+  </compound>
+  <compound refid="de/d27/_backup_2_backup_2_super_wikia_01_content_01_inventory_01_assembly_2swa___elements_8cs" kind="file"><name>swa_Elements.cs</name>
+  </compound>
+  <compound refid="d1/d7c/_backup_2_super_wikia_01_content_01_inventory_01_assembly_2swa___elements_8cs" kind="file"><name>swa_Elements.cs</name>
+  </compound>
+  <compound refid="d9/def/_super_wikia_01_content_01_inventory_01_assembly_2swa___elements_8cs" kind="file"><name>swa_Elements.cs</name>
+  </compound>
+  <compound refid="d6/d93/_backup_2_backup_2_super_wikia_01_content_01_inventory_01_assembly_2swa___liabilities_8cs" kind="file"><name>swa_Liabilities.cs</name>
+  </compound>
+  <compound refid="de/d75/_backup_2_super_wikia_01_content_01_inventory_01_assembly_2swa___liabilities_8cs" kind="file"><name>swa_Liabilities.cs</name>
+  </compound>
+  <compound refid="df/dcc/_super_wikia_01_content_01_inventory_01_assembly_2swa___liabilities_8cs" kind="file"><name>swa_Liabilities.cs</name>
+  </compound>
+  <compound refid="dd/d94/_backup_2_backup_2_super_wikia_01_content_01_inventory_01_assembly_2swa___properties_8cs" kind="file"><name>swa_Properties.cs</name>
+  </compound>
+  <compound refid="d0/d5f/_backup_2_super_wikia_01_content_01_inventory_01_assembly_2swa___properties_8cs" kind="file"><name>swa_Properties.cs</name>
+  </compound>
+  <compound refid="d0/d48/_super_wikia_01_content_01_inventory_01_assembly_2swa___properties_8cs" kind="file"><name>swa_Properties.cs</name>
+  </compound>
+  <compound refid="d3/d8e/_backup_2_backup_2_super_wikia_01_content_01_inventory_01_assembly_2swa___s_p_a_c_e_8cs" kind="file"><name>swa_SPACE.cs</name>
+  </compound>
+  <compound refid="d1/def/_backup_2_super_wikia_01_content_01_inventory_01_assembly_2swa___s_p_a_c_e_8cs" kind="file"><name>swa_SPACE.cs</name>
+  </compound>
+  <compound refid="d6/d4a/_super_wikia_01_content_01_inventory_01_assembly_2swa___s_p_a_c_e_8cs" kind="file"><name>swa_SPACE.cs</name>
+  </compound>
+  <compound refid="dd/ded/_backup_2_backup_2_super_wikia_01_content_01_inventory_01_assembly_2swa___statements_8cs" kind="file"><name>swa_Statements.cs</name>
+  </compound>
+  <compound refid="d3/d4a/_backup_2_super_wikia_01_content_01_inventory_01_assembly_2swa___statements_8cs" kind="file"><name>swa_Statements.cs</name>
+  </compound>
+  <compound refid="dd/d76/_super_wikia_01_content_01_inventory_01_assembly_2swa___statements_8cs" kind="file"><name>swa_Statements.cs</name>
+  </compound>
+  <compound refid="d5/d68/_backup_2_backup_2_super_wikia_01_content_01_inventory_01_assembly_2swa___trusts_8cs" kind="file"><name>swa_Trusts.cs</name>
+  </compound>
+  <compound refid="de/d4c/_backup_2_super_wikia_01_content_01_inventory_01_assembly_2swa___trusts_8cs" kind="file"><name>swa_Trusts.cs</name>
+  </compound>
+  <compound refid="df/da6/_super_wikia_01_content_01_inventory_01_assembly_2swa___trusts_8cs" kind="file"><name>swa_Trusts.cs</name>
+  </compound>
+  <compound refid="d3/dd3/_backup_2_backup_2_s_w_a_01_apocolypia_2sup___a_r_g_u_m_e_n_t___8cs" kind="file"><name>sup_ARGUMENT_.cs</name>
+  </compound>
+  <compound refid="d2/d84/_backup_2_s_w_a_01_apocolypia_2sup___a_r_g_u_m_e_n_t___8cs" kind="file"><name>sup_ARGUMENT_.cs</name>
+  </compound>
+  <compound refid="da/dc7/_s_w_a_01_apocolypia_2sup___a_r_g_u_m_e_n_t___8cs" kind="file"><name>sup_ARGUMENT_.cs</name>
+  </compound>
+  <compound refid="d3/dc5/_backup_2_backup_2_s_w_a_01_apocolypia_2sup___b_a_d_e_l_r_e_n_d_e_r___8cs" kind="file"><name>sup_BADELRENDER_.cs</name>
+  </compound>
+  <compound refid="d1/ddd/_backup_2_s_w_a_01_apocolypia_2sup___b_a_d_e_l_r_e_n_d_e_r___8cs" kind="file"><name>sup_BADELRENDER_.cs</name>
+  </compound>
+  <compound refid="d1/df9/_s_w_a_01_apocolypia_2sup___b_a_d_e_l_r_e_n_d_e_r___8cs" kind="file"><name>sup_BADELRENDER_.cs</name>
+  </compound>
+  <compound refid="d3/d37/_backup_2_backup_2_s_w_a_01_apocolypia_2sup___d_e_m_o_n_s_t_r_a_t_i_v_e___8cs" kind="file"><name>sup_DEMONSTRATIVE_.cs</name>
+  </compound>
+  <compound refid="d4/db5/_backup_2_s_w_a_01_apocolypia_2sup___d_e_m_o_n_s_t_r_a_t_i_v_e___8cs" kind="file"><name>sup_DEMONSTRATIVE_.cs</name>
+  </compound>
+  <compound refid="d6/d00/_s_w_a_01_apocolypia_2sup___d_e_m_o_n_s_t_r_a_t_i_v_e___8cs" kind="file"><name>sup_DEMONSTRATIVE_.cs</name>
+  </compound>
+  <compound refid="dc/d2c/_backup_2_backup_2_s_w_a_01_apocolypia_2sup___n_e_v_e_r___8cs" kind="file"><name>sup_NEVER_.cs</name>
+  </compound>
+  <compound refid="d6/d2f/_backup_2_s_w_a_01_apocolypia_2sup___n_e_v_e_r___8cs" kind="file"><name>sup_NEVER_.cs</name>
+  </compound>
+  <compound refid="d3/d12/_s_w_a_01_apocolypia_2sup___n_e_v_e_r___8cs" kind="file"><name>sup_NEVER_.cs</name>
+  </compound>
+  <compound refid="d9/d72/_backup_2_backup_2_s_w_a_01_apocolypia_2sup___n_o_n_s_u_i_t___8cs" kind="file"><name>sup_NONSUIT_.cs</name>
+  </compound>
+  <compound refid="df/da7/_backup_2_s_w_a_01_apocolypia_2sup___n_o_n_s_u_i_t___8cs" kind="file"><name>sup_NONSUIT_.cs</name>
+  </compound>
+  <compound refid="df/d45/_s_w_a_01_apocolypia_2sup___n_o_n_s_u_i_t___8cs" kind="file"><name>sup_NONSUIT_.cs</name>
+  </compound>
+  <compound refid="d7/d93/_backup_2_backup_2_s_w_a_01_apocolypia_2sup___o_v_e_r_h_e_a_d___8cs" kind="file"><name>sup_OVERHEAD_.cs</name>
+  </compound>
+  <compound refid="d1/dd4/_backup_2_s_w_a_01_apocolypia_2sup___o_v_e_r_h_e_a_d___8cs" kind="file"><name>sup_OVERHEAD_.cs</name>
+  </compound>
+  <compound refid="d1/d36/_s_w_a_01_apocolypia_2sup___o_v_e_r_h_e_a_d___8cs" kind="file"><name>sup_OVERHEAD_.cs</name>
+  </compound>
+  <compound refid="d9/d6a/_backup_2_backup_2_s_w_a_01_apocolypia_2sup___r_e_d_u_n_d_a_n_c_y___8cs" kind="file"><name>sup_REDUNDANCY_.cs</name>
+  </compound>
+  <compound refid="db/d5e/_backup_2_s_w_a_01_apocolypia_2sup___r_e_d_u_n_d_a_n_c_y___8cs" kind="file"><name>sup_REDUNDANCY_.cs</name>
+  </compound>
+  <compound refid="d1/d4e/_s_w_a_01_apocolypia_2sup___r_e_d_u_n_d_a_n_c_y___8cs" kind="file"><name>sup_REDUNDANCY_.cs</name>
+  </compound>
+  <compound refid="dc/d51/_backup_2_backup_2_s_w_a_01_apocolypia_2_s_w_a___apocolypia_8cs" kind="file"><name>SWA_Apocolypia.cs</name>
+  </compound>
+  <compound refid="de/d2b/_backup_2_s_w_a_01_apocolypia_2_s_w_a___apocolypia_8cs" kind="file"><name>SWA_Apocolypia.cs</name>
+  </compound>
+  <compound refid="d3/de1/_s_w_a_01_apocolypia_2_s_w_a___apocolypia_8cs" kind="file"><name>SWA_Apocolypia.cs</name>
+  </compound>
+  <compound refid="dd/d9b/_backup_2_backup_2_transcribe_01_variables_2_superwikia___transcriber_8cs" kind="file"><name>Superwikia_Transcriber.cs</name>
+  </compound>
+  <compound refid="d4/d1b/_backup_2_transcribe_01_variables_2_superwikia___transcriber_8cs" kind="file"><name>Superwikia_Transcriber.cs</name>
+  </compound>
+  <compound refid="df/db4/_transcribe_01_variables_2_superwikia___transcriber_8cs" kind="file"><name>Superwikia_Transcriber.cs</name>
+  </compound>
+  <compound refid="dc/d16/_backup_2_backup_2_transcribe_01_variables_2swa___assembly_vari_8cs" kind="file"><name>swa_AssemblyVari.cs</name>
+  </compound>
+  <compound refid="dd/d7c/_backup_2_transcribe_01_variables_2swa___assembly_vari_8cs" kind="file"><name>swa_AssemblyVari.cs</name>
+  </compound>
+  <compound refid="dc/d73/_transcribe_01_variables_2swa___assembly_vari_8cs" kind="file"><name>swa_AssemblyVari.cs</name>
+  </compound>
+  <compound refid="d2/de8/_backup_2_backup_2_transcribe_01_variables_2swa___electroplate_vari_8cs" kind="file"><name>swa_ElectroplateVari.cs</name>
+  </compound>
+  <compound refid="d5/de7/_backup_2_transcribe_01_variables_2swa___electroplate_vari_8cs" kind="file"><name>swa_ElectroplateVari.cs</name>
+  </compound>
+  <compound refid="da/d9e/_transcribe_01_variables_2swa___electroplate_vari_8cs" kind="file"><name>swa_ElectroplateVari.cs</name>
+  </compound>
+  <compound refid="db/d7b/_backup_2_backup_2_transcribe_01_variables_2swa___lexicon_vari_8cs" kind="file"><name>swa_LexiconVari.cs</name>
+  </compound>
+  <compound refid="d0/d61/_backup_2_transcribe_01_variables_2swa___lexicon_vari_8cs" kind="file"><name>swa_LexiconVari.cs</name>
+  </compound>
+  <compound refid="d0/dea/_transcribe_01_variables_2swa___lexicon_vari_8cs" kind="file"><name>swa_LexiconVari.cs</name>
+  </compound>
+  <compound refid="df/dbf/_backup_2_backup_2_transcribe_01_variables_2swa___platform_vari_8cs" kind="file"><name>swa_PlatformVari.cs</name>
+  </compound>
+  <compound refid="dc/d15/_backup_2_transcribe_01_variables_2swa___platform_vari_8cs" kind="file"><name>swa_PlatformVari.cs</name>
+  </compound>
+  <compound refid="d2/d9d/_transcribe_01_variables_2swa___platform_vari_8cs" kind="file"><name>swa_PlatformVari.cs</name>
+  </compound>
+  <compound refid="d6/d01/_backup_2_backup_2_transcribe_01_variables_2swa___sequence_vari_8cs" kind="file"><name>swa_SequenceVari.cs</name>
+  </compound>
+  <compound refid="d6/d5f/_backup_2_transcribe_01_variables_2swa___sequence_vari_8cs" kind="file"><name>swa_SequenceVari.cs</name>
+  </compound>
+  <compound refid="d7/d7a/_transcribe_01_variables_2swa___sequence_vari_8cs" kind="file"><name>swa_SequenceVari.cs</name>
+  </compound>
+  <compound refid="d4/d4a/_backup_2_backup_2_transcribe_01_variables_2swa___serial_vari_8cs" kind="file"><name>swa_SerialVari.cs</name>
+  </compound>
+  <compound refid="d3/d92/_backup_2_transcribe_01_variables_2swa___serial_vari_8cs" kind="file"><name>swa_SerialVari.cs</name>
+  </compound>
+  <compound refid="de/de7/_transcribe_01_variables_2swa___serial_vari_8cs" kind="file"><name>swa_SerialVari.cs</name>
+  </compound>
+  <compound refid="d4/d1d/_backup_2_backup_2_transcribe_01_variables_2swa___trunk_vari_8cs" kind="file"><name>swa_TrunkVari.cs</name>
+  </compound>
+  <compound refid="dd/d58/_backup_2_transcribe_01_variables_2swa___trunk_vari_8cs" kind="file"><name>swa_TrunkVari.cs</name>
+  </compound>
+  <compound refid="d1/d1e/_transcribe_01_variables_2swa___trunk_vari_8cs" kind="file"><name>swa_TrunkVari.cs</name>
+  </compound>
+  <compound refid="dd/d79/_l_i_c_e_n_s_e_8md" kind="file"><name>LICENSE.md</name>
+  </compound>
+  <compound refid="df/ddd/_s-_terminal_2packages_2_per_byte_8_vsix_8_core_80_80_82_2_r_e_a_d_m_e_8md" kind="file"><name>README.md</name>
+  </compound>
+  <compound refid="dd/d45/_superwikia___documentation___library_2_r_e_a_d_m_e_8md" kind="file"><name>README.md</name>
+  </compound>
+  <compound refid="d4/d93/_release_notes_8md" kind="file"><name>ReleaseNotes.md</name>
+  </compound>
+  <compound refid="d4/d5a/_installer1_8cs" kind="file"><name>Installer1.cs</name>
+  </compound>
+  <compound refid="d8/deb/_installer1_8_designer_8cs" kind="file"><name>Installer1.Designer.cs</name>
+  </compound>
+  <compound refid="d4/d7a/_debug_2_temporary_generated_file__036_c0_b5_b-1481-4323-8_d20-8_f5_a_d_c_b23_d92_8cs" kind="file"><name>TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs</name>
+  </compound>
+  <compound refid="d9/d6a/_release_2_temporary_generated_file__036_c0_b5_b-1481-4323-8_d20-8_f5_a_d_c_b23_d92_8cs" kind="file"><name>TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs</name>
+  </compound>
+  <compound refid="d8/d18/_debug_2_temporary_generated_file__5937a670-0e60-4077-877b-f7221da3dda1_8cs" kind="file"><name>TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs</name>
+  </compound>
+  <compound refid="d8/d6f/_release_2_temporary_generated_file__5937a670-0e60-4077-877b-f7221da3dda1_8cs" kind="file"><name>TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs</name>
+  </compound>
+  <compound refid="d8/dc2/_debug_2_temporary_generated_file___e7_a71_f73-0_f8_d-4_b9_b-_b56_e-8_e70_b10_b_c5_d3_8cs" kind="file"><name>TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs</name>
+  </compound>
+  <compound refid="d5/d5e/_release_2_temporary_generated_file___e7_a71_f73-0_f8_d-4_b9_b-_b56_e-8_e70_b10_b_c5_d3_8cs" kind="file"><name>TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs</name>
+  </compound>
+  <compound refid="dd/d5c/_program_8cs" kind="file"><name>Program.cs</name>
+  </compound>
+  <compound refid="d7/d2f/_assembly_info_8cs" kind="file"><name>AssemblyInfo.cs</name>
+  </compound>
+  <compound refid="d6/d0e/_resources_8_designer_8cs" kind="file"><name>Resources.Designer.cs</name>
+  </compound>
+  <compound refid="d1/d1c/_settings_8_designer_8cs" kind="file"><name>Settings.Designer.cs</name>
+  </compound>
+  <compound refid="de/d22/md__c_1__users__stacy__staples__documents__git_hub__superwikia-_alpha-_codebase__superwikia-_docb53dc9ff4f52331a3abb7d5960433ec5" kind="page"><name>md_C:_Users_Stacy_Staples_Documents_GitHub_Superwikia-Alpha-Codebase_Superwikia-Documentation-Library_Superwikia_Documentation_Library_S-Terminal_packages_PerByte.Vsix.Core.0.0.2_LICENSE</name>
+  </compound>
+  <compound refid="dc/dff/md__c_1__users__stacy__staples__documents__git_hub__superwikia-_alpha-_codebase__superwikia-_doc524ffebee77013a7c052e8d2fb0f4ac5" kind="page"><name>md_C:_Users_Stacy_Staples_Documents_GitHub_Superwikia-Alpha-Codebase_Superwikia-Documentation-Library_Superwikia_Documentation_Library_S-Terminal_packages_PerByte.Vsix.Core.0.0.2_README</name>
+  </compound>
+  <compound refid="d4/deb/md__c_1__users__stacy__staples__documents__git_hub__superwikia-_alpha-_codebase__superwikia-_doc9bf66b55928cdc0114819f6df53937b2" kind="page"><name>md_C:_Users_Stacy_Staples_Documents_GitHub_Superwikia-Alpha-Codebase_Superwikia-Documentation-Library_Superwikia_Documentation_Library_S-Terminal_packages_PerByte.Vsix.Core.0.0.2_ReleaseNotes</name>
+  </compound>
+  <compound refid="da/db1/md__c_1__users__stacy__staples__documents__git_hub__superwikia-_alpha-_codebase__superwikia-_doc9210198d3b229ea5c31a8566a6a99e35" kind="page"><name>md_C:_Users_Stacy_Staples_Documents_GitHub_Superwikia-Alpha-Codebase_Superwikia-Documentation-Library_Superwikia_Documentation_Library_Superwikia_Documentation_Library_README</name>
+  </compound>
+  <compound refid="dir_ecc546855ab91c3607d48c29c5987614" kind="dir"><name>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Ancilliary Commands</name>
+  </compound>
+  <compound refid="dir_78734f90f0a6b7fa29d1e5d4fc1222df" kind="dir"><name>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Ancilliary Commands</name>
+  </compound>
+  <compound refid="dir_9a88e6c6e511321b4b7e3c897a626bee" kind="dir"><name>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Ancilliary Commands</name>
+  </compound>
+  <compound refid="dir_a63709fc6b70a829731e67ac604269a8" kind="dir"><name>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup</name>
+  </compound>
+  <compound refid="dir_a293c9c8837fea4337482e8519904ba6" kind="dir"><name>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup</name>
+  </compound>
+  <compound refid="dir_dde201e99dc06d3a390f3b67c3eb4002" kind="dir"><name>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/S-Terminal/S-Terminal/obj/Debug</name>
+  </compound>
+  <compound refid="dir_4a46222882ee1b51a3f0f8e3fc2c6668" kind="dir"><name>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/E-Manual</name>
+  </compound>
+  <compound refid="dir_748eb535dc43920e7aeaecf1100c2e1e" kind="dir"><name>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/E-Manual</name>
+  </compound>
+  <compound refid="dir_1bf1ea05e7ed0213ce9aaeedf53b5b71" kind="dir"><name>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/E-Manual</name>
+  </compound>
+  <compound refid="dir_64a6e7f12c5b9cbbac9bc94a01a5e391" kind="dir"><name>C:/Users/Stacy_Staples/Documents/GitHub</name>
+  </compound>
+  <compound refid="dir_b32f644a543378665666c679bc81c323" kind="dir"><name>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Local Ruleset Shells</name>
+  </compound>
+  <compound refid="dir_5ab98dec25e23d24ee1856f2f4660607" kind="dir"><name>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Local Ruleset Shells</name>
+  </compound>
+  <compound refid="dir_765cf5d183ea7eab9464b40632be7016" kind="dir"><name>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Local Ruleset Shells</name>
+  </compound>
+  <compound refid="dir_05a57bb97cf12075561ef238cd3d39fd" kind="dir"><name>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/S-Terminal/S-Terminal/obj</name>
+  </compound>
+  <compound refid="dir_14f26d0973abaf881036b0b3c02ce968" kind="dir"><name>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Policies (RAIR)</name>
+  </compound>
+  <compound refid="dir_401523cc11330d87c9bee5111f14fc87" kind="dir"><name>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Policies (RAIR)</name>
+  </compound>
+  <compound refid="dir_67ddb403a9068c2c11ef736e4cad5531" kind="dir"><name>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Policies (RAIR)</name>
+  </compound>
+  <compound refid="dir_110b6d5112ce700ac2f62ed2d2bdb34f" kind="dir"><name>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/S-Terminal/S-Terminal/Properties</name>
+  </compound>
+  <compound refid="dir_61f9d5063a7f378a9947a751505ac169" kind="dir"><name>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/S-Terminal/S-Terminal/obj/Release</name>
+  </compound>
+  <compound refid="dir_3950fc17c8ac0cbe80bd42f84bea7d9a" kind="dir"><name>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/S-Terminal/S-Terminal</name>
+  </compound>
+  <compound refid="dir_466c712a54d00c9cae4ee01a0f883a50" kind="dir"><name>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/S-Terminal</name>
+  </compound>
+  <compound refid="dir_bf743eca39512d2c620107df767b5f55" kind="dir"><name>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/SuperWikia Content Inventory Assembly</name>
+  </compound>
+  <compound refid="dir_2434d75d4fef34ff73cfdf545b4780dd" kind="dir"><name>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/SuperWikia Content Inventory Assembly</name>
+  </compound>
+  <compound refid="dir_39a565d4c09fe3981a38ed7ecbd31dc8" kind="dir"><name>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SuperWikia Content Inventory Assembly</name>
+  </compound>
+  <compound refid="dir_112d5142b4f05e8052401605fb977884" kind="dir"><name>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library</name>
+  </compound>
+  <compound refid="dir_abb85f728e7f8f1d0a345892cc77a7bd" kind="dir"><name>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase</name>
+  </compound>
+  <compound refid="dir_7439a56fb14a77c8004dc3ef7118cf6a" kind="dir"><name>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library</name>
+  </compound>
+  <compound refid="dir_6606e53335aeb63217baa939e0cc2b18" kind="dir"><name>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/SWA Apocolypia</name>
+  </compound>
+  <compound refid="dir_0215d00092580a48c0a3d4ac39cc372e" kind="dir"><name>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/SWA Apocolypia</name>
+  </compound>
+  <compound refid="dir_3138b5f9c937ac27c2e2656acf6a68a4" kind="dir"><name>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/SWA Apocolypia</name>
+  </compound>
+  <compound refid="dir_b749df33a0d73f075b41378e17b2fe66" kind="dir"><name>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Transcribe Variables</name>
+  </compound>
+  <compound refid="dir_8b26535e95e8c390afe217a7d0303bdf" kind="dir"><name>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Transcribe Variables</name>
+  </compound>
+  <compound refid="dir_2f8596a7e65fc0e101f3f7d1ca80c805" kind="dir"><name>C:/Users/Stacy_Staples/Documents/GitHub/Superwikia-Alpha-Codebase/Superwikia-Documentation-Library/Superwikia Documentation Library/Backup/Backup/Transcribe Variables</name>
+  </compound>
+</doxygenindex>
